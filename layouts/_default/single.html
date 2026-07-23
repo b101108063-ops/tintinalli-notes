@@ -90,18 +90,24 @@
     .post-content ul { list-style-type: disc; padding-left: 1.5rem; margin-bottom: 1.2rem; }
     .post-content li { margin-bottom: 0.5rem; line-height: 1.6; }
 
-    /* 📱 手機響應式表格優化：自動支援左右滑動，防止畫面撐破 */
-    .post-content table { 
-        display: block;
+    /* 🛡️ 新增：用來包裝 Table 的響應式外框 */
+    .table-wrapper {
         width: 100%;
         overflow-x: auto;
         -webkit-overflow-scrolling: touch;
-        border-collapse: collapse; 
-        margin: 1.8rem 0; 
-        font-size: 0.95rem; 
+        margin: 1.8rem 0;
         background-color: #242526; 
         border-radius: 8px; 
         border: 1px solid #38393a; 
+    }
+
+    /* 恢復 Table 原本的排版特性，讓欄位能自動撐滿！ */
+    .post-content table { 
+        display: table;
+        width: 100%;
+        border-collapse: collapse; 
+        margin: 0; /* 外距交給 wrapper 控制 */
+        font-size: 0.95rem; 
     }
     
     .post-content th, .post-content td { 
@@ -109,7 +115,7 @@
         text-align: left; 
         border-bottom: 1px solid #38393a; 
         color: #e5e7eb; 
-        white-space: nowrap; /* 防止手機上文字過度擠壓換行 */
+        min-width: 100px; /* 確保欄位在手機上不會過度擠壓 */
     }
     
     .post-content th { background-color: #2a2b2c; color: #3a86ff; font-weight: bold; }
@@ -147,6 +153,16 @@
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
+    
+    // ✨ 新增魔法：自動幫所有表格加上滑動外框，完美解決跑版問題！
+    document.querySelectorAll('.post-content table').forEach(function(table) {
+        var wrapper = document.createElement('div');
+        wrapper.className = 'table-wrapper';
+        table.parentNode.insertBefore(wrapper, table);
+        wrapper.appendChild(table);
+    });
+
+    // 智慧比對：移除內文重複打架的標題
     var contentHeadings = document.querySelectorAll('.post-content h1, .post-content h2');
     if (contentHeadings.length > 0) {
         var firstHeading = contentHeadings[0];
@@ -156,6 +172,7 @@ document.addEventListener("DOMContentLoaded", function() {
         }
     }
 
+    // Huppert 文獻優化
     document.querySelectorAll('.post-content li, .post-content p').forEach(function(el) {
         var html = el.innerHTML;
         if (html.includes("Huppert") && html.includes("Chapter")) {
