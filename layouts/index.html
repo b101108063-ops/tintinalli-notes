@@ -3,108 +3,45 @@
     <h1>📚 醫療筆記書櫃</h1>
 </header>
 
-<!-- 第一本書：Tintinalli's Emergency Medicine, 8th Edition -->
-<div class="book-section">
-    <h2 class="book-title">Tintinalli's Emergency Medicine, 8th Edition</h2>
-    <div class="button-grid">
-        {{ $tintinalli := site.GetPage "tintinalli" }}
-
-        {{ if $tintinalli }}
-            {{ $sortedPages := sort $tintinalli.Pages "File.LogicalName" }}
-
-            {{ range $sortedPages }}
-                <a href="{{ .Permalink }}" class="menu-button">
-                    {{ with .Params.title_tc }}
-                        {{ . }}
-                    {{ else }}
-                        {{ .Title | default .File.TranslationBaseName }}
-                    {{ end }}
-                </a>
+<div class="bookshelf-container">
+    
+    <!-- 第一本書卡片：Tintinalli -->
+    <div class="book-card">
+        <h2 class="book-card-title">Tintinalli's Emergency Medicine, 8th Edition</h2>
+        <div class="book-card-actions">
+            {{ $tintinalli := site.GetPage "tintinalli" }}
+            {{ if $tintinalli }}
+                <a href="{{ $tintinalli.Permalink }}" class="book-action-btn primary">📖 Tintinalli 選單</a>
             {{ end }}
-        {{ else }}
-            <p style="color: red;">狀態：找不到名為 tintinalli 的目錄。</p>
-        {{ end }}
+            
+            <a href="{{ "search/" | absURL }}" class="book-action-btn secondary">🔍 筆記搜尋</a>
+        </div>
     </div>
-</div>
 
-<!-- 第二本書預留區（等你建立好第二本書的內容資料夾後，把下面這段的 "book2" 換成你的資料夾名稱即可） -->
-<div class="book-section" style="margin-top: 3rem;">
-    <h2 class="book-title">第二本書書名（請替換）</h2>
-    <div class="button-grid">
-        {{ $book2 := site.GetPage "book2" }}
-
-        {{ if $book2 }}
-            {{ $sortedPages2 := sort $book2.Pages "File.LogicalName" }}
-
-            {{ range $sortedPages2 }}
-                <a href="{{ .Permalink }}" class="menu-button">
-                    {{ with .Params.title_tc }}
-                        {{ . }}
-                    {{ else }}
-                        {{ .Title | default .File.TranslationBaseName }}
-                    {{ end }}
-                </a>
+    <!-- 第二本書卡片：Huppert -->
+    <div class="book-card" style="margin-top: 2rem;">
+        <h2 class="book-card-title">Huppert's Notes: Pathophysiology and Clinical Pearls for Internal Medicine</h2>
+        <div class="book-card-actions">
+            {{ $huppert := site.GetPage "huppert" }}
+            {{ if $huppert }}
+                <a href="{{ $huppert.Permalink }}" class="book-action-btn primary">📖 Huppert 選單</a>
             {{ end }}
-        {{ else }}
-            <p style="color: #888; font-size: 0.9rem;">（尚無內容，準備好後建立對應資料夾即可顯示方塊）</p>
-        {{ end }}
+            
+            <a href="{{ "search/" | absURL }}" class="book-action-btn secondary">🔍 筆記搜尋</a>
+        </div>
     </div>
+
 </div>
 
 <style>
-    /* 書本標題樣式 */
-    .book-title {
-        font-size: 1.4rem;
-        font-weight: bold;
-        color: #3a86ff;
-        border-bottom: 2px solid #38393a;
-        padding-bottom: 0.5rem;
-        margin-bottom: 1rem;
-    }
-
-    /* 網格方塊佈局：一行四個 */
-    .button-grid {
-        display: grid !important;
-        grid-template-columns: repeat(4, 1fr) !important;
-        gap: 15px !important;
-    }
-    
-    @media (max-width: 1024px) {
-        .button-grid {
-            grid-template-columns: repeat(2, 1fr) !important;
-        }
-    }
-    @media (max-width: 600px) {
-        .button-grid {
-            grid-template-columns: 1fr !important;
-        }
-    }
-
-    /* 深色質感按鈕樣式 */
-    .menu-button {
-        display: flex !important;
-        align-items: center !important;
-        justify-content: center !important;
-        padding: 1.2rem 1rem !important;
-        background-color: #242526 !important;
-        color: #e5e7eb !important;
-        text-decoration: none !important;
-        border-radius: 8px !important;
-        font-size: 1rem !important;
-        font-weight: bold !important;
-        border: 1px solid #38393a !important;
-        box-shadow: 0 2px 5px rgba(0,0,0,0.2) !important;
-        text-align: center !important;
-        box-sizing: border-box !important;
-        transition: all 0.2s ease-in-out;
-    }
-    
-    .menu-button:hover {
-        background-color: #3a86ff !important;
-        color: #ffffff !important;
-        border-color: #3a86ff !important;
-        transform: translateY(-3px);
-        box-shadow: 0 4px 8px rgba(0,0,0,0.3);
-    }
+    .bookshelf-container { max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1.5rem; }
+    .book-card { background-color: #1e1f20; border: 1px solid #38393a; border-radius: 10px; padding: 1.8rem; display: flex; flex-direction: column; gap: 1.2rem; }
+    .book-card-title { font-size: 1.25rem; font-weight: bold; color: #3a86ff; margin: 0; line-height: 1.4; }
+    .book-card-actions { display: flex; gap: 12px; }
+    .book-action-btn { flex: 1; display: flex; align-items: center; justify-content: center; padding: 0.9rem 1.2rem; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 1rem; transition: all 0.2s ease-in-out; box-sizing: border-box; }
+    .book-action-btn.primary { background-color: #3a86ff; color: #ffffff; border: 1px solid #3a86ff; }
+    .book-action-btn.primary:hover { background-color: #2563eb; transform: translateY(-2px); }
+    .book-action-btn.secondary { background-color: #242526; color: #3a86ff; border: 1px solid #38393a; }
+    .book-action-btn.secondary:hover { background-color: #3a86ff; color: #ffffff; border-color: #3a86ff; transform: translateY(-2px); }
 </style>
 {{ end }}

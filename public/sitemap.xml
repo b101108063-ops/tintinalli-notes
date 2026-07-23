@@ -2,66 +2,232 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/</loc>
   </url><url>
-    <loc>http://localhost:1313/tintinalli/section_01_prehospital_care_%E6%95%B4%E7%90%86/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/tintinalli/section_01_prehospital_care_%E6%95%B4%E7%90%86/</loc>
   </url><url>
-    <loc>http://localhost:1313/tintinalli/section_02_disaster_%E6%95%B4%E7%90%86/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/tintinalli/section_02_disaster_%E6%95%B4%E7%90%86/</loc>
   </url><url>
-    <loc>http://localhost:1313/tintinalli/section_03_resuscitation_%E6%95%B4%E7%90%86/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/tintinalli/section_03_resuscitation_%E6%95%B4%E7%90%86/</loc>
   </url><url>
-    <loc>http://localhost:1313/tintinalli/section_04_resuscitative_procedures_%E6%95%B4%E7%90%86/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/tintinalli/section_04_resuscitative_procedures_%E6%95%B4%E7%90%86/</loc>
   </url><url>
-    <loc>http://localhost:1313/tintinalli/section_05_analgesia_%E6%95%B4%E7%90%86/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/tintinalli/section_05_analgesia_%E6%95%B4%E7%90%86/</loc>
   </url><url>
-    <loc>http://localhost:1313/tintinalli/section_06_wound_%E6%95%B4%E7%90%86/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/tintinalli/section_06_wound_%E6%95%B4%E7%90%86/</loc>
   </url><url>
-    <loc>http://localhost:1313/tintinalli/section_07_cardiovascular_%E6%95%B4%E7%90%86/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/tintinalli/section_07_cardiovascular_%E6%95%B4%E7%90%86/</loc>
   </url><url>
-    <loc>http://localhost:1313/tintinalli/section_08_pulmonary_%E6%95%B4%E7%90%86/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/tintinalli/section_08_pulmonary_%E6%95%B4%E7%90%86/</loc>
   </url><url>
-    <loc>http://localhost:1313/tintinalli/section_09_gastrointestinal_%E6%95%B4%E7%90%86/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/tintinalli/section_09_gastrointestinal_%E6%95%B4%E7%90%86/</loc>
   </url><url>
-    <loc>http://localhost:1313/tintinalli/section_10_%E8%85%8E%E8%87%9F%E8%88%87%E6%B3%8C%E5%B0%BF%E7%B3%BB%E7%B5%B1%E7%96%BE%E7%97%85_%E6%95%B4%E7%90%86/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/tintinalli/section_10_%E8%85%8E%E8%87%9F%E8%88%87%E6%B3%8C%E5%B0%BF%E7%B3%BB%E7%B5%B1%E7%96%BE%E7%97%85_%E6%95%B4%E7%90%86/</loc>
   </url><url>
-    <loc>http://localhost:1313/tintinalli/section_11_%E5%A9%A6%E7%94%A2%E7%A7%91_%E6%95%B4%E7%90%86/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/tintinalli/section_11_%E5%A9%A6%E7%94%A2%E7%A7%91_%E6%95%B4%E7%90%86/</loc>
   </url><url>
-    <loc>http://localhost:1313/tintinalli/section_12_%E5%85%92%E7%A7%91_%E6%95%B4%E7%90%86/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/tintinalli/section_12_%E5%85%92%E7%A7%91_%E6%95%B4%E7%90%86/</loc>
   </url><url>
-    <loc>http://localhost:1313/tintinalli/section_13_%E5%82%B3%E6%9F%93%E7%97%85_%E6%95%B4%E7%90%86/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/tintinalli/section_13_%E5%82%B3%E6%9F%93%E7%97%85_%E6%95%B4%E7%90%86/</loc>
   </url><url>
-    <loc>http://localhost:1313/tintinalli/section_14_%E7%A5%9E%E7%B6%93%E7%A7%91_%E6%95%B4%E7%90%86/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/tintinalli/section_14_%E7%A5%9E%E7%B6%93%E7%A7%91_%E6%95%B4%E7%90%86/</loc>
   </url><url>
-    <loc>http://localhost:1313/tintinalli/section_15_%E4%B8%AD%E6%AF%92%E5%AD%B8_%E6%95%B4%E7%90%86/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/tintinalli/section_15_%E4%B8%AD%E6%AF%92%E5%AD%B8_%E6%95%B4%E7%90%86/</loc>
   </url><url>
-    <loc>http://localhost:1313/tintinalli/section_16_%E7%92%B0%E5%A2%83%E5%82%B7%E5%AE%B3_%E6%95%B4%E7%90%86/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/tintinalli/section_16_%E7%92%B0%E5%A2%83%E5%82%B7%E5%AE%B3_%E6%95%B4%E7%90%86/</loc>
   </url><url>
-    <loc>http://localhost:1313/tintinalli/section_17_%E5%85%A7%E5%88%86%E6%B3%8C%E7%96%BE%E7%97%85_%E6%95%B4%E7%90%86/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/tintinalli/section_17_%E5%85%A7%E5%88%86%E6%B3%8C%E7%96%BE%E7%97%85_%E6%95%B4%E7%90%86/</loc>
   </url><url>
-    <loc>http://localhost:1313/tintinalli/section_18_%E8%A1%80%E6%B6%B2%E8%88%87%E8%85%AB%E7%98%A4%E7%96%BE%E7%97%85_%E6%95%B4%E7%90%86/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/tintinalli/section_18_%E8%A1%80%E6%B6%B2%E8%88%87%E8%85%AB%E7%98%A4%E7%96%BE%E7%97%85_%E6%95%B4%E7%90%86/</loc>
   </url><url>
-    <loc>http://localhost:1313/tintinalli/section_19_eent_%E6%95%B4%E7%90%86/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/tintinalli/section_19_eent_%E6%95%B4%E7%90%86/</loc>
   </url><url>
-    <loc>http://localhost:1313/tintinalli/section_20_dermatology_%E6%95%B4%E7%90%86/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/tintinalli/section_20_dermatology_%E6%95%B4%E7%90%86/</loc>
   </url><url>
-    <loc>http://localhost:1313/tintinalli/section_21_trauma_%E6%95%B4%E7%90%86/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/tintinalli/section_21_trauma_%E6%95%B4%E7%90%86/</loc>
   </url><url>
-    <loc>http://localhost:1313/tintinalli/section_22_bones_joints_%E6%95%B4%E7%90%86/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/tintinalli/section_22_bones_joints_%E6%95%B4%E7%90%86/</loc>
   </url><url>
-    <loc>http://localhost:1313/tintinalli/section_23_musculoskeletal_%E6%95%B4%E7%90%86/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/tintinalli/section_23_musculoskeletal_%E6%95%B4%E7%90%86/</loc>
   </url><url>
-    <loc>http://localhost:1313/tintinalli/section_24_psychosocial_%E6%95%B4%E7%90%86/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/tintinalli/section_24_psychosocial_%E6%95%B4%E7%90%86/</loc>
   </url><url>
-    <loc>http://localhost:1313/tintinalli/section_25_abuse_%E6%95%B4%E7%90%86/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/tintinalli/section_25_abuse_%E6%95%B4%E7%90%86/</loc>
   </url><url>
-    <loc>http://localhost:1313/tintinalli/section_26_special_%E6%95%B4%E7%90%86/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/tintinalli/section_26_special_%E6%95%B4%E7%90%86/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/appendix/app04_abbreviations/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part1/ch01-01_cardiology_anatomy_and_physiology/</loc>
   </url><url>
-    <loc>http://localhost:1313/tintinalli/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part11/ch11-01_dermatology_anatomy_and_physiology/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part12/ch12-01_neurology_anatomy_and_physiology/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part13/ch13-01_psychiatry_anatomy_and_physiology/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part2/ch02-01_pulmonology_anatomy_and_physiology/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part4/ch04-01_gastroenterology_anatomy_and_physiology/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part5/ch05-01_endocrinology_anatomy_and_physiology/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part6/ch06-01_nephrology_anatomy_and_physiology/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part9/ch09-01_rheumatology_anatomy_and_physiology/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part3/ch03-02_critical_care_medicine_anatomy_physiology_diagnostics/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part1/ch01-03_cardiology_approaches/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part11/ch11-03_dermatology_approaches/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part12/ch12-03_neurology_approaches/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part13/ch13-03_psychiatry_approaches/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part2/ch02-03_pulmonology_approaches/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part3/ch03-03_critical_care_medicine_approaches/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part4/ch04-03_gastroenterology_approaches/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part6/ch06-03_nephrology_approaches/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part8/ch08-02_infectious_diseases_approaches/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part9/ch09-03_rheumatology_approaches/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/appendix/app02_biostatistics/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/appendix/app03_bonus_material/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part1/ch01-06_cardiology_clinical_trials/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part10/ch10-05_general_medicine_clinical_trials/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part12/ch12-06_neurology_clinical_trials/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part13/ch13-06_psychiatry_clinical_trials/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part2/ch02-06_pulmonology_clinical_trials/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part3/ch03-06_critical_care_medicine_clinical_trials/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part4/ch04-06_gastroenterology_clinical_trials/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part5/ch05-03_endocrinology_clinical_trials/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part6/ch06-06_nephrology_clinical_trials/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part8/ch08-05_infectious_diseases_clinical_trials/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part9/ch09-06_rheumatology_clinical_trials/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part3/ch03-04_critical_care_medicine_common_complications/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part1/ch01-02_cardiology_diagnostics/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part11/ch11-02_dermatology_diagnostics/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part12/ch12-02_neurology_diagnostics/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part13/ch13-02_psychiatry_diagnostics/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part2/ch02-02_pulmonology_diagnostics/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part4/ch04-02_gastroenterology_diagnostics/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part6/ch06-02_nephrology_diagnostics/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part9/ch09-02_rheumatology_diagnostics/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part1/ch01-04_cardiology_diseases/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part10/ch10-03_general_medicine_diseases/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part11/ch11-04_dermatology_diseases/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part12/ch12-04_neurology_diseases/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part13/ch13-04_psychiatry_diseases/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part2/ch02-04_pulmonology_diseases/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part4/ch04-04_gastroenterology_diseases/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part6/ch06-04_nephrology_diseases/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part8/ch08-03_infectious_diseases_diseases/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part9/ch09-04_rheumatology_diseases/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part7/ch07-01_hematology_and_oncology_hematology_anatomy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part7/ch07-03_hematology_and_oncology_hematology_approaches/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part7/ch07-07_hematology_and_oncology_hematology_clinical_trials/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part7/ch07-02_hematology_and_oncology_hematology_diagnostics/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part7/ch07-06_hematology_and_oncology_hematology_medications/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part10/ch10-01_general_medicine_introduction/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part3/ch03-01_critical_care_medicine_introduction/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part7/ch07-05_hematology_and_oncology_malignant_hematology/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part1/ch01-05_cardiology_medications/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part12/ch12-05_neurology_medications/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part13/ch13-05_psychiatry_medications/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part2/ch02-05_pulmonology_medications/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part3/ch03-05_critical_care_medicine_medications/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part4/ch04-05_gastroenterology_medications/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part6/ch06-05_nephrology_medications/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part8/ch08-04_infectious_diseases_medications/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part9/ch09-05_rheumatology_medications/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part8/ch08-01_infectious_diseases_microbiology/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part7/ch07-04_hematology_and_oncology_non-malignant_hematology/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part7/ch07-08_hematology_and_oncology_oncology_anatomy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part7/ch07-10_hematology_and_oncology_oncology_approaches/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part7/ch07-13_hematology_and_oncology_oncology_clinical_trials/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part7/ch07-09_hematology_and_oncology_oncology_diagnostics/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part7/ch07-11_hematology_and_oncology_oncology_diseases/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part7/ch07-12_hematology_and_oncology_oncology_medications/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/appendix/app01_practical_skills/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part5/ch05-02_endocrinology_reproductive_endocrinology/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part10/ch10-02_general_medicine_symptoms/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/tintinalli/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/huppert/part10/ch10-04_general_medicine_treatments/</loc>
+  </url><url>
+    <loc>http://localhost:1313/b101108063-ops/tintinalli-notes/search/</loc>
   </url>
 </urlset>

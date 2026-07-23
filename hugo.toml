@@ -16,21 +16,28 @@ title = true
 # weight 數字越小，排越前面 (越左邊)
 # ==========================================
 
-[[menu.main]]
+[menu]
+  [[menu.main]]
     identifier = "home"
-    name = "🏠 首頁"
+    name = "首頁"
     url = "/"
+    weight = 5
+
+  [[menu.main]]
+    identifier = "tintinalli"
+    name = "Tintinalli 選單"
+    url = "/tintinalli/"
     weight = 10
 
-[[menu.main]]
-    identifier = "tintinalli"
-    name = "📚 Tintinalli 選單"
-    url = "/tintinalli/"
+  [[menu.main]]
+    identifier = "huppert"
+    name = "Huppert 選單"
+    url = "/huppert/"
     weight = 20
 
-[[menu.main]]
+  [[menu.main]]
     identifier = "search"
-    name = "🔍 搜尋"
+    name = "搜尋"
     url = "/search/"
     weight = 30
 

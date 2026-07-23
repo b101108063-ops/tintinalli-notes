@@ -1,0 +1,143 @@
+{{ define "main" }}
+<header class="page-header" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
+    <h1>
+        {{ if in .RelPermalink "huppert" }}
+            Huppert's Notes 章節清單
+        {{ else }}
+            {{ if in .RelPermalink "tintinalli" }}
+                Tintinalli's Emergency Medicine 章節清單
+            {{ else }}
+                {{ .Title }}
+            {{ end }}
+        {{ end }}
+    </h1>
+    
+    <a href="{{ "search/" | absURL }}" class="book-search-btn">🔍 筆記搜尋</a>
+</header>
+
+{{ if in .RelPermalink "huppert" }}
+    <!-- Huppert 專屬：照不同系統分類群組顯示 -->
+    <div class="chapters-wrapper" style="margin-top: 2rem;">
+        {{- $parts := slice "part1" "part2" "part3" "part4" "part5" "part6" "part7" "part8" "part9" "part10" "part11" "part12" "part13" "appendix" -}}
+        {{- $partNames := slice "Part 1: Cardiology" "Part 2: Pulmonology" "Part 3: Critical Care Medicine" "Part 4: Gastroenterology" "Part 5: Endocrinology" "Part 6: Nephrology" "Part 7: Hematology and Oncology" "Part 8: Infectious Diseases" "Part 9: Rheumatology" "Part 10: General Medicine" "Part 11: Dermatology" "Part 12: Neurology" "Part 13: Psychiatry" "Appendices & Abbreviations" -}}
+
+        {{- range $index, $pKey := $parts -}}
+            {{- $titleStr := index $partNames $index -}}
+            {{- $matchedPages := where site.RegularPages "Section" "huppert" -}}
+            
+            {{- $hasAny := false -}}
+            {{- range $matchedPages -}}
+                {{- $currentDir := .File.Dir -}}
+                {{- if and (or (eq $currentDir (printf "huppert/%s/" $pKey)) (eq $currentDir (printf "huppert/%s\\" $pKey)) (in $currentDir (printf "/%s/" $pKey)) (in $currentDir (printf "\\%s\\" $pKey))) (ne .Layout "search") -}}
+                    {{- $hasAny = true -}}
+                {{- end -}}
+            {{- end -}}
+
+            {{- if $hasAny -}}
+                <div class="part-section" style="margin-bottom: 2rem;">
+                    <h3 class="part-category-title">{{ $titleStr }}</h3>
+                    <div class="list-container" style="margin-top: 0.8rem !important;">
+                        {{- range sort $matchedPages "File.LogicalName" -}}
+                            {{- $currentDir := .File.Dir -}}
+                            {{- if and (or (eq $currentDir (printf "huppert/%s/" $pKey)) (eq $currentDir (printf "huppert/%s\\" $pKey)) (in $currentDir (printf "/%s/" $pKey)) (in $currentDir (printf "\\%s\\" $pKey))) (ne .Layout "search") -}}
+                                <a href="{{ .Permalink }}" class="list-item">
+                                    <span class="section-title">📖 {{ .Title }}</span>
+                                    <span class="arrow">➔</span>
+                                </a>
+                            {{- end -}}
+                        {{- end -}}
+                    </div>
+                </div>
+            {{- end -}}
+        {{- end -}}
+    </div>
+
+{{ else }}
+    <!-- Tintinalli 或其他一般清單保持原本的條列樣式 -->
+    <div class="list-container">
+        {{ $sortedPages := sort .Pages "File.LogicalName" }}
+        {{ range $sortedPages }}
+            {{ $pageTitle := "" }}
+            {{ if .Params.title_tc }}
+                {{ $pageTitle = .Params.title_tc }}
+            {{ else }}
+                {{ $pageTitle = .Title }}
+            {{ end }}
+            
+            {{ if and (ne .Layout "search") (not (in $pageTitle "搜尋")) }}
+                <a href="{{ .Permalink }}" class="list-item">
+                    <span class="section-title">📖 {{ $pageTitle }}</span>
+                    <span class="arrow">➔</span>
+                </a>
+            {{ end }}
+        {{ end }}
+    </div>
+{{ end }}
+
+<style>
+    .book-search-btn {
+        background-color: #3a86ff;
+        color: white;
+        padding: 0.6rem 1.2rem;
+        border-radius: 6px;
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 0.95rem;
+        transition: background 0.2s;
+    }
+    .book-search-btn:hover {
+        background-color: #2563eb;
+    }
+
+    .chapters-wrapper {
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .part-category-title {
+        font-size: 1.15rem;
+        color: #3a86ff;
+        border-left: 4px solid #3a86ff;
+        padding-left: 0.6rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .list-container {
+        display: flex !important;
+        flex-direction: column !important;
+        gap: 10px !important;
+        margin-top: 2rem !important;
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .list-item {
+        display: flex !important;
+        align-items: center !important;
+        justify-content: space-between !important;
+        padding: 1rem 1.5rem !important;
+        background-color: #242526 !important;
+        color: #e5e7eb !important;
+        text-decoration: none !important;
+        border-radius: 8px !important;
+        border: 1px solid #38393a !important;
+        font-size: 1.05rem !important;
+        font-weight: 500 !important;
+        box-sizing: border-box !important;
+        transition: all 0.2s ease-in-out;
+    }
+    
+    .list-item:hover {
+        background-color: #2a2b2c !important;
+        border-color: #3a86ff !important;
+        transform: translateX(4px);
+    }
+
+    .arrow {
+        color: #3a86ff;
+        font-weight: bold;
+    }
+</style>
+{{ end }}
