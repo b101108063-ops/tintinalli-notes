@@ -1,0 +1,62 @@
+{{ define "main" }}
+<header class="page-header">
+    <h1>Tintinalli 章節清單</h1>
+</header>
+
+<div class="list-container">
+    {{ $tintinalli := site.GetPage "tintinalli" }}
+    {{ if $tintinalli }}
+        {{ $sortedPages := sort $tintinalli.Pages "File.LogicalName" }}
+
+        {{ range $sortedPages }}
+            <a href="{{ .Permalink }}" class="list-item">
+                <span class="section-title">
+                    📖 {{ with .Params.title_tc }}{{ . }}{{ else }}{{ .Title | default .File.TranslationBaseName }}{{ end }}
+                </span>
+                <span class="arrow">➔</span>
+            </a>
+        {{ end }}
+    {{ end }}
+</div>
+
+<style>
+    .list-container {
+        display: flex !important;
+        flex-direction: column !important;
+        gap: 12px !important;
+        margin-top: 2rem !important;
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    /* 強制設定為深色條狀清單 */
+    .list-item {
+        display: flex !important;
+        align-items: center !important;
+        justify-content: space-between !important;
+        padding: 1rem 1.5rem !important;
+        background-color: #242526 !important;
+        color: #e5e7eb !important;
+        text-decoration: none !important;
+        border-radius: 8px !important;
+        border: 1px solid #38393a !important;
+        font-size: 1.1rem !important;
+        font-weight: 500 !important;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.2) !important;
+        transition: all 0.2s ease-in-out;
+        box-sizing: border-box !important;
+    }
+    
+    .list-item:hover {
+        background-color: #2a2b2c !important;
+        border-color: #3a86ff !important;
+        transform: translateX(4px);
+    }
+
+    .arrow {
+        color: #3a86ff;
+        font-weight: bold;
+    }
+</style>
+{{ end }}

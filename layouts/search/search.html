@@ -1,0 +1,111 @@
+{{ define "main" }}
+<header class="page-header">
+    <h1>🔍 筆記搜尋</h1>
+</header>
+
+<div class="search-container">
+    <input type="text" id="search-input" placeholder="請輸入關鍵字（例如：Hydroxocobalamin、院前救護...）" autocomplete="off">
+    
+    <div id="search-database" style="display: none;">
+        {{- range site.RegularPages -}}
+            <div data-title="{{ with .Params.title_tc }}{{ . }}{{ else }}{{ .Title | default .File.TranslationBaseName }}{{ end }}" 
+                 data-permalink="{{ .Permalink }}"
+                 data-content="{{ .Plain | htmlUnescape }}"></div>
+        {{- end -}}
+    </div>
+
+    <div id="search-results" class="search-results-grid"></div>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    const searchInput = document.getElementById("search-input");
+    const searchResults = document.getElementById("search-results");
+    const dbElements = document.querySelectorAll("#search-database div");
+
+    const searchData = Array.from(dbElements).map(el => ({
+        title: el.getAttribute("data-title"),
+        permalink: el.getAttribute("data-permalink"),
+        content: el.getAttribute("data-content").toLowerCase()
+    }));
+
+    if (!searchInput) return;
+
+    searchInput.addEventListener("input", function (e) {
+        const query = e.target.value.toLowerCase().trim();
+        searchResults.innerHTML = "";
+
+        if (query === "") return;
+
+        const matches = searchData.filter(item => 
+            item.title.toLowerCase().includes(query) || 
+            item.content.includes(query)
+        );
+
+        if (matches.length === 0) {
+            searchResults.innerHTML = '<p style="color: #999; text-align: center; margin-top: 2rem;">找不到相關筆記</p>';
+            return;
+        }
+
+        matches.forEach(item => {
+            const a = document.createElement("a");
+            a.href = item.permalink;
+            a.className = "search-result-item";
+            a.innerHTML = "📖 " + item.title;
+            searchResults.appendChild(a);
+        });
+    });
+});
+</script>
+
+<style>
+    .search-container { 
+        max-width: 800px; 
+        margin: 2rem auto; 
+        padding: 0 1rem; 
+    }
+    
+    /* 強制設定為深色輸入框 */
+    #search-input { 
+        width: 100%; 
+        padding: 1rem 1.2rem; 
+        font-size: 1.1rem; 
+        border: 2px solid #38393a !important; 
+        border-radius: 8px; 
+        box-sizing: border-box; 
+        outline: none; 
+        background-color: #242526 !important; 
+        color: #e5e7eb !important; 
+        transition: border-color 0.2s; 
+    }
+    #search-input:focus { 
+        border-color: #3a86ff !important; 
+    }
+    
+    .search-results-grid { 
+        display: flex; 
+        flex-direction: column; 
+        gap: 10px; 
+        margin-top: 1.5rem; 
+    }
+    
+    /* 強制設定為深色搜尋結果卡片 */
+    .search-result-item { 
+        display: block; 
+        padding: 1rem 1.2rem; 
+        background-color: #242526 !important; 
+        color: #3a86ff !important; 
+        text-decoration: none; 
+        border-radius: 6px; 
+        font-weight: bold; 
+        font-size: 1.05rem; 
+        border: 1px solid #38393a !important; 
+        transition: all 0.2s; 
+    }
+    .search-result-item:hover { 
+        background-color: #3a86ff !important; 
+        color: #ffffff !important; 
+        transform: translateX(4px); 
+    }
+</style>
+{{ end }}

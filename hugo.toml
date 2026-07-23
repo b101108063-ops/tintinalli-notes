@@ -1,0 +1,52 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+theme = 'PaperMod'
+
+[frontmatter]
+# 當 Markdown 沒有設定 date 時，預設使用檔案最後修改時間
+date = ["date", "publishDate", "lastmod"]
+
+# 強制將檔名作為標題 (例如 file-name.md 會顯示為 File Name)
+[markup.goldmark.parser.attribute]
+title = true
+# 設定網站左上角顯示的主標題
+
+# ==========================================
+# 頁首導覽列選單設定 (Menu)
+# weight 數字越小，排越前面 (越左邊)
+# ==========================================
+
+[[menu.main]]
+    identifier = "home"
+    name = "🏠 首頁"
+    url = "/"
+    weight = 10
+
+[[menu.main]]
+    identifier = "tintinalli"
+    name = "📚 Tintinalli 選單"
+    url = "/tintinalli/"
+    weight = 20
+
+[[menu.main]]
+    identifier = "search"
+    name = "🔍 搜尋"
+    url = "/search/"
+    weight = 30
+
+# 如果你未來有其他分類 (例如筆記)，可以照樣照句加上去
+# [[menu.main]]
+#     identifier = "notes"
+#     name = "📝 其他筆記"
+#     url = "/posts/"
+#     weight = 30
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# 讓 PaperMod 的內建搜尋能正確抓取標題與內容
+[outputFormats.JSON]
+  mediatype = "application/json"
+  baseName = "index"
+  isPlainText = true
+   riqueza = true
