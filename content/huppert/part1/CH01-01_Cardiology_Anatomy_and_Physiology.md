@@ -9,80 +9,176 @@ title: "Anatomy and Physiology"
 
 ## 1. Cardiac Electrophysiology & Action Potential
 
-- **Conduction System**: Sinoatrial (SA) node (1° pacemaker) $\rightarrow$ Atrioventricular (AV) node (stalls conduction; can also act as a backup pacemaker with rate of **40–60 bpm**) $\rightarrow$ Bundle of His $\rightarrow$ Right/left bundle $\rightarrow$ Purkinje fibers $\rightarrow$ Ventricle.
-- **Pacemaker Cells (SA/AV node)**: Automatically create electrical impulses that trigger myocyte cells.
-  - Initiated by a slow inward $\text{Ca}^{2+}$ current.
-  - Maximum diastolic potential (resting membrane potential equivalent): $\sim \text{-55 mV}$.
-- **Myocyte Cells**: Triggered by a fast inward $\text{Na}^{+}$ current.
-  - Resting membrane potential: $\text{-90 mV}$, determined by $\text{K}^{+}$ conductance and equilibrium potential.
+### Conduction System
+
+The cardiac conduction system coordinates electrical impulse propagation through the heart, ensuring efficient contraction. The normal sequence of electrical activation is as follows:
+
+- Sinoatrial (SA) node acts as the primary pacemaker.
+- Impulse travels to the Atrioventricular (AV) node, which temporarily stalls conduction and can serve as a backup pacemaker with a rate of 40–60 bpm.
+- The impulse continues through the Bundle of His.
+- It divides into the right and left bundle branches.
+- Purkinje fibers distribute the impulse throughout the ventricles.
+
+### Pacemaker Cells (SA and AV Nodes)
+
+Pacemaker cells automatically generate electrical impulses that trigger adjacent myocyte cells. The key features of pacemaker cells are:
+
+- Electrical impulse initiation is driven by a slow inward calcium ($\text{Ca}^{2+}$) current.
+- The maximum diastolic potential (equivalent to the resting membrane potential) is approximately $-55$ mV.
+
+### Myocyte Cells
+
+Myocyte cells are triggered by a fast inward sodium ($\text{Na}^{+}$) current. The resting membrane potential is $-90$ mV, which is determined by potassium ($\text{K}^{+}$) conductance and the equilibrium potential.
 
 ---
 
 ## 2. Clinical Hemodynamic Calculations
 
-| Category | Parameter / Formula | Normal Value |
-| :--- | :--- | :--- |
-| **Volume** | $\text{SV} = \text{EDV} - \text{ESV}$ <br> $\text{SV} = \text{CO} / \text{HR}$ <br> $\text{EF} = \text{SV} / \text{EDV} = (\text{EDV} - \text{ESV}) / \text{EDV}$ | **55–70%** |
-| **Pressure** | $\text{MAP} = (\text{SBP} + [2 \times \text{DBP}]) / 3$ <br> $\text{mPAP} = (\text{PASP} + [2 \times \text{PADP}]) / 3$ | **65–100 mmHg** (MAP) <br> **$< 20\text{ mmHg}$** (mPAP) |
-| **Resistance** | $\text{SVR} = (\text{MAP} - \text{RAP}) \times 80 / \text{CO}$ <br> $\text{PVR} = (\text{mPAP} - \text{PCWP}) / \text{CO}$ | **800–1200 dynes $\cdot$ $\text{cm}^{-5}$** (SVR) <br> **$< 3$ Wood units** (PVR) |
-| **Flow** | $\text{CO} = \text{HR} \times \text{SV}$ <br> $\text{CI} = \text{CO} / \text{BSA}$ | **4–8 L/min** (CO) <br> **2.4–4 L/min/m²** (CI) |
+Hemodynamic calculations are fundamental for assessing cardiac function in clinical practice.
 
-- *Fick Principle for CO*: $\text{CO} = \text{VO}_2 / (\text{CaO}_2 - \text{Cv}_2)$
+### Volume Parameters
+
+| Parameter | Formula | Normal Value |
+| :--- | :--- | :--- |
+| Stroke Volume (SV) | $\text{SV} = \text{EDV} - \text{ESV}$ | — |
+| Stroke Volume (SV) | $\text{SV} = \text{CO} / \text{HR}$ | — |
+| Ejection Fraction (EF) | $\text{EF} = \text{SV} / \text{EDV} = (\text{EDV} - \text{ESV}) / \text{EDV}$ | **55–70%** |
+
+### Pressure Parameters
+
+| Parameter | Formula | Normal Value |
+| :--- | :--- | :--- |
+| Mean Arterial Pressure (MAP) | $\text{MAP} = (\text{SBP} + [2 \times \text{DBP}]) / 3$ | **65–100 mmHg** |
+| Mean Pulmonary Artery Pressure (mPAP) | $\text{mPAP} = (\text{PASP} + [2 \times \text{PADP}]) / 3$ | **$< 20$ mmHg** |
+
+### Resistance Parameters
+
+| Parameter | Formula | Normal Value |
+| :--- | :--- | :--- |
+| Systemic Vascular Resistance (SVR) | $\text{SVR} = (\text{MAP} - \text{RAP}) \times 80 / \text{CO}$ | **800–1200 dynes $\cdot$ $\text{cm}^{-5}$** |
+| Pulmonary Vascular Resistance (PVR) | $\text{PVR} = (\text{mPAP} - \text{PCWP}) / \text{CO}$ | **$< 3$ Wood units** |
+
+### Flow Parameters
+
+| Parameter | Formula | Normal Value |
+| :--- | :--- | :--- |
+| Cardiac Output (CO) | $\text{CO} = \text{HR} \times \text{SV}$ | **4–8 L/min** |
+| Cardiac Index (CI) | $\text{CI} = \text{CO} / \text{BSA}$ | **2.4–4 L/min/m²** |
+
+### Fick Principle for Cardiac Output
+
+$$\text{CO} = \text{VO}_2 / (\text{CaO}_2 - \text{Cv}_2)$$
 
 ---
 
 ## 3. Determinants of Cardiac Function
 
-- **Preload**: Myocardial stretch before contraction (end-diastolic length).
-  - *Proxy*: End-diastolic volume (EDV), end-diastolic pressure (EDP).
-  - *Frank-Starling Law*: $\uparrow \text{Venous return} \rightarrow \uparrow \text{SV} + \uparrow \text{CO}$.
-  - *Increases Preload*: $\uparrow \text{Blood volume}$, exercise, sympathetic tone, $\downarrow \text{HR}$ (longer filling time).
-- **Afterload**: Force the ventricle must push against.
-  - *Proxy*: Systemic or pulmonary vascular resistance, ventricular wall stress.
-  - *Wall Stress Formula*: $\text{Wall Stress} = (\text{pressure} \times \text{radius}) / (2 \times \text{wall thickness})$.
-  - *Increases LV Afterload*: Hypertension, aortic stenosis, systolic heart failure.
-  - *Increases RV Afterload*: Pulmonary embolism (PE), pulmonary arterial hypertension.
-- **Contractility**: Inherent ability to contract independent of preload/afterload.
-  - *Increases Contractility*: Sympathetic stimulation ($\beta_1$ receptor), inotropic drugs (e.g., dobutamine, digoxin), tachycardia.
-  - *Decreases Contractility*: Parasympathetic activity, $\beta$-blockers/CCBs, CHF/MI, acidosis, hypoxia.
+### Preload
+
+Preload is the myocardial stretch that occurs before contraction, corresponding to end-diastolic fiber length.
+
+- **Clinical proxies**: End-diastolic volume (EDV) and end-diastolic pressure (EDP).
+- **Frank-Starling Law**: Increased venous return leads to increased stroke volume and increased cardiac output. This relationship is described by the following relationship: $\uparrow \text{Venous return} \rightarrow \uparrow \text{SV} + \uparrow \text{CO}$.
+- **Factors that increase preload**:
+  - Increased blood volume
+  - Exercise
+  - Increased sympathetic tone
+  - Decreased heart rate (allowing longer filling time)
+
+### Afterload
+
+Afterload is the force that the ventricle must overcome to eject blood during systole.
+
+- **Clinical proxies**: Systemic or pulmonary vascular resistance, ventricular wall stress.
+- **Wall stress formula**: $\text{Wall Stress} = (\text{pressure} \times \text{radius}) / (2 \times \text{wall thickness})$.
+- **Factors that increase left ventricular afterload**:
+  - Hypertension
+  - Aortic stenosis
+  - Systolic heart failure
+- **Factors that increase right ventricular afterload**:
+  - Pulmonary embolism (PE)
+  - Pulmonary arterial hypertension
+
+### Contractility
+
+Contractility is the inherent ability of the myocardium to contract, independent of preload and afterload.
+
+- **Factors that increase contractility**:
+  - Sympathetic stimulation via $\beta_1$ receptors
+  - Inotropic drugs (e.g., dobutamine, digoxin)
+  - Tachycardia
+- **Factors that decrease contractility**:
+  - Parasympathetic activity
+  - Beta-blockers and calcium channel blockers (CCBs)
+  - Congestive heart failure (CHF) or myocardial infarction (MI)
+  - Acidosis
+  - Hypoxia
 
 ---
 
 ## 4. Phases of the Cardiac Cycle & Heart Sounds
 
-- **Diastole**: Atrial pressure $>$ ventricular pressure $\rightarrow$ Tricuspid and mitral valves open $\rightarrow$ Filling.
-- **Contraction**: Atrial pressure $<$ ventricular pressure $\rightarrow$ Tricuspid and mitral valves close $\rightarrow$ **S1**.
-- **Systole**: Ventricular pressure rises until exceeding aortic/pulmonary pressure $\rightarrow$ Aortic and pulmonic valves open $\rightarrow$ Ejection.
-- **End of Ejection**: Ventricular pressure falls $\rightarrow$ Aortic and pulmonic valves close $\rightarrow$ **S2** ("Split S2" widens during inspiration due to increased venous return and delayed pulmonic closure).
+### The Cardiac Cycle
+
+1. **Diastole**: Atrial pressure exceeds ventricular pressure, causing the tricuspid and mitral valves to open, allowing for ventricular filling.
+2. **Contraction**: Atrial pressure falls below ventricular pressure, causing the tricuspid and mitral valves to close and producing **S1**.
+3. **Systole**: Ventricular pressure rises until it exceeds aortic and pulmonary pressure, opening the aortic and pulmonic valves and allowing for ejection.
+4. **End of ejection**: Ventricular pressure falls, causing the aortic and pulmonic valves to close and producing **S2** ("Split S2" widens during inspiration due to increased venous return and delayed pulmonic closure).
 
 ### Extra Heart Sounds
 
-- **S3 (Ventricular Gallop)**: 
-  - *Significance*: Indicates volume overload/decompensated heart failure (**92% specificity** for LVEDP $> 15\text{ mmHg}$ and $\text{BNP} > 100\text{ pg/mL}$). Normal in age $< 35$ or pregnancy.
-- **S4 (Atrial Gallop)**: 
-  - *Significance*: Always pathologic; indicates a stiff ventricle (ventricular hypertrophy, HTN, heart failure).
+#### S3 (Ventricular Gallop)
+
+- **Significance**: Indicates volume overload or decompensated heart failure.
+- **Specificity**: 92% specificity for left ventricular end-diastolic pressure (LVEDP) $> 15$ mmHg and brain natriuretic peptide (BNP) $> 100$ pg/mL.
+- **Note**: S3 is a normal finding in individuals younger than 35 years or during pregnancy.
+
+#### S4 (Atrial Gallop)
+
+- **Significance**: Always pathologic; indicates a stiff, noncompliant ventricle.
+- **Associated conditions**: Ventricular hypertrophy, hypertension (HTN), heart failure.
 
 ---
 
 ## 5. Central Venous Pressure (CVP) / JVP Waveform
 
-- **$a$ wave**: Atrial contraction.
-- **$c$ wave**: RV contraction (closed tricuspid valve bulging into atrium).
-- **$x$ descent**: Atrial relaxation and downward displacement during ventricular contraction.
-- **$v$ wave**: Increased RA pressure during systole (passive filling against closed valve).
-- **$y$ descent**: Tricuspid valve opens, emptying RA into RV.
+The jugular venous pressure (JVP) waveform reflects pressure changes in the right atrium during the cardiac cycle.
+
+| Wave | Mechanism |
+| :--- | :--- |
+| **$a$ wave** | Atrial contraction |
+| **$c$ wave** | Right ventricular (RV) contraction; the closed tricuspid valve bulges into the atrium |
+| **$x$ descent** | Atrial relaxation and downward displacement during ventricular contraction |
+| **$v$ wave** | Increased right atrial pressure during systole due to passive filling against a closed tricuspid valve |
+| **$y$ descent** | Tricuspid valve opens, allowing the right atrium to empty into the right ventricle |
 
 ---
 
 ## 6. Electrocardiography (ECG) Basics
 
-1. **Rate**: 
-   - Bradycardic ($< \mathbf{60\text{ bpm}}$), Normal ($\mathbf{60\text{–}100\text{ bpm}}$), Tachycardic ($\ge \mathbf{100\text{ bpm}}$).
-   - *Assessment methods*: $300\text{-}150\text{-}100\text{-}75\text{-}60\text{-}50$ rule; or ($\text{QRS count in 6-second strip} \times 10$).
-2. **Rhythm**: 
-   - Sinus rhythms: P before every QRS, upright in lead II, inverted in aVR.
-3. **Axis Deviation**:
-   - **Normal Axis**: Lead I ($+$), Lead II ($+$).
-   - **Left Axis Deviation (LAD)**: Lead I ($+$), Lead II ($-$). *Ddx*: LVH, LBBB, inferior MI, hyperkalemia.
-   - **Right Axis Deviation (RAD)**: Lead I ($-$), aVF ($+$). *Ddx*: RVH, PE, chronic lung disease, dextrocardia.
-   - **Extreme "NW" Axis**: Lead I ($-$), aVF ($-$). *Ddx*: Ventricular rhythm, pacemaker, hyperkalemia.
+### Heart Rate Assessment
+
+Heart rate is classified as follows:
+
+| Classification | Heart Rate |
+| :--- | :--- |
+| Bradycardic | $< 60$ bpm |
+| Normal | 60–100 bpm |
+| Tachycardic | $\ge 100$ bpm |
+
+**Assessment methods**:
+- 300–150–100–75–60–50 rule for rapid estimation
+- QRS count in a 6-second strip multiplied by 10
+
+### Rhythm Assessment
+
+Sinus rhythms are characterized by a P wave preceding every QRS complex, with the P wave upright in lead II and inverted in lead aVR.
+
+### Axis Deviation
+
+| Axis | Lead I | Lead II / aVF | Differential Diagnosis |
+| :--- | :--- | :--- | :--- |
+| **Normal Axis** | Positive ($+$) | Positive ($+$) | — |
+| **Left Axis Deviation (LAD)** | Positive ($+$) | Negative ($-$) | LVH, LBBB, LAFB, inferior MI, hyperkalemia |
+| **Right Axis Deviation (RAD)** | Negative ($-$) | aVF positive ($+$) | RVH, PE, chronic lung disease, dextrocardia |
+| **Extreme "NW" Axis** | Negative ($-$) | aVF negative ($-$) | Ventricular rhythm, pacemaker, hyperkalemia |
