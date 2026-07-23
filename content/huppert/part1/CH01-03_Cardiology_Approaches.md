@@ -5,108 +5,82 @@ chapter: "CH01-03"
 title: "Approaches"
 ---
 
-# Approaches
+## 1. Approach to Chest Pain
 
-- Huppert's Notes: Pathophysiology and Clinical Pearls for Internal Medicine Chapter 103:
-  Approaches and Chief Complaints in Cardiology CHEST PAIN Approach to chest pain Take a
-  focused history: Ask about the character and quality of pain, provoking and relieving
-  factors, duration and frequency.
-- Perform a targeted exam: Vitals (including BP in both arms and legs), cardiac and chest wall
-  exam, pulmonary exam, abdominal exam.
-- Differential diagnosis: Think about the five "cannotmiss" causes of chest pain: 1) ACS; 2)
-  PE; 3) Aortic dissection; 4) Tension pneumothorax; 5) Esophageal rupture.
-- Then can consider a broader differential diagnosis by organ system (Table 1.5) Initial
-  diagnostics: ECG: Look for ST changes (ACS, pericarditis, demand), RV strain (PE), Q waves
-  (evidence of prior ischemia) CXR: Look for pneumonia, rib fractures, pneumothorax, widened
-  mediastinum (can occur due to aortic dissection) Ddimer: Use ageadjusted cutoff for patients
-  >50 yr (age × 10 = upper limit cutoff); normal ddimer can: Rule out PE in low to
-  intermediate clinical probability situations Rule out aortic dissection in low risk patients
-  (i.e., no connective tissue disease; no new murmur; no chest, abdominal, or back pain that
-  is abrupt, severe, or ripping) CT scan: Timing of contrast differs slightly depending on
-  whether the imaging focuses on the systemic or pulmonary arteries CTA (CT angiography with
-  arterial contrast) is used if most concerned for aortic dissection CTPA (CT pulmonary
-  angiography) is used if most concerned for PE TABLE 1.5 Etiologies of Chest Pain by System
-  System Etiologies of Chest Pain Cardiac Angina: Pain due to myocardial tissue ischemia (aka
-  supply/demand mismatch) Examples: ACS (STEMI, NSTEMI, unstable angina), stable angina,
-  demand ischemia, vasospasm, spontanous coronary artery dissection (SCAD), myocardial
-  infarction with nonobstructive coronary arteries (MINOCA) Characteristics: Especially
-  concerning if "typical" features (i.e., substernal, exertional, improves with
-  rest/nitroglycerin) Pericarditis: Pleuritic, sharp, retrosternal, relieved with sitting
-  forward, +friction rub throughout the cardiac cycle Advanced heart failure or pulmonary
-  hypertension (PAH): Pressure, often exertional dyspnea, syncope (with advanced PAH) Vascular
-  Aortic dissection: Sudden onset tearing pain, radiates to the back, unequal pulses and
-  discordant blood pressures in arms and/or legs, often occurs in the setting of hypertension
-  or connective tissue disorders Pulmonary embolism (PE): Sudden onset, pleuritic, often
-  associated with dyspnea Pulmonary Pneumonia/pleuritis: Lateral to midline, brief, often
-  associated with dyspnea, cough, sputum production, fever Tracheobronchitis: Midline, burning
-  discomfort, associated with coughing Pneumothorax: Sudden, pleuritic pain, dyspnea,
-  decreased breath sounds.
-- Spontaneous or associated with instrumentation (e.g., central line placement) G I Peptic
-  ulcer disease: Burning, epigastric, relieved with food or antacids GERD: Burning,
-  epigastric, worsened when lying flat after a meal Esophageal spasm: Pressure, tightness,
-  retrosternal, mimics angina, often relieved by nitroglycerin (likely due to relaxant effect
-  of nitrites on smooth muscle with resultant change in esophageal motility) Biliary disease:
-  RUQ pain, may occur after meals Pancreatitis: Prolonged/intense epigastric/back pain,
-  presence of certain risk factors (e.g., heavy alcohol use) Neuromuscular Costochondritis:
-  Rare and often over diagnosed; sudden onset, intense/fleeting pain, may be reproduced with
-  palpation Rib fracture: Reproducible on exam, associated with injury, localized, worse with
-  movement, crepitus may be present Herpes zoster: Vesicular rash in area of discomfort,
-  dermatomal distribution, burning Psychological Panic disorder: Chest tightness,
-  palpitations, can have "typical" features, often associated with dyspnea SYNCOPE Definition:
-  Transient loss of consciousness due to low blood pressure to the brain Rule out syncope
-  mimickers: Stroke, seizure, TIA, atypical migraine, mechanical fall (e.g., due to dementia,
-  gait abnormality, normalpressure hydrocephalus, vision problems, neuropathy), weakness
-  (e.g., due to anemia, metabolic derrangements, thyroid disorders, infection) Types:
-  Cardiogenic: No prodrome (i.e., sudden syncope without preceding symptoms).
-- Get ECG, telemetry monitoring.
-- Ddx: Outflow obstruction (e.g., aortic stenosis, hypertrophic obstructive cardiomyopathy
-  with exertion) Arrhythmia (e.g., bradyarrhythmias or tachyarrhythmias) Neurocardiac:
-  Typically 3Ps: Prodrome, Positional, Provocation.
-- Perform tilttable test if possible.
-- Ddx: Vasovagal: Dizziness, weakness, nausea, diaphoresis, often identifiable trigger
-  Situational: Neurocardiogenic reflex that can occur with defecation, micturition, coughing,
-  eating Carotid sinus hypersensitivity: Stimulation of the carotid sinus can cause syncope
-  Orthostatic: Change in position triggers syncope.
-- Get orthostatic vitals, which are abnormal if supine → standing ↓SBP ≥**20 mmHg** or ↓DBP
-  >**10 mmHg**.
-- Ddx: Decreased volume (e.g., due to diarrhea, poor PO intake, hemorrhage) Autonomic
-  insufficiency: Medications (e.g., diuretics, nitrates, alphaadrenergic blockers); neurogenic
-  (e.g., neuropathy from diabetes or alcohol use, multiple sclerosis); elderly patients with
-  decreased baroreceptor response Adrenal insufficiency Workup: Initial evaluation: Take a
-  thorough history Perform orthostatic vital signs (e.g., check blood pressure with the
-  patient lying, seated, and standing) Physical exam: In particular, perform a careful cardiac
-  exam (e.g., listen for murmurs), neurologic exam, and assess for volume status ECG: Look for
-  1) Arrhythmias; 2) Conduction disease; 3) WPW – short PR, delta wave; 4) Long QT; 5) Brugada
-  (V1: RSR', downsloping ST elevation) If concerned for cardiac etiology, pursue further
-  cardiac workup: Continuous telemetry during the admission and consider discharging the
-  patient with ambulatory cardiac monitoring TTE: Determine whether the patient has a
-  structurally normal or abnormal heart Differential diagnosis of cardiogenic syncope with a
-  structurally normal heart: Channelopathies: Long QT, short QT, Brugada (V1: RSR',
-  downsloping ST elevation) Conduction system abnormalities: Sinus or AV node dysfunction, WPW
-  Ventricular tachycardia or fibrillation (e.g., catecholaminergic polymorphic VT) Electrolyte
-  disturbances Differential diagnosis of cardiogenic syncope with a structurally abnormal
-  heart: Hypertrophic cardiomyopathy (HCM) Arrhythmogenic right ventricular dysplasia (ARVD)
-  Arrhythmias related to cardiomyopathies or infiltrative disease (e.g., sarcoid, amyloid)
-  Congenital heart conditions Valvular pathology (e.g., mitral or aortic stenosis) Severe
-  pulmonary arterial hypertension with RV dysfunction Huppert's Notes: Pathophysiology and
-  Clinical Pearls for Internal Medicine Chapter 104: Diseases and Pathophysiology in
-  Cardiology ISCHEMIC HEART DISEASE Stable coronary artery disease (CAD) Types: Asymptomatic
-  CAD or stable angina (angina that occurs reliably with exertion and emotional stress,
-  relived with rest or nitroglycerin; due to fixed atherosclerosis) Diagnosis: Stress testing;
-  computed tomography angiography (CCTA) vs.
-- invasive coronary angiogram to assess anatomy Workup: HgA1c, lipid panel, ECG, TTE to assess
-  LV function Treatment: Address risk factors and disease pathology: Smoking cessation
-  Exercise/weight loss/diet Control hypertension (goal at least <140/**90 mmHg**), ACEi (or
-  ARB if intolerant of ACEi) Treat DM (preferably with SGLT2 inhibitors or GLP1 agonists)
-  Treat HLD, start statin (e.g., atorvastatin, rosuvastatin; goal LDL <**70 mg/dL**) Consider
-  addition of ezetimibe if LDL not at goal (IMPROVEIT 2015) Consider addition of PCSK9
-  inhibitor if LDL still not at goal and/or family history (FOURIER 2018) Consider addition of
-  icosapent ethyl if fasting triglycerides >**135 mg/dL** in patients with known CAD or DM
-  (REDUCEIT 2019) Aspirin (particularly if prior ACS event) Beta blocker (BB) (particularly if
-  prior ACS event) Address symptoms (antianginal therapy for stable angina): Beta blocker
-  (BB): Increases coronary blood supply (↓HR → ↑coronary diastolic filling time → ↑blood
-  supply) and decreases myocardial demand (↓contractility → ↓wall stress/O2 demand) Calcium
-  channel blocker (CCB): If second agent required; similar mechanism as BB Nitrates:
-  Vasodilation of coronary arteries; venodilation → ↓preload → ↓wall stress/O2 demand
-  Nitroglycerin (sublingual/transdermal/spray; taken as needed) Isosorbide dinitrate (oral;
-  taken BID or TID) Isosorbide 5mononitrate (oral; taken daily or BID)
+When evaluating a patient with chest pain, follow a structured approach to rapidly identify or rule out life-threatening conditions.
+
+### Initial Evaluation
+* **History**: Ask about the character and quality of the pain, provoking and relieving factors, duration, and frequency.
+* **Physical Exam**: Perform a targeted exam including vitals (check BP in both arms and legs), cardiac and chest wall exam, pulmonary exam, and abdominal exam.
+
+### "Cannot-Miss" Diagnoses (The Big 5)
+Always consider these five life-threatening causes of chest pain first:
+1. **Acute Coronary Syndrome (ACS)**
+2. **Pulmonary Embolism (PE)**
+3. **Aortic Dissection**
+4. **Tension Pneumothorax**
+5. **Esophageal Rupture**
+
+### Etiologies of Chest Pain by Organ System
+| System | Diagnosis & Characteristics |
+| :--- | :--- |
+| **Cardiac** | **Angina**: Supply/demand mismatch (e.g., ACS, stable angina, vasospasm, SCAD, MINOCA). "Typical" features: substernal, exertional, improves with rest/nitroglycerin. <br> **Pericarditis**: Pleuritic, sharp, retrosternal, relieved by sitting forward, + friction rub. <br> **Advanced HF / PAH**: Pressure, exertional dyspnea, syncope (in advanced PAH). |
+| **Vascular** | **Aortic dissection**: Sudden onset tearing pain radiating to the back, unequal pulses/discordant BPs, often with HTN or connective tissue disorders. <br> **PE**: Sudden onset, pleuritic, associated with dyspnea. |
+| **Pulmonary** | **Pneumonia/Pleuritis**: Lateral to midline, brief, with dyspnea, cough, fever. <br> **Tracheobronchitis**: Midline, burning discomfort, coughing. <br> **Pneumothorax**: Sudden pleuritic pain, dyspnea, decreased breath sounds. |
+| **GI** | **Peptic ulcer disease**: Burning, epigastric, relieved with food/antacids. <br> **GERD**: Burning, epigastric, worsened when lying flat after meals. <br> **Esophageal spasm**: Retrosternal pressure/tightness, mimics angina, often relieved by nitroglycerin. <br> **Biliary / Pancreatitis**: RUQ pain (biliary) or prolonged epigastric/back pain (pancreatitis). |
+| **Neuromuscular** | **Costochondritis**: Sudden/fleeting pain reproduced with palpation. <br> **Rib fracture**: Reproducible, associated with injury, worse with movement. <br> **Herpes zoster**: Vesicular rash, dermatomal burning. |
+| **Psychological** | **Panic disorder**: Chest tightness, palpitations, dyspnea. |
+
+### Initial Diagnostics
+* **ECG**: Look for ST changes (ACS, pericarditis, demand ischemia), RV strain (PE), or Q waves (prior ischemia).
+* **CXR**: Evaluate for pneumonia, rib fractures, pneumothorax, or a widened mediastinum (aortic dissection).
+* **D-dimer**: Use an age-adjusted cutoff for patients >50 years ($\mathbf{\text{Age} \times 10}$ = upper limit). A normal result can rule out PE in low/intermediate probability scenarios, and rule out aortic dissection in low-risk patients.
+* **CT Scan**:
+  * **CTA** (arterial contrast): Used if most concerned for aortic dissection.
+  * **CTPA** (pulmonary angiography): Used if most concerned for PE.
+
+---
+
+## 2. Approach to Syncope
+
+* **Definition**: Transient loss of consciousness due to low blood pressure to the brain.
+* **Syncope Mimickers (Rule out first)**: Stroke, seizure, TIA, atypical migraine, mechanical fall, or generalized weakness.
+
+### Types of Syncope
+* **Cardiogenic**: Sudden syncope *without* a prodrome. Requires ECG and telemetry monitoring. 
+  * *Ddx*: Outflow obstruction (aortic stenosis, HOCM), arrhythmias.
+* **Neurocardiac**: Characterized by the "3Ps" (Prodrome, Positional, Provocation). Tilt-table test can be helpful.
+  * *Ddx*: Vasovagal (dizziness, nausea, diaphoresis with trigger), Situational (post-tussive, micturition), Carotid sinus hypersensitivity.
+* **Orthostatic**: Triggered by a change in position. Abnormal vitals: supine $\rightarrow$ standing $\downarrow\mathbf{\text{SBP}} \ge \mathbf{\text{20 mmHg}}$ or $\downarrow\mathbf{\text{DBP}} > \mathbf{\text{10 mmHg}}$.
+  * *Ddx*: Volume depletion, Autonomic insufficiency (medications, neurogenic, elderly), Adrenal insufficiency.
+
+### Syncope Workup
+* Take a thorough history, perform orthostatic vital signs, and conduct careful cardiac and neurologic exams.
+* **ECG**: Look for arrhythmias, conduction disease, WPW (short PR, delta wave), Long QT, or Brugada pattern (V1: RSR', downsloping ST elevation).
+* **Cardiac Workup**: If cardiogenic syncope is suspected, pursue continuous telemetry and consider a TTE (Transthoracic Echocardiogram) to determine if the heart is structurally normal or abnormal.
+  * *Structurally Normal Heart*: Think channelopathies (Long/short QT, Brugada), conduction system abnormalities, VT/VF, or electrolyte disturbances.
+  * *Structurally Abnormal Heart*: Think HCM, ARVD, infiltrative cardiomyopathies (sarcoid, amyloid), congenital conditions, valvular pathology, or severe PAH.
+
+---
+
+## 3. Stable Coronary Artery Disease (CAD)
+
+* **Definition**: Asymptomatic CAD or stable angina (exertional/emotional chest pain reliably relieved with rest or nitroglycerin) due to fixed atherosclerosis.
+* **Diagnosis**: Stress testing; CCTA (Computed Tomography Angiography) vs. invasive coronary angiogram.
+* **Workup**: Check HgA1c, lipid panel, ECG, and obtain a TTE to assess LV function.
+
+### Treatment and Risk Factor Modification
+* **Lifestyle**: Smoking cessation, exercise, weight loss, diet.
+* **Hypertension**: Goal $\mathbf{< 140/\text{90 mmHg}}$. Use ACEi (or ARB if intolerant).
+* **Diabetes (DM)**: Preferably treat with SGLT2 inhibitors or GLP-1 agonists.
+* **Hyperlipidemia (HLD)**: Start statin (e.g., atorvastatin, rosuvastatin) with a goal LDL $< \mathbf{70\text{ mg/dL}}$.
+  * Consider adding **ezetimibe** if LDL is not at goal.
+  * Consider adding a **PCSK9 inhibitor** if LDL is still not at goal or if there is a family history.
+  * Consider adding **icosapent ethyl** if fasting triglycerides $> \mathbf{135\text{ mg/dL}}$ in patients with known CAD or DM.
+* **Medications for Risk Reduction**: Aspirin and Beta blockers (BB), particularly if the patient has a prior ACS event.
+
+### Anti-Anginal Symptom Therapy
+* **Beta Blocker (BB)**: Increases coronary blood supply (by decreasing HR and increasing diastolic filling time) and decreases myocardial demand (by decreasing contractility and wall stress).
+* **Calcium Channel Blocker (CCB)**: Used if a second agent is required; works via a similar mechanism to BBs.
+* **Nitrates**: Causes coronary vasodilation and venodilation, which decreases preload, wall stress, and O2 demand.
+  * Options include: Nitroglycerin (sublingual/transdermal/spray taken as needed), Isosorbide dinitrate (oral BID or TID), or Isosorbide 5-mononitrate (oral daily or BID).

@@ -5,24 +5,36 @@ chapter: "CH07-03"
 title: "Hematology Approaches"
 ---
 
-# Hematology Approaches
+## 1. Introduction
 
-- Huppert's Notes: Pathophysiology and Clinical Pearls for Internal Medicine Chapter 703:
-  Approaches & Chief Complaints in Hematology INTRODUCTION See approach to anemia,
-  thrombocytopenia, and bleeding disorders in the Diseases and Pathophysiology Section below.
-- Huppert's Notes: Pathophysiology and Clinical Pearls for Internal Medicine Chapter 704:
-  Diseases & Pathophysiology: NonMalignant Hematology in Hematology INTRODUCTION First, some
-  terminology and then we'll dive into each of these conditions separately below: TABLE 7.1
-  Terminology for Abnormal Cell Counts Cell type Too Few Cells Too Many Cells WBC Leukopenia
-  Leukocytosis RBC Anemia Polycythemia Platelets Thrombocytopenia Thrombocytosis LEUKOPENIA
-  Definition: Low WBC (<4K/μl).
-- If absolute neutrophil count (ANC) <1000/μl, that is called neutropenia and carries an
-  increased risk of infection.
-- Severe neutropenia is when the ANC <500/μl.
-- Differential diagnosis: Infection: Often causes leukocytosis, but can cause leukopenia
-  Malignancy: Bone marrow infiltration Inflammatory/autoimmune conditions: SLE, others
-  Medications: Chemotherapy, antibiotics, antiepileptics, and substances (e.g., alcohol) can
-  all be myelosuppressive Treatment: Treat underlying condition.
-- Patients with ANC <500/μl typically require urgent workup even if asymptomatic.
-- LEUKOCYTOSIS Definition: High WBC (>10K/μl) Differential diagnosis: Infection Malignancy: If
-  very high WBC, consider acute leukemia Inflammatory/autoimmune conditions
+See approach to anemia, thrombocytopenia, and bleeding disorders in the Diseases and Pathophysiology Section below.
+
+---
+
+## 2. Terminology for Abnormal Cell Counts
+
+| Cell Type | Too Few Cells | Too Many Cells |
+| :--- | :--- | :--- |
+| WBC | Leukopenia | Leukocytosis |
+| RBC | Anemia | Polycythemia |
+| Platelets | Thrombocytopenia | Thrombocytosis |
+
+---
+
+## 3. Leukopenia
+
+**Definition**: Leukopenia is defined as low WBC (<4K/μl). If absolute neutrophil count (ANC) <1000/μl, that is called neutropenia and carries an increased risk of infection. Severe neutropenia is when the ANC <500/μl.
+
+**Differential Diagnosis**: Infections often cause leukocytosis but can cause leukopenia. Malignancy causes bone marrow infiltration. Inflammatory/autoimmune conditions such as SLE and others can cause leukopenia. Medications such as chemotherapy, antibiotics, antiepileptics, and substances such as alcohol can all be myelosuppressive.
+
+**Treatment**: Treat the underlying condition. Patients with ANC <500/μl typically require urgent workup even if asymptomatic.
+
+---
+
+## 4. Leukocytosis
+
+**Definition**: Leukocytosis is defined as high WBC (>10K/μl).
+
+**Differential Diagnosis**: Infections can cause leukocytosis. Malignancy, especially if very high WBC, suggests acute leukemia. Inflammatory/autoimmune conditions and demargination from stress response or steroids can also cause leukocytosis.
+
+**Treatment**: Treat the underlying condition. Leukocytosis itself does not require treatment except in hyperleukocytosis related to leukemia, for which hydroxyurea and leukapheresis may be indicated.

@@ -5,103 +5,202 @@ chapter: "CH04-02"
 title: "Diagnostics"
 ---
 
-# Diagnostics
+## 1. Laboratory Studies
 
-- Huppert's Notes: Pathophysiology and Clinical Pearls for Internal Medicine Chapter 402:
-  Diagnostics in Gastroenterology INTRODUCTION TABLE 4.2 Diagnostic Tests in Gastroenterology
-  Study Indication Procedure Details Upper endoscopy (EGD) Diagnosis: Upper GI bleed (UGIB),
-  irondeficiency anemia, diarrhea with features of small bowel disease (e.g., celiac),
-  refractory GERD, dysphagia, odynophagia, upper abdominal symptoms with alarm features (e.g.,
-  unintentional weight loss, early satiety) Treatment: UGIB: Injections, thermals/cautery,
-  mechanical clipping Varices: Variceal banding Achalasia, stenosis, strictures Pneumatic
-  dilation, stent placement Malignancy: Stent placement, resection Screening: Barrett's
-  esophagus, upper GI malignancies in highrisk patients Prep: NPO for >8 hr Sedation: Options
-  include moderate sedation, monitored anesthesia care, general anesthesia Procedure:
-  Endoscope inserted through the mouth and advanced through the esophagus, stomach, and as far
-  as to the second portion of duodenum.
-- Biopsies and therapeutics can be performed as indicated.
-- Push enteroscopy: Variation of an EGD that utilizes a longer endoscope, which makes it
-  possible to advance beyond the ligament of Treitz and into the jejunum.
-- Colonoscopy Diagnosis: Lower GI bleed (LGIB), irondeficiency anemia, lower GI symptoms
-  (e.g., chronic diarrhea), evaluation for IBD Treatment: LGIB: Injections, thermals/cautery,
-  mechanical clipping Polyp removal Decompression of sigmoid volvulus/colonic
-  pseudoobstruction Balloon dilation of strictures Screening: Colorectal cancer (CRC) Prep:
-  Clear liquids × 1 day prior with bowel prep, NPO at least 2 hr Sedation: Options include no
-  sedation, moderate sedation, monitored anesthesia care, general anesthesia Procedure:
-  Colonoscope inserted through the anus and advanced through the rectum, large bowel, and
-  small bowel up to the cecum/terminal ileum.
-- Biopsies and therapeutics can be performed as indicated.
-- Flexible sigmoidoscopy Diagnosis: LGIB, irondeficiency anemia, lower GI symptoms (e.g.,
-  chronic diarrhea), surveillance for IBD.
-- Treatment: Polyp removal Screening: CRC (alternative to colonoscopy, Prep: Less involved
-  than colonoscopy: Enemas × 2 Sedation: None (benefit over colonoscopy) Procedure:
-  Colonoscope inserted through the anus and advanced through the rectum and up to the distal
-  **60 cm** of the colon (up to the splenic flexure).
-- Misses proximal/rightsided lesions.
-- Thus, colonoscopy q5yr) is preferred for CRC screening.
-- Capsule endoscopy Diagnosis only: Irondeficiency anemia with normal EGD/colonoscopy, small
-  bowel tumor, Crohn's disease.
-- Prep: NPO for 12 hr Procedure: The patient swallows a video capsule.
-- An external wireless recorder captures images of the entire GI tract while the capsule is in
-  transit, and then the footage is analyzed.
-- Capsules are disposable and excreted with a bowel movement.
-- Endoscopic retrograde cholangiopancreatography (ERCP) Diagnosis/Treatment: Typically
-  performed when both a diagnostic/therapeutic indication are present, such as to evaluate and
-  possibly treat the following conditions: Suspected biliary obstruction Suspected
-  pancreatic/biliary malignancy Acute pancreatitis with cholangitis or biliary obstruction
-  Choledocholithiasis Biliary dyskinesia Biliary strictures Pancreatic pseudocyst drainage
-  Limitation: Difficult to perform in RouxenY anatomy Prep: Pregnancy testing, coagulation
-  studies, NPO for 8 hr Sedation: Monitored anesthesia care or general anesthesia Procedure:
-  Combined endoscopic/fluoroscopic procedure.
-- Duodenoscope is advanced through the mouth and to the duodenum.
-- A catheter is then inserted into the papilla of Vater and contrast is injected.
-- Xrays are taken of the biliary tree and pancreatic duct.
-- May perform sphincterotomy, stent placement, CBD stone extraction, and/or dilation of
-  strictures.
-- Complications: >**5%** risk: Acute pancreatitis, bleeding, cholangitis/sepsis, perforation
-  Endoscopic ultrasound (EUS) Diagnosis: Pancreatic cancer with FNA, choledocholithiasis,
-  submucosal masses of stomach, duodenum, rectum.
-- Treatment: Pancreatic fluid collection drainage, celiac plexus neurolysis (improves pain
-  control in pancreatic cancer) Prep: NPO for 8 hr Sedation: Monitored anesthesia care,
-  general anesthesia Procedure: Endoscope with an ultrasound transducer is advanced through
-  the mouth and down to the duodenum.
-- Enables clearer view of the pancreas.
-- Can be done in conjunction with FNA.
-- Magnetic resonance cholangiopancreatography (MRCP) Diagnosis only: Choledocholithiasis,
-  biliary strictures, chronic pancreatitis, suspected congenital anomaly of pancreaticobiliary
-  tract, preop/postop evaluation of biliary abnormalities Prep: NPO for 4 hr Procedure: Same
-  as MRI scan.
-- Allows for better visualization of pancreaticobiliary tract Barium swallow Diagnosis only:
-  Dysphagia, esophageal perforation, hiatal hernia, malignancy, diverticula, esophageal
-  motility disorders (e.g., achalasia, diffuse esophageal spasm) Procedure: The patient is put
-  in a prone or supine position with tilt and then instructed to rapidly swallow barium
-  contrast (100200 cc).
-- Xray or fluoroscopy is used to evaluate the patient's swallow, enabling the localization of
-  lesions and the initial identification of some esophageal pathologies.
-- Classic findings: "Bird beak" appearance of achalasia, "corkscrew sign" in diffuse
-  esophageal spasm Esophageal manometry Diagnosis only: Esophageal motility disorders (e.g.,
-  achalasia, hypercontractile esophagus, Procedure: Can be conventional or high resolution
-  (more pressure sensors).
-- A long tube is positioned in the esophagus terminating in the distal esophageal spasm)
-  stomach.
-- The patient is instructed to swallow, and then the system detects pressure changes generated
-  by the esophagus or the upper/lower esophageal sphincter.
-- Ambulatory pH monitoring Diagnosis only: GERD Procedure: Options include a transnasally
-  placed catheter or a wireless capsule that is fixed to the distal mucosa.
-- pH sensor results are analyzed after 24 hr to 4 days.
-- Huppert's Notes: Pathophysiology and Clinical Pearls for Internal Medicine Chapter 403:
-  Approaches and Chief Complaints in Gastroenterology ABDOMINAL PAIN FIGURE 4.4 Differential
-  diagnosis for abdominal pain based on area of pain.
-- Shown are the regions of the abdomen and the differential diagnosis for pain in each region.
-- Of note, pain does not always localize precisely, so no matter the location of the pain,
-  consider a broad differential diagnosis.
-- Abbreviations: AAA, abdominal aortic aneurysm; IBD, inflammatory bowel disease; IBS,
-  irritable bowel syndrome; SBO, small bowl obstruction; MI, myocardial infarction; PUD,
-  peptic ulcer disease; RUQ, right upper quadrant; RLQ, right lower quadrant; LUQ, left upper
-  quadrant; LLQ, left lower quadrant.
-- NAUSEA/VOMITING Differential diagnosis: Neuropsychiatric: Intracerebral: Increased
-  intracranial pressure (ICP) due to malignancy, hemorrhage, abscess, hydrocephalus
-  Labyrinthine: Labyrinthitis, motion sickness, malignancy Psychiatric: Anorexia, bulimia
-  nervosa, depression (may be associated with delayed gastric emptying) Cardiopulmonary:
-  Myocardial infarction, congestive heart failure (nausea/early satiety can be early
-  symptoms), posttussive emesis
+### Liver Function Tests (LFTs)
+
+**Components**: Aspartate aminotransferase (AST), alanine aminotransferase (ALT), alkaline phosphatase (ALP), gamma-glutamyl transferase (GGT), bilirubin (total and direct), albumin, and coagulation parameters (PT/INR).
+
+**Interpretation**:
+
+- **Hepatocellular injury pattern**: Elevated AST and ALT (typically ALT > AST in acute injury; AST > ALT may suggest alcoholic liver disease or cirrhosis).
+- **Cholestatic pattern**: Elevated ALP and GGT with or without elevated bilirubin.
+- **Mixed pattern**: Elevation of both hepatocellular and cholestatic markers.
+
+**Serum albumin**: Decreased in chronic liver disease, protein-losing enteropathy, malnutrition, and nephrotic syndrome.
+
+**PT/INR**: Prolonged in liver dysfunction (impaired synthesis of clotting factors), vitamin K deficiency, and warfarin use.
+
+### Viral Hepatitis Serology
+
+**Hepatitis A (IgM/IgG)**: IgM anti-HAV indicates acute infection; IgG anti-HAV indicates past infection or vaccination.
+
+**Hepatitis B**:
+
+| Marker | Interpretation |
+| :--- | :--- |
+| **HBsAg** | Surface antigen; indicates current infection |
+| **Anti-HBs** | Antibody to surface antigen; indicates immunity |
+| **Anti-HBc** | Antibody to core antigen; indicates exposure |
+| **HBeAg** | E antigen; indicates active viral replication |
+| **Anti-HBe** | Antibody to E antigen; indicates low replication |
+
+**Hepatitis C**: Anti-HCV antibody (screening); if positive, check HCV RNA for active infection. If viremic, determine genotype.
+
+### Celiac Disease Testing
+
+**Serologic markers**: IgA tissue transglutaminase (tTG) antibody is the preferred initial test. Endomysial antibody (EMA) and deamidated gliadin peptide (DGP) antibodies are alternatives.
+
+**Note**: Patients with IgA deficiency may need IgG-based testing.
+
+**Confirmatory test**: Duodenal biopsies showing villous atrophy, crypt hyperplasia, and increased intraepithelial lymphocytes.
+
+### Fecal Tests
+
+**Fecal calprotectin**: Marker of neutrophil inflammation; useful in distinguishing inflammatory bowel disease (IBD) from irritable bowel syndrome (IBS) and in monitoring IBD activity.
+
+**Fecal occult blood test (FOBT)/Fecal immunochemical test (FIT)**: Screening for colorectal cancer and GI bleeding sources.
+
+**Stool studies**: Ova and parasites, bacterial culture, *Clostridioides difficile* toxin, and Giardia antigen when infectious etiology is suspected.
+
+**Fecal elastase**: Marker of exocrine pancreatic function; low in chronic pancreatitis with exocrine insufficiency.
+
+### Malabsorption Workup
+
+| Test | Condition Suspected |
+| :--- | :--- |
+| **72-hour fecal fat** | Fat malabsorption (steatorrhea) |
+| **D-xylose absorption test** | Small intestinal mucosal disease vs. pancreatic insufficiency |
+| **Vitamin B12 absorption (Schilling test)** | B12 malabsorption (ileal disease, pernicious anemia) |
+| **Lactose hydrogen breath test** | Lactose intolerance |
+| **Stool osmotic gap** | Osmotic vs. secretory diarrhea |
+| **Fecal elastase** | Pancreatic exocrine insufficiency |
+
+---
+
+## 2. Diagnostic Imaging
+
+### Plain Radiography
+
+**Abdominal X-ray (KUB)**: May show bowel gas patterns, dilation, air-fluid levels, free air (perforation), or radio-opaque gallstones.
+
+**Chest X-ray**: May show free air under the diaphragm (perforation), elevated hemidiaphragm (hepatomegaly, ascites), or pleural effusion (pancreatitis, cirrhosis).
+
+### Ultrasound
+
+**Right upper quadrant (RUQ) ultrasound**: First-line imaging for biliary tract disease. Assesses gallbladder wall thickness, presence of gallstones, biliary dilation, and liver parenchyma.
+
+**Transabdominal ultrasound**: Used for liver lesion characterization, ascites assessment, and guidance for percutaneous procedures.
+
+### Computed Tomography (CT)
+
+**CT abdomen/pelvis with contrast**: Used for evaluation of abdominal pain (particularly when bowel obstruction, perforation, or appendicitis is suspected), pancreatitis, diverticulitis, bowel ischemia, and malignancy staging.
+
+**CT colonography (virtual colonoscopy)**: Alternative to optical colonoscopy for colorectal cancer screening in patients who cannot undergo conventional colonoscopy.
+
+### Magnetic Resonance Imaging (MRI)
+
+**MRCP (magnetic resonance cholangiopancreatography)**: Non-invasive imaging of the biliary and pancreatic ducts. Useful for evaluation of choledocholithiasis, pancreatic lesions, and biliary strictures.
+
+**MRI liver**: Used for characterization of liver lesions, particularly focal nodular hyperplasia, hemangioma, adenoma, and hepatocellular carcinoma.
+
+### Endoscopic Retrograde Cholangiopancreatography (ERCP)
+
+**Uses**: Diagnostic and therapeutic endoscopy for biliary and pancreatic diseases. Allows visualization of ampulla of Vater, sphincterotomy, stone extraction, and stenting.
+
+**Complications**: Pancreatitis (most common), bleeding, perforation, and cholangitis.
+
+### Percutaneous Transhepatic Cholangiography (PTC)
+
+**Uses**: Used when ERCP is not feasible or has failed. Allows drainage and stenting of biliary obstruction via percutaneous approach.
+
+---
+
+## 3. Endoscopic Procedures
+
+### Upper GI Endoscopy (Esophagogastroduodenoscopy, EGD)
+
+**Indications**: Dysphagia, odynophagia, upper GI bleeding, dyspepsia not responding to therapy, suspected peptic ulcer disease, esophageal varices, and tissue biopsy.
+
+### Colonoscopy
+
+**Indications**: Colorectal cancer screening and surveillance, evaluation of hematochezia, diarrhea, suspected IBD, and abnormal imaging findings.
+
+**Preparation**: Colon cleansing with polyethylene glycol (PEG) solution or other bowel prep agents.
+
+### Sigmoidoscopy
+
+**Indications**: Evaluation of distal colonic disease (hematochezia, diarrhea), especially when colonoscopy is incomplete or contraindicated.
+
+### Video Capsule Endoscopy
+
+**Indications**: Evaluation of small bowel mucosa when MR enterography is inconclusive or contraindicated. Useful for detecting small bowel Crohn's disease, obscure GI bleeding, and small bowel tumors.
+
+### Enteroscopy
+
+**Double-balloon enteroscopy**: Allows deep intubation of the small intestine for diagnostic and therapeutic interventions including biopsy, polypectomy, and hemostasis.
+
+### Endoscopic Ultrasound (EUS)
+
+**Indications**: Evaluation of pancreatic lesions, submucosal lesions, biliary disease, and mediastinal lymphadenopathy. Allows fine-needle aspiration (FNA) for tissue diagnosis.
+
+---
+
+## 4. Liver Biopsy
+
+**Indications**: Evaluation of unexplained liver disease, staging of fibrosis in chronic hepatitis or NAFLD, diagnosis of autoimmune hepatitis, and characterization of liver masses.
+
+**Methods**: Percutaneous (most common), transjugular (preferred in coagulopathy or ascites), or laparoscopic.
+
+**Histologic scoring systems**: METAVIR (Fibrosis stage F0–F4, Activity grade A0–A3) for viral hepatitis; NAFLD activity score (NAS) for NAFLD.
+
+---
+
+## 5. Breath Tests
+
+### Helicobacter pylori Testing
+
+**Urea breath test**: Patient ingests urea labeled with carbon isotope; if *H. pylori* is present, urease splits urea and labeled CO2 is exhaled. Used for initial diagnosis and confirmation of eradication.
+
+### Lactose Intolerance
+
+**Lactose hydrogen breath test**: Lactose is fermented by colonic bacteria if malabsorbed, producing hydrogen that is exhaled. A rise in breath hydrogen of greater than 20 ppm indicates lactose malabsorption.
+
+### Small Intestinal Bacterial Overgrowth (SIBO)
+
+**Carbohydrate breath test**: Glucose or lactulose is ingested; bacterial fermentation produces hydrogen and/or methane. Positive test shows early peak (within 90 minutes for glucose) or double peak (for lactulose).
+
+---
+
+## 6. Gastrointestinal Motility Testing
+
+### Esophageal Manometry
+
+**Indications**: Evaluation of dysphagia when structural causes are excluded, suspected achalasia, diffuse esophageal spasm, and pre-operative assessment for anti-reflux surgery.
+
+### 24-Hour pH Monitoring
+
+**Indications**: Evaluation of refractory GERD symptoms, assessment before anti-reflux surgery, and evaluation of extra-esophageal manifestations of GERD.
+
+### Gastric Emptying Studies
+
+**Indicators**: Nuclear medicine gastric emptying scan is the gold standard. Prolonged gastric emptying suggests gastroparesis; rapid emptying suggests dumping syndrome.
+
+---
+
+## 7. Additional Diagnostic Tests
+
+### Paracentesis
+
+**Indications**: All patients with new-onset ascites of uncertain cause and patients with cirrhosis and ascites being evaluated for spontaneous bacterial peritonitis (SBP).
+
+**Analysis**:
+
+- **Cell count and differential**: PMN count greater than 250 cells/mm^3 suggests SBP.
+- **Albumin**: Serum-ascites albumin gradient (SAAG) = Serum albumin – Ascites albumin. SAAG greater than or equal to 1.1 g/dL indicates portal hypertension.
+- **Culture**: Bedside inoculation into blood culture bottles increases yield.
+- **Total protein**: Helps distinguish transudate from exudate.
+
+### Nasogastric/Nasoenteric Tube Placement
+
+**Indications**: Gastric decompression, enteral feeding, and intestinal decompression in small bowel obstruction.
+
+**Verification**: X-ray confirmation of tube position before use for feeding or medication administration.
+
+### Gastrointestinal Bleeding Localization
+
+**Upper GI bleed**: EGD is the diagnostic and therapeutic procedure of choice.
+
+**Lower GI bleed**: Colonoscopy is the primary diagnostic and therapeutic tool. CT angiography or tagged red blood cell scan may localize active bleeding if colonoscopy is non-diagnostic.
+
+**Obscure GI bleed**: Consider repeat endoscopy, capsule endoscopy, enteroscopy, or CT/MRI enterography.
