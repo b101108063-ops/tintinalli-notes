@@ -1,34 +1,76 @@
 ---
+
 source: "Huppert's Notes: Pathophysiology and Clinical Pearls for Internal Medicine (2021)"
 specialty: Hematology and Oncology
 chapter: "CH07-01"
 title: "Hematology Anatomy"
----
-
-## 1. Hematopoiesis
-
-**Hematopoietic stem cells** can differentiate into either a myeloid or lymphoid lineage. The multipotential hematopoietic stem cell can differentiate into a common myeloid or lymphoid progenitor, and each of these cells can further differentiate into cells in the myeloid or lymphoid lineage, respectively.
 
 ---
 
-## 2. Myeloid Lineage
 
-**Megakaryocytes** make thrombocytes (platelets), which are critical for clotting. Platelets lack nuclei and have a lifespan of 7–10 days.
+# Hematology Anatomy
 
-**Erythrocytes (RBCs)** carry oxygen. They lack nuclei and have a lifespan of 120 days.
-
-**Mast cells** are involved in the allergic response and have numerous purple cytoplasmic granules.
-
-**Granulocytes** include the following cell types. **Neutrophils (PMNs)** are a critical part of the innate immune system and release cytokines. They have 3–5 lobes, and if fewer lobes then they may be immature band forms. PMNs have a lifespan of 7 days. **Basophils** express IgE receptors and have abundant dark blue cytoplasmic granules. **Eosinophils** have two lobes with red granules. **Monocytes** are phagocytic cells that enter tissue and become macrophages. They are large with a "horseshoe" nucleus and sky-blue cytoplasm.
-
----
-
-## 3. Lymphoid Lineage
-
-**Lymphocytes** are small, round cells with dark blue cytoplasm. **Natural killer (NK) cells** are part of the innate immune system and are granulated cells that induce apoptosis when triggered by Toll-like receptors. **T cells** are involved in cell-mediated immunity and are made in the bone marrow but mature in the thymus. **B cells** are involved in humoral (antibody-driven) adaptive immunity, produce and secrete antibodies that activate the immune system to destroy pathogens, and are made in the bone marrow and mature in lymph nodes or the spleen.
-
----
-
-## 4. The Coagulation Cascade
-
-The intrinsic pathway and extrinsic pathways converge in the common pathway. The intrinsic pathway is measured by the activated partial thromboplastin time (aPTT), the extrinsic pathway is measured by the prothrombin time (PT), and the common pathway includes the thrombin time (TT). Clotting factors in their activated form are denoted with an "a," tissue factor (TF) is the initiator of the extrinsic pathway, platelet membrane phospholipid (PL) is involved in the coagulation cascade, and calcium ions (Ca²⁺) are essential cofactors in the coagulation cascade.
+- Huppert's Notes: Pathophysiology and Clinical Pearls for Internal Medicine Chapter 701:
+  Anatomy & Physiology in Hematology HEMATOPOIESIS Hematopoietic stem cells can differentiate
+  into either a myeloid or lymphoid lineage (Figure 7.1) FIGURE 7.1 Normal human hematopoesis.
+- The multipotential hematopoietic stem cell can differentiate into a common myeloid or
+  lymphoid progenitor.
+- Each of these cells can further differentiate into cells in the myeloid or lymphoid lineage,
+  respectively.
+- Myeloid Megakaryocytes make thrombocytes (aka platelets): Critical for clotting.
+- Lack nuclei.
+- Platelet lifespan: 7–10 days.
+- Erythrocytes (aka RBCs): Carry oxygen.
+- Lack nuclei.
+- RBC lifespan: 120 days.
+- Mast cells: Involved in allergic response.
+- Numerous purple cytoplasmic granules.
+- Granulocytes: Neutrophils (PMNs): Critical part of innate immune system.
+- Release cytokines.
+- 3–5 lobes, if fewer lobes then may be immature band form.
+- PMN lifespan: 7 days.
+- Basophils: Express IgE receptors.
+- Abundant dark blue cytoplasmic granules.
+- Eosinophils: Two lobes with red granules.
+- Monocytes: Phagocytic – enter tissue and become macrophages.
+- Large with "horseshoe" nucleus and skyblue cytoplasm.
+- Lymphoid Lymphocytes: Small, round cells with dark blue cytoplasm Natural killer (NK) cells:
+  Part of the innate immune system.
+- Granulated cells that induce apoptosis when triggered by Tolllike receptors.
+- T cells: Involved in cellmediated immunity.
+- Made in the bone marrow, mature in the thymus.
+- B cells: Involved in humoral (antibodydriven) adaptive immunity.
+- Produce and secrete antibodies that activate the immune system to destroy pathogens.
+- Made in the bone marrow, mature in lymph nodes or the spleen.
+- THE COAGULATION CASCADE FIGURE 7.2 The coagulation cascade.
+- The intrinsic pathway and extrinsic pathways converge in the common pathway.
+- Abbreviations: Activated partial thromboplastin time (aPTT), prothrombin time (PT), thrombin
+  time (TT), clotting factor in the activated form (a), tissue factor (TF), platelet membrane
+  phospholipid (PL), calcium ions (Ca2+).
+- Huppert's Notes: Pathophysiology and Clinical Pearls for Internal Medicine Chapter 702:
+  Diagnostics in Hematology EVALUATION OF A PERIPHERAL BLOOD SMEAR Evaluate a peripheral blood
+  smear using a systematic and thorough approach: Examine the entire feathered edge first:
+  Large things (e.g., platelet clumps, blasts) can sometimes end up on the feathered edge so
+  look for these first so you don't miss them.
+- See Figure 7.3A.
+- Find the monolayer.
+- Start at the very edge of the feathered edge with the microscope on 10x.
+- Move back towards the body of the slide until the cells form a smooth monolayer.
+- Evaluate WBCs: Normal and pathologic WBC morphologies are shown in Figure 7.3B Note any note
+  any morphologic changes (toxic changes, reactive lymphocytes) and any abnormal cell
+  populations (e.g., blast cells, which have a large nucleus, immature chromatin, a prominent
+  nucleolus, scant cytoplasm, and few or no cytoplasmic granules) Evaluate RBCs: Normal and
+  pathologic RBC morphologies are shown in Figure 7.3C Evaluate the RBC size: Microcyte =
+  small; macrocyte = large Evaluate the hemoglobin distribution: Hypochromasia = light RBCs
+  with more central pallor.
+- Often present with iron deficiency anemia.
+- Polychromasia = darker RBCs.
+- Often present with reticulocytosis/regeneration.
+- Evaluate the RBC shape: Acanthocytes, schistocytes, spherocytes, etc.
+- Evaluate for red cell inclusions: Nuclei: Not typically present in RBCs; presence suggests
+  vigorous bone marrow response or myelophthisic process Basophilic stippling: Blue dots in
+  the RBC; common in lead poisoning HowellJolly bodies: Blue inclusions from nuclear remnants
+  common with splenic dysfunction Parasites: E.g., malaria, babesiosis Note red cell
+  distribution: Agglutination, rouleaux formation Evaluate platelets: First check the
+  feathered edge for platelet clumps as these will invalidate a low platelet count (i.e.,
+  pseudothrombocytopenia) Note the platelet size

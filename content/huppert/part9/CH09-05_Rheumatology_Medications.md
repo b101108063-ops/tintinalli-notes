@@ -1,89 +1,155 @@
 ---
+
 source: "Huppert's Notes: Pathophysiology and Clinical Pearls for Internal Medicine (2021)"
 specialty: Rheumatology
 chapter: "CH09-05"
 title: "Medications"
----
-
-## 1. Anti-Inflammatory Agents
-
-### NSAIDs
-
-**Mechanism** of NSAIDs involves decreased prostaglandin production, which reduces prostaglandin-mediated capillary leakage and inflammatory cell recruitment. Most NSAIDs are nonselective inhibitors of both cyclooxygenase isoforms (COX-1 and COX-2).
-
-**Clinical use** of NSAIDs is primarily as an analgesic in most rheumatologic diseases.
-
-**Side effects** of NSAIDs include GI bleed, hypertension, hyperkalemia, and AKI (ATN from inappropriate afferent arteriole constriction or tubulointerstitial nephritis).
-
-### Glucocorticoids
-
-**Mechanism** involves suppressing antibody production by B cells, promoting T cell apoptosis, and inhibiting inflammatory chemokine and cytokine production and antigen presentation by myeloid cells.
-
-**Clinical use** involves rapid suppression of acute disease activity in conditions such as RA, SLE, gout or pseudogout, inflammatory myopathies, and PMR. A dose of 1 mg per kg is a common initial dose for organ-threatening rheumatologic disease.
-
-**PJP prophylaxis** should be provided for all patients on 20 mg or greater of prednisone daily for 3 or more weeks.
-
-**Prevention and treatment of glucocorticoid-induced osteoporosis** involves oral calcium and vitamin D supplementation for all patients on 2.5 mg or greater of prednisone for 3 or more months. For patients over 40 years old on 2.5 mg or greater of prednisone for 3 or more months, a DEXA scan should be obtained. If DEXA indicates moderate to high risk for fracture based on FRAX score, bisphosphonate therapy should be considered.
-
-**Side effects** of glucocorticoids include immunosuppression, osteoporosis, skin thinning, glaucoma, cataracts, weight gain, type 2 diabetes, hypertension, mania or altered mental status, avascular necrosis, and HPA axis suppression.
-
-### Colchicine
-
-**Mechanism** involves impairing microtubule polymerization, which impairs neutrophil function.
-
-**Clinical use** of colchicine includes treatment of gout, pseudogout, familial Mediterranean fever, and hypersensitivity vasculitis.
-
-**Side effects** of colchicine include diarrhea and neuromuscular toxicity, especially when co-administered with statins. Dose reduction is needed for CKD.
 
 ---
 
-## 2. Nonbiologic DMARDs
 
-**Definition**: DMARDs comprise a group of otherwise unrelated medications used to treat rheumatoid arthritis and other rheumatic conditions, in contrast to NSAIDs and steroids.
+# Medications
 
-| Medication | Mechanism of Action | Clinical Use | Monitoring |
-| :--- | :--- | :--- | :--- |
-| **Methotrexate** | Low dose: increases extracellular adenosine concentration, inhibiting lymphocyte proliferation; High dose: antifolate effect with antineoplastic action | RA, psoriatic arthritis, SLE arthritis, reactive arthritis, DM/PM, vasculitis | 7.5–25 mg PO or SQ weekly with folate 1 g per day; contraindicated with alcohol use and CKD stage 3 or higher; baseline CXR, HepB/C screening, CBC, CMP; then CBC and CMP every 2–3 months |
-| **Hydroxychloroquine (Plaquenil)** | Uncertain; impairs endosome acidification, impairing TLR signaling | SLE; RA; safe in pregnancy | Baseline CBC, CMP, retinal exam; annual retinal exam after 5 years of therapy |
-| **Sulfasalazine** | Unknown; may involve perturbation of lymphocyte NF-κB signaling and osteoclast RANK signaling | RA; psoriatic arthritis; IBD; safe in pregnancy | 500–1,500 mg BID; baseline CBC, CMP; then CBC and CMP every 3–6 months |
-| **Leflunomide** | Inhibits pyrimidine synthesis, needed for lymphocyte proliferation | RA | 10–20 mg daily; baseline CBC, CMP, HepB/C screening; then CBC and CMP every 2–3 months |
-| **Azathioprine** | Inhibits purine synthesis, needed for lymphocyte proliferation | SLE; DM/PM; vasculitis; IBD | 1–2 mg per kg daily for induction and maintenance; TPMT deficiency increases risk of bone marrow suppression; baseline CBC, CMP; then CBC and CMP every 3 months |
-| **Cyclophosphamide** | Alkylating agent; covalent crosslinking of DNA blocks DNA replication | Organ or life-threatening complications of SLE, DM, PM, and vasculitis | PJP prophylaxis and reproductive counseling needed; CBC, CMP, UA every 1–2 months; close monitoring for infection |
-| **Mycophenolate mofetil** | Mycophenolic acid inhibits de novo purine synthesis, required for lymphocyte proliferation | SLE especially nephritis; vasculitis for maintenance; DM/PM; SSc | 1–1.5 g BID for induction, 0.5–1 g BID for maintenance; baseline CBC, CMP; then CBC and CMP every 3 months |
-| **Cyclosporine** | Inhibits calcineurin, impairing T cell proliferation | SLE class V nephritis; RA | 100–200 mg BID, adjusted to goal trough of 150–**250 mcg** per L; baseline CBC, CMP; then CBC and CMP every 2–3 months |
-| **Tofacitinib** | Impairs T cell proliferation by inhibiting JAK1 and JAK3 kinases | RA | 5 mg BID or 11 mg daily; baseline CBC, CMP, lipids, PPD/IGRA; then CBC and CMP every 2 months; repeat lipids at 2 months, then every 6 months |
-| **Apremilast** | Inhibits phosphodiesterase 4 | Psoriatic arthritis | 30 mg BID; baseline weight and depression screening |
-
----
-
-## 3. Biologic DMARDs
-
-**Definition**: Biologic DMARDs work by targeting specific immune system pathways.
-
-**General principles of use** include screening for chronic infections prior to starting therapy (tuberculosis with PPD or IGRA, HepB, HepC, HIV), with subcutaneous medications being self-administered and IV medications given at an infusion center. Lab monitoring involves checking CBC and CMP every 2–3 months. Live vaccines should not be administered while on biologics.
-
-### Structure-Suffix Relationship
-
-| Suffix | Structure | Example |
-| :--- | :--- | :--- |
-| **-ximab** | Chimeric (Fab = mouse, Fc = human) | Infliximab |
-| **-zumab** | Humanized (CDRs = mouse, rest = human) | Certolizumab |
-| **-mumab** | Human (fully human) | Adalimumab |
-| **-cept** | Receptor-IgG Fc fusion | Etanercept |
-
-### Biologic DMARDs
-
-| Agent | Structure | Target | Clinical Use | Comments |
-| :--- | :--- | :--- | :--- | :--- |
-| **Adalimumab** | Human monoclonal antibody | TNFα | RA; PsA; AS; IBD | 40 mg SQ biweekly; increased risk of bacterial, mycobacterial, and fungal infections; drug-induced lupus in **0.2%** of patients |
-| **Etanercept** | Two p75 TNFα receptors + IgG Fc | TNFα | RA; PsA; AS | 50 mg weekly or 25 mg biweekly SQ |
-| **Certolizumab pegol** | Humanized Fab' attached to PEG | TNFα | RA; PsA; AS | 400 mg SQ biweekly ×3, then 200 mg biweekly; safe in pregnancy |
-| **Golimumab** | Humanized monoclonal antibody | TNFα | RA; PsA; AS | 50 mg SQ every 4 weeks |
-| **Infliximab** | Chimeric monoclonal antibody | TNFα | RA; PsA; AS; IBD | 3 mg/kg IV at weeks 0, 2, 6, then 3–10 mg/kg every 4–8 weeks |
-| **Abatacept** | CTLA4 + IgG Fc fusion | CD80/CD86 | RA | IV: 500–1,000 mg at weeks 0, 2, 4, then monthly; SQ: 125 mg weekly |
-| **Rituximab** | Chimeric monoclonal antibody | CD20 on naive and memory B cells | RA; AAV; occasionally SLE; IgG4-RD | 1 g IV at day 0 and day 14, then every 24 weeks; infusion reaction in 20–**30%** of patients with first dose; can cause transient or persistent decreased IgG |
-| **Tocilizumab** | Humanized monoclonal antibody | IL-6 receptor | RA; JIA; Castleman disease; GCA | IV: 4–8 mg/kg monthly; SQ: 162 mg every 1–2 weeks; side effects include elevated transaminases, hyperlipidemia, cytopenias, risk of bowel perforation |
-| **Belimumab** | Human monoclonal antibody | BLyS/BAFF | SLE | IV: 10 mg/kg at weeks 0, 2, 4, then monthly; SQ: 200 mg weekly; used for skin disease or arthritis uncontrolled with prednisone or non-biologic DMARDs |
-| **Ustekinumab** | Human monoclonal antibody | IL-12/IL-23 | Psoriasis; PsA | 45–90 mg SQ at weeks 0, 4, then every 12 weeks |
-| **Secukinumab** | Human monoclonal antibody | IL-17a | PsA; AS | 150 mg SQ weekly ×5, then monthly |
-| **Anakinra** | Recombinant version of endogenous IL-1 receptor antagonist | IL-1β receptor | CAPS; AOSD; acute gouty arthritis | 100 mg SQ daily; reversible neutropenia can develop |
+- Huppert's Notes: Pathophysiology and Clinical Pearls for Internal Medicine Chapter 905: Key
+  Medications & Interventions in Rheumatology ANTIINFLAMMATORY AGENTS NSAIDS Mechanism:
+  Decreased prostaglandin production and thus reduced prostaglandinmediated capillary leakage
+  and inflammatory cell recruitment.
+- Most NSAIDs are nonselective inhibitors of both cyclooxygenase isoforms (COX1 and COX2).
+- Clinical use: Analgesic only in most rheumatologic diseases Side effects: GI bleed,
+  hypertension, hyperkalemia, AKI (ATN from inappropriate afferent arteriole constriction or
+  tubulointerstitial nephritis) Glucocorticoids Mechanism: Suppress antibody production by B
+  cells; promote T cell apoptosis; inhibit inflammatory chemokine/cytokine production and
+  antigen presentation by myeloid cells Clinical use: Rapid suppression of acute disease
+  activity in RA, SLE, gout/pseudogout, inflammatory myopathies, PMR, etc.
+- (1 mg/kg = common initial dose for organthreatening rheumatologic disease) PJP prophylaxis
+  should be provided for all patients on ≥20 mg prednisone daily for ≥3 weeks Prevention and
+  treatment of glucocorticoidinduced osteoporosis: All patients on ≥2.5 mg prednisone ≥3
+  months should take oral calcium and vitamin D supplementation For patients >40 yr old on
+  ≥2.5 mg prednisone ≥3 months: Check DEXA.
+- If DEXA indicates moderate to high risk for fracture based on FRAX score, consider
+  bisphosphonate therapy Side effects: Immunosuppression, osteoporosis, skin thinning,
+  glaucoma, cataracts, weight gain, DM2, hypertension, mania/altered mental status, avascular
+  necrosis, HPA axis suppression Colchicine Mechanism: Impairs microtubule polymerization, and
+  thus impairs neutrophil function Clinical use: Gout, pseudogout, familial Mediterranean
+  fever, hypersensitivity vasculitis Side effects: Diarrhea, neuromuscular toxicity especially
+  when coadministered with statins.
+- Dose reduction needed for CKD NONBIOLOGIC DISEASE MODIFYING ANTIRHEUMATIC DRUGS (DMARDs)
+  Definition: DMARDs comprise a group of otherwise unrelated medications that are used to
+  treat rheumatoid arthritis and other rheumatic conditions.
+- The term is used in contrast to NSAIDs and steroids.
+- Medications: See Table 9.16 * Generated by immunizing transgenic mice that have mouse VDJ
+  locus replaced with human BIOLOGIC DISEASEMODIFYING ANTIRHEUMATIC DRUGS (AKA "BIOLOGICS" OR
+  BIOLOGIC DMARDs) Definition: DMARDs that work by targeting immune system pathways General
+  principles of use: Screen for chronic infections prior to starting biologic DMARD therapy:
+  Tuberculosis (PPD or IGRA), HepB, HepC, HIV Biologic DMARD administration: Subcutaneous
+  medications can be selfadministered; IV medications are administered at an infusion center
+  Lab monitoring: Check CBC/CMP q2–3 months to evaluate for cytopenias and check renal/hepatic
+  function Do not administer live vaccines while on biologics, including live influenza
+  vaccine, Zostavax (→ use Shingrix instead), yellow fever vaccine Nomenclature: See Table
+  9.15 for structuresuffix relationships for therapeutic antibodies Medications: See Table
+  9.17 TABLE 9.15 StructureSuffix Relationship of Therapeutic Antibodies Suffix Structure
+  Description Example ximab "Chimeric" Fab = mouse Fc = human Infliximab zumab "Humanized"
+  CDRs = mouse Rest of antibody = human Certolizumab mumab "Human" Fully human antibody*
+  Adalimumab cept ReceptorIgG Fc fusion Utilizes an endogenous binding partner to neutralize a
+  cytokine or cellsurface molecule Etanercept TABLE 9.16 NonBiologic DMARDs Medication
+  Mechanism of Action Clinical Use Monitoring methotrexate Low dose: ↑Extracellular adenosine
+  concentration → inhibits lymphocyte proliferation High dose: Antifolate effect,
+  antineoplastic RA, psoriatic arthritis, SLE arthritis, reactive arthritis, DM/PM, vasculitis
+  7.5–25 mg PO or SQ weekly Take with folate 1 g/day Contraindicated with alcohol use
+  (hepatotoxic) and ≥CKD3 Baseline: CXR, HepB/C screening, CBC, CMP Then CBC, CMP q2–3 mo
+  hydroxychloroquine (Plaquenil) Uncertain; impairs acidification of endosomes resulting in
+  impairment of tolllike receptor signaling and major SLE; RA Safe for use in pregnancy
+  Baseline: CBC, CMP, retinal exam g g histocompatability complex peptide loading g Annual
+  retinal exam after 5 yr of therapy sulfasalazine Unknown; may involve perturbation of
+  lymphocyte NFkB signaling and/or osteoclast RANK signaling RA; psoriatic arthritis; IBD
+  500–1500 mg BID Safe for use in pregnancy Baseline: CBC, CMP Then CBC, CMP q3– 6mo
+  leflunomide Inhibits pyrimidine synthesis (needed for lymphocyte proliferation) RA 10–20 mg
+  daily Baseline: CBC, CMP, HepB/C screening Then CBC, CMP q2– 3mo azathioprine Inhibits
+  purine synthesis (needed for lymphocyte proliferation) SLE; DM/PM; vasculitis; IBD 1–2 mg/kg
+  daily for induction/maintenance TPMT deficiency increases risk of bone marrow suppression so
+  avoid if TPMT activity = 0 Baseline: CBC, CMP Then CBC, CMP q3mo cyclophosphamide Alkylating
+  agent; covalent crosslinking of DNA blocks DNA replication leading to cell death
+  Organ/lifethreatening complications of SLE, DM, PM, and vasculitis PJP prophylaxis and
+  reproductive counseling (contraception and fertility preservation) CBC, CMP, UA q1–2 mo
+  Return precautions and close monitoring for infection mycophenolate mofetil Active
+  metabolite (mycophenolic acid) inhibits de novo purine synthesis, which is required for
+  lymphocyte proliferation SLE (esp.
+- nephritis); vasculitis (maintenance therapy); DM/PM; SSc 1–1.5 g BID induction 0.5–1 g BID
+  maintenance Baseline: CBC, CMP Then CBC, CMP q3 mo cyclosporine Inhibits calcineurin,
+  resulting in impaired T cell proliferation SLE (class V nephritis); RA 100–200 mg BID,
+  adjust to goal trough 150–*_PROTECTED_BOLD*0__/L Baseline: CBC, CMP Then CBC, CMP q2–3 mo tofacitinib
+  Impairs T cell proliferation by inhibiting JAK1 and JAK3 kinases RA 5 mg BID or 11 mg daily
+  Baseline: CBC, CMP, Lipids, PPD/IGRA Then CBC, CMP q2 mo Repeat lipids at 2 mo, then q6 mo
+  apremilast Inhibits phosphodiesterase 4 Psoriatic arthritis 30 mg BID Baseline: Weight,
+  depression screening TABLE 9.17 Biologic DMARDs Agent Structure Target Clinical Use Comments
+  adalimumab Humanized mAb TNFα RA; PsA; AS; IBD 40 mg SQ biweekly Increased risk of
+  bacterial/mycobacterial/fungal infections; skin cancer; drug induced lupus in *_PROTECTED_BOLD*1__ of
+  patients Certolizumab safe in pregnancy If disease flares in patient on long term therapy,
+  check for antidrug antibodies etanercept Two p75 TNFα receptors + IgG Fc RA; PsA; AS 50 mg
+  weekly/25 mg biweekly SQ certolizumab pegol Humanized Fab' attached to PEG RA; PsA; AS 40 0
+  mg SQ biweekly ×3 Then 200 mg biweekly golimumab Humanized mAb RA; PsA; AS 50 mg SQ q4wk
+  infliximab (Remicade) Chimeric mAb RA; PsA; AS; IBD 3 mg/kg IV wk 0, 2, 6 Then 3–10 mg/kg IV
+  q4–8 wk abatacept CTLA4 + IgG Fc fusion CD80/CD86; blocks Tcell costimulation RA IV:
+  500–1000 mg on wk 0, 2, 4 → monthly thereafter SQ: 125 mg weekly Trend towards less
+  infections, but increased risk respiratory infection/COPD exacerbation rituximab Chimeric
+  mAb CD20 on naïve/memory B cells RA; AAV; occasionally SLE (offlabel); IgG4RD 1g IV d0, d14,
+  then q24 wk Infusion reaction in 20–*_PROTECTED_BOLD*2__ of patients with first dose Can cause transient
+  or persistent ↓IgG tocilizumab Humanized mAb IL6 receptor RA; JIA; Castleman disease; GCA
+  IV: 4–8 mg/kg monthly SQ: 162 mg q1–2 wk Side effects include ↑transaminases, HLD,
+  cytopenias, risk of bowel perforation (avoid if history of diverticulitis) belimumab Human
+  mAb BLyS/BAFF SLE IV: 10 mg/kg wk 0, 2, 4 → monthly thereafter SQ: 200 mg weekly Used for
+  skin disease or arthritis uncontrolled with prednisone or nonbiologic DMARDs ustekinumab
+  Human mAb IL12/IL23 Psoriasis; PsA 45–90 mg SQ wk 0, 4 → then q12 wk Useful in patients who
+  fail two different TNFα inhibitors secukinumab Human mAb IL17a PsA; AS 150 mg SQ weekly ×5 →
+  monthly anakinra Recombinant version of endogenous IL1 receptor antagonist IL1β receptor
+  CAPS; AOSD (offlabel); acute gouty arthritis (offlabel) 100 mg SQ daily Reversible
+  neutropenia can develop Huppert's Notes: Pathophysiology and Clinical Pearls for Internal
+  Medicine Chapter 906: Key Clinical Trials & Publications in Rheumatology RHEUMATOID
+  ARTHRITIS Methotrexate and mortality in patients with rheumatoid arthritis: a prospective
+  study.
+- Lancet 2002;359:1173–7.
+- Prospective observational study that demonstrated a *_PROTECTED_BOLD*3__ decrease in allcause mortality
+  and a *_PROTECTED_BOLD*4__ decrease in cardiovascular mortality among adults with RA treated with
+  methotrexate compared to other DMARDS or prednisone.
+- Decreased allcause and CV mortality was not seen for sulfasalazine or hydroxychloroquine.
+- This study underscores the notion that systemic inflammation in RA contributes to
+  cardiovascular mortality and that methotrexate ameliorates this.
+- The Tight COntrol for Rheumatoid Arthritis (TICORA) Study.
+- Lancet 2004;364:263–269.
+- Singleblind randomized controlled trial evaluating monthly visits with DMARD titration (MTX,
+  SSZ, HCQ) to a goal disease activity score <2.4 versus q3 mo visits with titration per usual
+  care.
+- Patients in the "intensive management" group had higher rates of remission (*_PROTECTED_BOLD*5__ vs.
+- *_PROTECTED_BOLD*6__) at 18 months.
+- This study supported a "treattotarget" approach using a disease activity score (DAS28 in
+  this case) to guide therapy escalation.
+- SYSTEMIC LUPUS ERYTHEMATOSUS (SLE) A randomized study of the effect of withdrawing
+  hydroxychloroquine sulfate in systemic lupus erythematosus.
+- New Engl J Med 1991;324:150–154.
+- Small, doubleblind randomized controlled trial that randomized patients to either continue
+  hydroxychloroquine therapy or to replace hydroxychloroquine with placebo for 24 weeks.
+- The relative risk of clinical flare was 2.5x higher in the placebo arm than the
+  hydroxychloroquine.
+- This demonstrated that patients with quiescent SLE on hydroxychloroquine were less likely to
+  have a clinical flareup if they were maintained on the drug.
+- Mycophenolate mofetil versus cyclophosphamide for induction treatment of lupus nephritis.
+- J Am Soc Nephrol 2009;20:1103–1112.
+- Randomized, singleblind study comparing IV cyclophosphamide 0.5–1 g/m2 monthly) to PO
+  mycophenolate (3 g/d) for treatment of class III and IV lupus nephritis.
+- Mycophenolate was noninferior to cyclophosphamide for achieving the primary outcome of
+  decrease in UPCR and stabilization in serum creatinine at 24 weeks.
+- Prior studies established less infections, alopecia, and amenorrhea with mycophenolate
+  compared to cyclophosphamide (New Engl J Med 2005;353:2219 and J Rheum 2011;38:69).
+- Development of autoantibodies before the clinical onset of systemic lupus erythematosus.
+- New Engl J Med 2003;349:1526–1533.
+- Retrospective study of 130 armed forces personnel who provided serum on enlistment and
+  biennially thereafter, showing that autoantibodies including ANA and dsDNA develop years
+  before SLE diagnosis (mean of 3 yr vs.
+- 2.2 yr, respectively).
+- This study suggests that a break in humoral immune tolerance is not sufficient to cause
+  pathology and raises intriguing questions about whether there are additional immunologic and
+  environmental modifying factors (e.g., autoantibody posttranslational modifications,
+  infections, microbiome perturbations) needed to cause disease.
+- SYSTEMIC SCLERODERMA Mycophenolate mofetil versus oral cyclophosphamide in
+  sclerodermarelated interstitial lung disease (SLS II Study).
+- Lancet Respir Med 2016;4:708–719.

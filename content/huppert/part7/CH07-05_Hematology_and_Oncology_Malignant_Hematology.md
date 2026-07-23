@@ -1,205 +1,441 @@
 ---
+
 source: "Huppert's Notes: Pathophysiology and Clinical Pearls for Internal Medicine (2021)"
 specialty: Hematology and Oncology
 chapter: "CH07-05"
 title: "Malignant Hematology"
----
-
-## 1. Oncologic Emergencies
-
-**Tumor Lysis Syndrome (TLS)**: Pathophysiology involves rapid cell lysis when initiating treatment for a malignancy with a large tumor burden or high cell turnover rate, releasing intracellular contents including potassium, phosphorus, and nucleic acids that break down into uric acid into the systemic circulation. This can lead to kidney injury because uric acid is a renal vasoconstrictor and deposits in the tubules, as well as electrolyte abnormalities. Symptoms include nausea, vomiting, symptoms of hyperkalemia such as arrhythmias, hypocalcemia such as seizures, and renal failure. Diagnosis shows increased uric acid, increased phos, increased K⁺, and decreased Ca²⁺ due to calcium-binding by phosphorus. Prophylaxis and treatment involves hydration with aggressive IVF to maintain urine output of 80–100 cc/hr to improve excretion of uric acid and phosphorus. For uric acid management, give rasburicase before treatment for high-risk cases then start allopurinol. For intermediate-risk cases, start allopurinol before treatment. Add rasburicase before or during treatment if uric acid ≥ **8 mg/dL** after consulting hematology/oncology. Note that allopurinol decreases the efficacy of rasburicase, so wait to give allopurinol until after rasburicase normalizes the uric acid level if possible. Electrolyte management includes treating hyperkalemia and giving phosphate binders. Do not replete calcium unless necessary for symptoms, particularly if phosphate is high as it can worsen renal damage.
-
-**Hyperviscosity Syndrome/Leukostasis**: Pathophysiology involves increased viscosity of blood due to increased protein or increased cellularity. Hyperproteinemia from monoclonal gammopathies is most common in Waldenström, where IgM is large and sticky. High WBC from leukemia or lymphoma can cause leukostasis with a seven-day mortality of 20–**40%**. The disease type and "stickiness" of the WBCs determine the level at which the WBC count becomes dangerous. AML is dangerous at >50–100K/μl. ALL is dangerous at >100–150K/μl. CML is dangerous at >200–250K/μl. CLL is dangerous at >400–500K/μl. Clinical features include fever, chest pain, shortness of breath, blurry vision, headache, AMS, and priapism. Diagnosis involves WBC, SPEP, light chains, BMP, LFTs, and TLS/DIC labs. Treatment involves aggressive hydration, calling hematology, plasmapheresis for hyperproteinemia, and leukapheresis plus or minus cytoreduction with hydroxyurea for hyperleukocytosis. Avoid RBC and platelet transfusions and start chemotherapy as soon as possible.
-
-**Neutropenic Fever**: Definition involves a single oral temperature ≥38.3°C (101°F) or ≥38°C (100.4°F) for ≥1 hour plus absolute neutrophil count (ANC) <500/μl or predicted nadir <500/μl within 48 hours based on trend. The source of infection is most often from gut translocation due to breakdown of the GI barrier after receiving chemotherapy. However, a pathogen is isolated in only 20–**30%** of cases. The most common pathogens include GNRs, GPCs from line infections and mucositis, and fungal infections which are more common with prolonged neutropenia, TPN, or prolonged broad-spectrum antibiotics. Diagnosis involves examining the mouth for mucositis, lines for signs of infection, and skin for infection. The abdominal exam should be performed but not a digital rectal exam in neutropenic patients. Labs include CBC with differential, CMP, blood cultures ×2 (1 peripheral and 1 from central line/port if present), UA/UCx, sputum cx, respiratory viral panel/flu/COVID-19 PCR, and C. diff testing if diarrhea. Imaging includes CXR and a low threshold for CT C/A/P and/or CT face/sinus if localizing symptoms. Treatment follows institution-specific guidelines. Empiric antibiotics include gram-negative coverage with pseudomonal coverage, plus or minus gram-positive coverage if signs of line infection, pneumonia, or severe mucositis, and plus or minus anaerobic coverage if GI symptoms. Consider fungal coverage if febrile for 96 hours despite appropriate antibacterial coverage. An example regimen is cefepime plus or minus vancomycin plus or minus metronidazole. Duration involves treating the identified pathogen as appropriate. If no pathogen is identified, stop antibiotics 48 hours after the last recorded fever AND once ANC >500/μl. If ANC remains <500/μl, continue antibiotics until afebrile for 5–7 days. Site-specific considerations include typhlitis or neutropenic enterocolitis involving infection of the terminal ileum with mortality reported as high as **50%**. Make the patient NPO and add anaerobic coverage to pseudomonal coverage. Sinusitis in patients with prolonged neutropenia, prolonged broad-spectrum antibiotics, or on TPN requires coverage for aspergillus and mucor, so micafungin or caspofungin plus or minus amphotericin should be considered in consultation with ID.
 
 ---
 
-## 2. Malignant Hematology Overview
 
-Within malignant hematology, there are three broad categories of disease: leukemias, lymphomas, and multiple myeloma.
-
-| Classification | Myeloid Lineage | Lymphoid Lineage |
-| :--- | :--- | :--- |
-| **Acute leukemia** | Acute Myelogenous Leukemia (AML) — median age 65–70 yr (most common acute leukemia in adults, **80%**). Acute Promyelocytic Leukemia (APML) is a subtype of AML with similar age of onset and presentation. | Acute Lymphoid Leukemia (ALL) — median age is bimodal with children <6 yr and adults >60 yr. Most common cancer in children. |
-| **Chronic leukemia** | Chronic Myelogenous Leukemia (CML) — median age 50 yr | Chronic Lymphoid Leukemia (CLL) — median age 70 yr (more common M>F). Most common leukemia in adults in Western countries. |
-| **Other subtypes** | Myelodysplastic Syndrome (MDS), Myeloproliferative neoplasms, Prolymphocytic Leukemia, Large Granular Lymphocyte Leukemia, Hairy Cell Leukemia | |
-
----
-
-## 3. Acute Leukemia Basics
-
-**Definition**: Leukemia is defined as ≥**20%** blasts in the bone marrow OR periphery, OR characteristic chromosomal abnormality such as 8:21. A key pearl is that you usually cannot tell AML versus ALL from the smear alone and must get flow and/or cell markers unless you see Auer rods, which only occur in myeloid cells.
-
-**Key Pearls**: Acute leukemia is an emergency at initial presentation. Evaluate for leukostasis, TLS, and DIC. With aggressive, high-intensity therapy, many patients can be cured.
-
-**Epidemiology**: AML is the most common adult acute leukemia with average age 65–70 yr. ALL is more common in children but can also occur in adults.
-
-**Clinical Features**: Fevers, headaches, weakness, bleeding, bone pain from expansion of the medullary cavity, and abdominal pain from splenic enlargement.
-
-**Diagnosis**: Labs include CBC with differential, CMP, LFTs, Ca²⁺/Mg²⁺/Phos, PT, PTT, fibrinogen, and uric acid. It is critical to look for early evidence of DIC and TLS, especially APML which is associated with DIC. Blood smear shows blasts and Auer rods which are only seen in AML. Peripheral flow cytometry can help differentiate AML, ALL, APML, and other conditions. Bone marrow evaluation includes aspirate, core biopsy, flow cytometry, cytogenetics, and DNA extraction. Pretreatment workup includes TTE for baseline cardiac function, HIV and hepatitis serologies, quantiferon gold, CMV IgG, type and screen, and UA plus or minus urine pregnancy if needed. Evaluate for oncologic emergencies including neutropenic fever, TLS, DIC, and leukostasis.
-
----
-
-## 4. Acute Leukemia Subtypes
-
-**Acute Myeloid Leukemia (AML)**: Pathophysiology involves malignant transformation of myeloid precursor cells. Epidemiology shows median age at diagnosis is 65 yr, with risk factors including radiation, toxins such as benzenes and alkylating agents, and Down syndrome. Clinical features often include patients who are quite ill at diagnosis, presenting with functional neutropenia causing fevers and infection, thrombocytopenia causing bruising, anemia causing weakness, expansion of the medullary cavity causing bone pain, and infiltration of skin, soft tissue, and CNS. Diagnosis requires more than **20%** blasts in bone marrow or periphery, except in cases of certain chromosomal abnormalities. Treatment usually involves a combination of chemotherapy plus or minus allogeneic stem cell transplant. The chemotherapy regimen involves induction with "7+3" (7 days cytarabine, 3 days anthracyclines). After 7+3, repeat bone marrow biopsy on day 14. If the bone marrow has no blasts, continue to consolidation therapy. If not, repeat induction. Consolidation therapy aims to maintain remission until the patient can receive a stem cell transplant if eligible. Allogeneic stem cell transplant involves **15–25%** treatment-related mortality but offers the possibility of cure.
-
-**Acute Promyelocytic Leukemia (APML)** (subtype of AML): Pathophysiology involves the (15;17) chromosome translocation disturbing the retinoic acid receptor. Clinical features are often associated with severe DIC, so it must be diagnosed quickly. The smear shows atypical promyelocytes and Auer rods. Treatment involves ATRA (high-dose vitamin A) and arsenic. Complications of ATRA include differentiation syndrome where differentiation of blasts results in a profound inflammatory response causing SIRS, pulmonary edema, and AKI. Give steroid prophylaxis with ATRA, and if differentiation syndrome occurs, treat with high-dose steroids. Hyperleukocytosis is managed as an oncologic emergency. Pseudotumor cerebri requires holding ATRA and achieving pain control and considering steroids or diuretics.
-
-**Acute Lymphocytic Leukemia (ALL)**: Epidemiology occurs in both children (2–5 yr) and adults (>60 yr), with much better outcomes in children. Pathogenesis arises from mutations in hematopoietic progenitor cells. Some cases are BCR-ABL driven and uncommonly associated with genetic predispositions or exposure to radiation or chemotherapy. Clinical features include lymphadenopathy, hepatomegaly, splenomegaly, bone pain, and an anterior mediastinal mass which commonly occurs with T-ALL. Treatment involves recognizing that ALL tends to involve "sanctuary sites" like the CNS and testicles, so prophylactic intrathecal chemotherapy is administered. If BCR-ABL is present (Philadelphia chromosome-positive or Ph+ ALL), treatment can include targeted agents. Induction chemotherapy plus or minus allogeneic stem cell transplant uses common adult regimens such as HyperCVAD (cyclophosphamide, vincristine, doxorubicin (Adriamycin), dexamethasone). Chimeric antigen receptor (CAR) T cells target CD19 for B cell ALL.
-
----
-
-## 5. Chronic Leukemia Subtypes
-
-**Chronic Myeloid Leukemia (CML)**: Epidemiology is common in older adults with median age 64 yr, and risk factor is ionizing radiation. Pathophysiology involves the Philadelphia chromosome with a 9;22 chromosome translocation resulting in the fusion of BCR-ABL, causing an activated tyrosine kinase. Diagnosis involves elevated WBC and bone marrow biopsy to rule out AML or blast phase, plus quantitative PCR and FISH for BCR-ABL. Clinical features in chronic phase with <**15%** blasts show most patients in the United States diagnosed in the chronic phase based on abnormal labs or mild symptoms such as fatigue and early satiety due to hepatosplenomegaly. Tyrosine kinase inhibitors (TKIs) work well for this phase. Progression to advanced phase typically occurs after more than 5 yr of disease. Accelerated phase is defined as 15–**30%** blasts, and blast crisis is >**30%** blasts (myeloid or lymphoid). Advanced phases do not respond as well to TKIs, so consider allogeneic stem cell transplant. Median survival without transplant is 6 months. Treatment involves tyrosine kinase inhibitors (TKIs) with imatinib (Gleevec) as the first approved, and now multiple TKIs approved including dasatinib, nilotinib, and bosutinib. Consider allogeneic stem cell transplant if accelerated phase or blast crisis.
-
-**Chronic Lymphocytic Leukemia (CLL)**: Pathophysiology typically involves elderly patients in their 70s with M>F. Monoclonal proliferation of B cells (CD5/CD20+) that are mature but defective. Clinical features include patients often being asymptomatic (diagnosed incidentally on CBC) or presenting with bulky painless lymphadenopathy, splenomegaly, and respiratory or skin infection from hypogammaglobulinemia causing inability to make plasma cells. Richter transformation occurs when CLL transforms into diffuse large B cell lymphoma. Diagnosis involves elevated WBC with kappa or lambda restriction demonstrated on flow cytometry. The smear shows smudge cells (fragile leukocytes that break on slide). If patients develop pancytopenia, it is a poor prognosis. Treatment involves often observing until progressive symptoms, and targeted therapies are used when indicated including ibrutinib or venetoclax. Early vaccination is very important as these patients have progressive immunocompromise and most often die from infection.
-
----
-
-## 6. Other Subtypes/Precursors of Leukemia
-
-**Hairy Cell Leukemia**: Pathophysiology involves a rare, indolent B-cell leukemia with median age of diagnosis 50–55 yr. Clinical features include palpable splenomegaly, cytopenias, and fatigue. Diagnosis involves lymphocytes with fine, hair-like irregular projections and positive tartrate-resistant acid phosphatase (TRAP) stain. Bone marrow may become fibrotic with a dry tap. Treatment involves cladribine.
-
-**Myelodysplastic Syndrome (MDS)**: Pathophysiology involves elderly marrow "failing" with risk factors including radiation and toxins such as benzenes and alkylating agents. MDS exists on a spectrum of AML but with < **20%** blasts and can progress to AML, requiring monitoring. Clinical features may be diagnosed incidentally on CBC or can lead to progressive anemia. Diagnosis shows myeloblasts in peripheral blood/marrow <**20%**, dysplastic bone marrow (Pseudo-Pelger-Huet anomaly, sideroblasts), and anemia, thrombocytopenia. Prognosis uses the IPSS-R scoring system based on blood counts, blast percentage, and cytogenetics, which correlates with survival and risk of AML progression to guide treatment selection. Treatment usually involves monitoring unless patients develop symptomatic anemia or thrombocytopenia with recurrent bleeding or recurrent infections with ANC <500/μl. Supportive care includes vitamin B6, B12, and folate given high cell turnover, plus transfusing pRBCs and platelets as needed. Low-intensity therapy includes hematopoietic growth factor (erythropoietin), hypomethylating agents such as azacitidine or decitabine, and lenalidomide if patients have an isolated deletion of chromosome 5 (del(5q)). High-intensity therapy includes intensive combination chemotherapy plus allogeneic stem cell transplant.
-
----
-
-## 7. Myeloproliferative Neoplasms
-
-**Polycythemia Vera (PV)**: Pathophysiology involves median age of onset 60–65 yr with abnormal hematopoietic stem cells having a constitutively active JAK2 receptor that can proliferate in the absence of EPO stimulation, leading to increased RBC and decreased EPO. Clinical features are remembered as the 4 Hs. Hyperviscosity of blood causes "ruddy complexion," headache, dizziness, blurry vision, thrombosis, DVT/PE, CVA, MI, and hepatic or portal vein thrombosis. Hypervolemia and hypertension are also present. Histamine causes pruritus particularly after bathing and peptic ulcers. Hyperuricemia causes increased cell turnover, hepatosplenomegaly, and gout. Diagnosis involves a JAK2 mutation panel and bone marrow biopsy consideration. Labs show increased RBCs (Hct >**50%**, Hgb >**16.5 g/dL** in males and >**16 g/dL** in females) and decreased EPO. There may also be increased WBC, increased platelets, and increased B12. Almost **100%** of patients have a JAK2 mutation. Rule out secondary polycythemia by checking increased RBCs and increased EPO. Treatment involves repeated phlebotomy to lower Hct <**45%**, hydroxyurea, ASA, and consider allopurinol if hyperuricemia. Second-line treatment is ruxolitinib if the patient has a JAK2 mutation and is refractory to hydroxyurea. Monitor for transformation to MDS/AML.
-
-**Essential Thrombocythemia (ET)**: Pathophysiology involves overproduction of platelets by megakaryocytes in the bone marrow with a JAK2 mutation present in 40–**50%** of cases. Clinical features include increased bleeding from acquired vWF disorder or thrombosis such as CVA. Diagnosis shows increased platelets (>450K/μl) with possible leukocytosis. Rule out reactive thrombocytosis secondary to infection, inflammation, or other causes. Must not meet criteria for another myeloproliferative disorder such as PV. Treatment in high-risk patients (age >60 yr, >1 million plt/μl, history of thrombosis) involves hydroxyurea and low-dose aspirin.
-
-**Primary Myelofibrosis**: Pathophysiology involves megakaryocytes making excess PDGF which causes bone marrow fibrosis, with **50%** of patients having a JAK2 mutation. Clinical features include extramedullary hematopoiesis causing splenomegaly with abdominal pain and early satiety, plus B symptoms and risk of infection, thrombosis, and bleeding. Diagnosis shows decreased RBCs and teardrop-shaped erythrocytes. Bone marrow biopsy shows reticulin or collagen fibrosis. Treatment involves hydroxyurea and ruxolitinib (JAK2 inhibitor). Allogeneic stem cell transplant is indicated for patients <60 yr. Avoid splenectomy.
-
----
-
-## 8. Hodgkin Lymphoma (HL)
-
-**Epidemiology**: Bimodal age of onset of 15–30 yr or >50 yr. Risk factors include HIV, EBV, and immunosuppression.
-
-**Clinical Features**: Asymptomatic lymphadenopathy or mediastinal mass and B symptoms in approximately **40%** of cases including fever, night sweats, and weight loss.
-
-**Diagnosis**: Biopsy ideally involves an excisional biopsy, but a core biopsy can suffice if not. FNA is rarely sufficient. A larger amount of tissue allows the hematopathologist to identify whether a lymphoma has retained nodal architecture or has a diffuse architecture. Immunohistochemistry stains for specific surface markers to identify cell origin. FISH or PCR for chromosomal rearrangements may suggest specific types such as t(11;14) for mantle cell lymphoma, t(14;18) for follicular lymphoma and DLBCL, and dual t(8;14) and t(14;18) rearrangement involving MYC and BCL2 indicating a high-grade "double hit" chemotherapy-resistant phenotype requiring more aggressive therapy.
-
-**Staging**: Both the histologic lymphoma subtype and the stage are crucial for treatment. CT chest/abd/pelvis and PET/CT are used for most. Consider bone marrow biopsy but not always needed. LP should be performed for all patients with Burkitt lymphoma and considered for high-grade lymphomas to determine the need for CNS prophylaxis. Use the CNS International Prognostic Index (CNSIPI) to determine the need for LP if score is 3 or higher based on age >60 yr, elevated LDH, ECOG >1, stage III/IV disease, and extranodal involvement. At diagnosis, obtain TTE for pretreatment with anthracyclines, PFTs if planning for bleomycin, CBC with differential, CMP, HIV, hepatitis serologies, quantiferon gold/PPD, LDH, and uric acid.
-
-**Treatment**: ABVD involves doxorubicin (Adriamycin), bleomycin, vinblastine, and dacarbazine.
-
----
-
-## 9. Non-Hodgkin's Lymphoma (NHL)
-
-**Risk Factors**: HIV, immunosuppression, EBV/HTLV-1 infection, H. pylori for MALT lymphoma, and autoimmune conditions.
-
-**Clinical Features**: Bulky lymphadenopathy that is painless and firm, hepatosplenomegaly, and B symptoms are less common than with Hodgkin's lymphoma.
-
-| Classification | Subtypes |
-| :--- | :--- |
-| **Hodgkin Lymphoma** | |
-| **Indolent subtypes** | Follicular Lymphoma (FL), Marginal zone lymphoma, Lymphoplasmacytic Lymphoma (LPL, includes Waldenström macroglobulinemia), Small Lymphocytic Lymphoma (SLL), Mycosis fungoides |
-| **Aggressive subtypes** | Diffuse Large B Cell Lymphoma (DLBCL), Primary Mediastinal B Cell Lymphoma, Mantle Cell Lymphoma, Lymphoblastic Lymphoma, Burkitt Lymphoma, Primary CNS Lymphoma, Lymphomas Associated with Immunodeficiency, T and NK Cell Lymphomas |
-
-**Follicular Lymphoma (FL)**: Epidemiology is the most common indolent NHL. Clinical features show a typically indolent course but it is incurable and can relapse despite prolonged remission. Life expectancy is 12–15 yr from diagnosis. Treatment for asymptomatic FL involves observation if low tumor burden, particularly in elderly patients. Watchful waiting versus upfront treatment with rituximab does not affect overall survival, though initial rituximab may improve quality of life and postpone cytotoxic chemotherapy. For symptomatic FL, consider treatment with anti-CD20 therapy (rituximab) for more lymph node involvement, splenomegaly, pleural effusions, systemic symptoms, or large tumor causing organ dysfunction. If severe disease, consider cytotoxic chemotherapy with RCHOP. Restage for relapsed disease. Transformation to aggressive lymphoma is possible. The risk of transformation to aggressive lymphoma (typically DLBCL) is 1–**2%** per year with a lifetime risk of **30%**.
-
-**Diffuse Large B Cell Lymphoma (DLBCL)**: Epidemiology is the most common aggressive NHL. Clinical features include lymphadenopathy, and up to **40%** present with disease in extranodal locations, most commonly in the GI tract but also the CNS, lungs, GU tract, and reproductive tract. Morphology shows diffuse effacement of normal lymph node architecture by intermediate to large-sized cells with significant genetic heterogeneity. Treatment involves RCHOP or R-EPOCH chemotherapy. RCHOP includes rituximab, cyclophosphamide, doxorubicin hydrochloride, vincristine (Oncovin), and prednisone. R-EPOCH includes rituximab, etoposide, prednisone, vincristine (Oncovin), cyclophosphamide, and doxorubicin hydrochloride. CNS prophylaxis is needed for patients with DLBCL who have high-risk features and for all patients with Burkitt's, lymphoblastic lymphoma, or HIV-associated aggressive lymphomas.
-
----
-
-## 10. Plasma Cell Disorders
-
-**Spectrum of Disease**: The spectrum ranges from monoclonal gammopathy of uncertain significance (MGUS) (asymptomatic) to smoldering multiple myeloma (asymptomatic) with <**3 g/dL** M spike or **10%** plasma cells on bone marrow biopsy to active multiple myeloma to plasma cell leukemia. Amyloidosis involves some clones making light chains that are amyloidogenic and can occur with any of the four conditions above.
-
-**Monoclonal Gammopathy of Undetermined Significance (MGUS)**: Pathophysiology involves asymptomatic premalignant plasma cell proliferation that typically occurs in elderly patients with an increase in serum protein and M spike on SPEP but no other associated symptoms. Fewer than **20%** of patients with MGUS develop multiple myeloma (MM), but almost all patients with MM have preceding MGUS. Diagnostic criteria include serum monoclonal Ig protein (M spike) <3 g, bone marrow clonal plasma cells <**10%**, and no end organ damage (no CRAB criteria). Workup includes CBC, CMP, Mg²⁺, phosphorus, LDH, total immunoglobulins (IgA, IgG, IgM), serum protein electrophoresis (SPEP) to quantify a monoclonal abnormal protein (M spike), immunofixation (IFE) to classify the abnormal protein, and serum free light chain (sFLC) to detect low levels of free light chains. Note that in CKD, an increased K:L ratio up to 3 can be normal due to decreased clearance of FLC. Additional studies include UA, urine spot protein/Cr, 24-hr UPEP to quantify urine M protein, UIFE to classify abnormal protein, urine free light chains (Bence Jones protein), beta-2 microglobulin for prognostic value, and skeletal survey (long bones, skull) to rule out lytic lesions suggesting multiple myeloma, alternatively low dose whole body CT scan or MRIs. Treatment involves no intervention needed, only observation. Monitoring depends on risk factors including Ig type, M spike, and light chains.
-
-**Multiple Myeloma (MM)**: Pathophysiology involves malignant proliferation of a single plasma cell line that makes a monoclonal immunoglobulin, most often large amounts of IgG or IgA. Clinical features often present in patients in their 60s with fractures or bone pain. Diagnostic criteria = SLiMCRAB. Si involves sixty percent plasma cells on bone marrow biopsy. Li involves Serum Free Light chain ratio >100. M involves MRI with >1 focal lesion (plasmacytoma). C involves HyperCalcemia (>**10.5 mg/dL**). R involves Renal insufficiency with creatinine >**2 mg/dL** without an alternative diagnosis. A involves Anemia with Hgb <**10 g/dL** without an alternative diagnosis. B involves Bony disease with "punched out" lytic bone lesions or osteoporosis. Bone pain is the most common presenting symptom. Other clinical features include amyloidosis with kappa chain accumulation causing carpal tunnel syndrome, and infection because lack of immunoglobulin diversity can lead to increased risk of infection. Diagnosis requires labs (SPEP, sFLC), imaging (usually PET/CT), and bone marrow biopsy. Serum monoclonal protein present (M spike >3g) and bone marrow clonal plasma cells >**10%** with end organ damage present (SLiMCRAB). Other common findings include increased ESR and increased serum protein. The smear shows RBC rouleaux ("stacks of RBCs" where RBCs stick together due to increased plasma proteins). Staging uses the Revised International Staging System (RISS) based on Beta-2 microglobulin, albumin, LDH, and chromosomal abnormalities to predict overall and progression-free survival at 5 yr. Treatment typically involves chemotherapy followed by autologous stem cell transplant. Classes of therapy include proteasome inhibitors (bortezomib, carfilzomib), immunomodulatory agents (lenalidomide), and monoclonal antibodies (daratumumab targeting CD38 on MM cells). Common regimens include Hyper CD (cyclophosphamide + dexamethasone) for rapid reduction in patients with high disease burden, RVD (lenalidomide, bortezomib, dexamethasone), KRD (carfilzomib, lenalidomide, dexamethasone), and daratumumab with lenalidomide and dexamethasone.
-
-| RISS Stage | Diagnostic Criteria | 5-Year Overall Survival | 5-Year Progression-Free Survival |
-| :--- | :--- | :--- | :--- |
-| **I** | B2M <**3.5 mg/L** and serum albumin ≥**3.5 g/dL**, normal LDH, standard risk chromosomal abnormalities | **82%** | **55%** |
-| **II** | Not stage I or III | **62%** | **36%** |
-| **III** | B2M ≥**5.5 mg/L** + LDH above normal limits and/or detection of high-risk chromosomal abnormalities (del(17p), t(4;14), or t(14;16)) | **43%** | **29%** |
-
-**Waldenström Macroglobulinemia**: Pathophysiology involves malignant clonal proliferation of IgM-producing plasmacytoid lymphocytes. Clinical features are similar to MM, but IgM protein is larger and "stickier," so it causes more symptoms of hyperviscosity syndrome in up to **30%** of patients. Cold cryoglobulinemia occurs in **10%** of patients. Treatment involves plasmapheresis for hyperviscosity management and usually includes rituximab.
-
-**AL Amyloidosis**: Pathophysiology involves immunoglobulin light chain amyloid from malignant clonal proliferation of plasma cells such as in MM or Waldenström. The proteins deposit in tissues and cause end organ damage. Clinical features include nephrotic syndrome, restrictive cardiomyopathy, and neuropathy. Diagnosis involves biopsy often of the fat pad to look for deposition of amyloid protein. SPEP will show an M spike, and serum free light chains will show an abnormal sFLC ratio. Treatment involves treating the underlying plasma cell disorder and considering autologous stem cell transplant.
-
----
-
-## 11. Other Malignant Hematologic Conditions
-
-**Hemophagocytic Lymphohistiocytosis (HLH)**: Pathophysiology involves excess immune activation, inflammation, and tissue destruction that can be life threatening. It can be idiopathic or provoked by a viral trigger or malignancy. Clinical features include fever, splenomegaly, cytopenias, and mental status changes. Diagnosis requires 5 of the 8 criteria including fever ≥38.5°C, splenomegaly, bicytopenia, increased triglycerides or decreased fibrinogen, hemophagocytosis on pathology review, decreased natural killer cell activity, ferritin >500 ng/mL, and increased soluble IL2 receptor. Treatment involves treating the underlying cause and giving steroids. If acutely ill or decompensating, consider HLH-specific therapy based on the HLH94 regimen including etoposide, dexamethasone, and plus or minus intrathecal therapy.
-
----
-
-## 12. Transfusion Medicine
-
-**Standard Testing**: ABO typing determines A/B antigens present on RBCs (blood type A, B, AB, or O). Rh(D) typing tests for D antigen on RBCs such as A+ versus A−. Type and screen tests for unexpected antibodies in patient plasma that might react with transfused product and cause hemolysis, and must be done every 72 hours. Type and cross is the final confirmation test performed by mixing the patient's plasma and the donor's RBCs and is performed when transfusion is imminent or very likely.
-
-**Antibody Testing**: The direct antiglobulin test (DAT or Coombs) tests for autoantibodies on the patient's RBCs by mixing patient's RBCs plus Coombs reagent (anti-IgG, anti-C3). The indirect Coombs tests for antibodies in the patient's plasma by mixing patient's plasma plus donor RBCs and Coombs reagent.
-
-**Apheresis**: Plasmapheresis removes high molecular weight proteins from plasma such as antibodies and is used in TTP, hyperviscosity syndrome, cryoglobulinemia, myasthenia gravis, Guillain-Barré syndrome, anti-GBM, and some ANCA vasculitidities. Cytapheresis removes cellular components such as leukapheresis which removes WBCs in acute leukemia.
-
-**Complications of Transfusion**: Hypocalcemia occurs because citrate used to preserve pRBCs chelates calcium. Volume overload occurs because blood products stay mostly intravascular, so 250 cc of pRBCs (**1 unit**) is equivalent to 1000 cc normal saline. Rapid increase in intravascular volume can lead to circulatory overload and increased hydrostatic pressure, which can worsen active bleeding.
-
-**Special Preparations of Blood**: Leukoreduced blood has WBCs filtered out, decreasing the risk of febrile reaction in patients with prior febrile nonhemolytic transfusion reactions and decreasing the risk of HLA/RBC alloimmunization in patients who are chronically transfused such as patients with hematologic malignancies or transplant candidates. CMV-reduced-risk blood requires CMV-negative donor or leukocyte reduction to remove mononuclear cells and prevents CMV transmission in CMV-negative recipients of bone or organ transplant, pregnant women, and HIV+ patients. Irradiated blood prevents donor T cells from attacking host marrow and is used to prevent TAGVHD in first-degree-related donors for heme malignancy and bone marrow transplant. Washed blood removes anti-IgA antibodies and plasma proteins and prevents anaphylaxis in severe IgA deficiency.
-
-**Types of Blood Products**: **Packed red blood cells (pRBCs)** have **1 unit** equal to 250 cc with an expected Hgb increase of **1 g/dL**. Transfusion time is 60–240 min. The goal depends on patient-specific factors but is generally Hgb >**7 g/dL** in most patients or >**8 g/dL** in certain patients with CAD and/or ACS. **Platelets** from one pheresis unit (6pk) equal 300 cc with an expected platelet increase of 30K/μl. Transfusion time is 30–60 min. Pooled platelets come from platelets removed from whole blood donation from many donors. Apheresis platelets come from a single donor. The goal depends on patient-specific factors but is generally Plt >10K/μl for prophylaxis against spontaneous bleeding in most patients or >50K/μl if there is a major bleed. **Fresh frozen plasma (FFP)** has 1 unit equal to 250 cc and contains all coagulation factors. Transfusion time is 30–60 min. The half-life is less than 7 hrs, and the INR of FFP is approximately 1.6. **Cryoprecipitate** has 10 units equal to 150 cc and contains fibrinogen, fibronectin, factor XIII, VIII, and vWF. Transfusion time is 30–60 min. Indications include bleeding and low fibrinogen such as in DIC or massive transfusion. Fibrinogen replacement requires 0.2 bag/kg providing **100 mg/dL** fibrinogen. If fibrinogen is 50–**100 mg/dL**, give 10 units. If fibrinogen is 0–**50 mg/dL**, give 20 units. The half-life is 3–5 days. **Coagulation factors** include plasma-derived or recombinant factors VIII and IX used in hemophilia, recombinant factor VIIa (Novoseven), and Prothrombin Complex Concentrate (PCC, KCentra) which is a 4-factor product containing factor II, VII, IX, and X. **Albumin** comes in **5%** (isooncotic) versus **25%** (hyperoncotic), and all bottles contain 12.5 g albumin plus **154 mEq** Na⁺ (isotonic). Approved uses for albumin include cirrhosis with HRS, cirrhosis with SBP, and cirrhosis after large volume paracentesis with ≥4L fluid removed.
-
-**Transfusion Reactions**: For **urticaria/hives**, localized or diffuse hives and redness can occur at any time during transfusion due to IgE-mediated sensitivity to donor plasma. Stop the transfusion and give diphenhydramine. Can restart transfusion if symptoms resolve, and consider giving washed blood products in the future. For **anaphylaxis**, rapid onset shock, angioedema, urticaria, and respiratory distress occur with IgA-deficient individuals at greatest risk. Stop the transfusion and give IM epinephrine. Future transfusions should use IgA-deficient plasma and washed RBCs. For a **primary hypotensive reaction**, transient hypotension occurs in a patient who is on an ACE inhibitor within minutes because of bradykinin in blood. Stop the transfusion and avoid ACE inhibitors prior to transfusions in the future. For an **acute hemolytic reaction** within 1 hour, fever, flank pain, and hemoglobinuria (cola-colored urine) occur, potentially leading to renal failure, DIC, and pink plasma. Diagnosis involves checking Hgb in urine and a positive DAT. Treatment involves fluids plus or minus diuretic aiming for goal urine output >100 cc/hr. For **bacterial sepsis**, contaminated blood products (platelets most common) cause fevers, chills, and septic shock with DIC. Diagnosis involves blood cultures and cultures of the blood product. Treatment involves antibiotics and quarantining all other similar products. For a **febrile nonhemolytic transfusion reaction** (1–6 hrs), the most common transfusion reaction occurs because stored blood contains cytokines that cause inflammation when transfused. Stop the transfusion, give antipyretic, and use leukoreduced blood in the future. For **transfusion-related acute lung injury (TRALI)** (1–6 hrs), fever, hypoxia, hypotension, and normal JVP occur with respiratory distress and pulmonary edema due to donor antileukocyte antibody to host granulocytes. Risk is greatest with FFP > platelets > RBCs. Provide supplemental oxygen and consider intubation if needed. Alert the blood bank so the donor cannot donate blood again in the future. For **transfusion-associated circulatory overload (TACO)** (1–6 hrs), cardiogenic edema, SOB, and HTN occur with higher risk when higher volumes of blood products are received. Diagnosis involves BNP and CXR. Treatment involves oxygen, diuretics, and slower transfusion rate. For a **delayed hemolytic reaction** (2–10 days), mild fever and hemolytic anemia with flu-like illness occur. Diagnosis involves a positive DAT and hemolysis labs. Treatment is supportive.
-
----
-
-## 13. Anticoagulation
-
-| Route | Agent | Dosing / Monitoring | Reversal |
-| :--- | :--- | :--- | :--- |
-| **Parenteral** | **Unfractionated Heparin** | Binds and activates ATIII to inactivate Xa and IIa. Half-life 60–90 min. ACS: PTT goal 60–80. VTE: PTT goal 70–100. DVT prophylaxis with renal dysfunction: 5000U SQ Q8–12 (no monitoring for SQ). | Protamine: 1 mg per 100U heparin |
-| | **Low-molecular weight heparin (enoxaparin/Lovenox)** | Binds and activates ATIII to inactivate Xa >> IIa. Half-life 4.5–7 hrs. VTE: 1 mg/kg SQ BID or 1.5 mg/kg QD. DVT prophylaxis: 40U SQ QD (30U QD if CrCl <60). No need for monitoring. | Protamine |
-| | **Fondaparinux (Arixtra)** | Binds and activates ATIII to inactivate Xa only. Half-life 17–21 hrs. VTE: weight-based daily dosing. DVT prophylaxis (h/o HIT): 2.5 mg SQ daily. Anti-Xa level for monitoring. | No reversal agent |
-| | **Argatroban** | Direct IIa inhibitor. Half-life 45 min. VTE (h/o HIT): 0.2–**1 mcg**/kg/min. PTT monitoring. | No reversal agent |
-| | **Bivalirudin (Angiomax)** | Direct thrombin inhibitor. Half-life 25 min. VTE (h/o HIT): 0.15–0.2 mg/kg/hr. PTT monitoring. | No reversal agent |
-| **Oral** | **Warfarin (Coumadin)** | Vitamin K antagonist inhibiting vitamin K-dependent carboxylation of factors II, VII, IX, X, Protein C and S. Half-life 40 hr. Dosing variable depending on goal INR. MI with LV thrombus: Goal INR 2–3. Nonvalvular Afib: Goal INR 2–3. VTE: Goal INR 2–3. APLS: Goal INR 2–3. Mechanical valves: Goal INR 2.5–3.5 (varies by valve type and comorbidities). | Vitamin K, Fresh Frozen Plasma (FFP), Prothrombin concentrate complex (Kcentra) |
-| | **Dabigatran (Pradaxa)** | Direct thrombin (IIa) inhibitor. Half-life 12–17 hrs. Renal excretion: 80–**85%**. Nonvalvular Afib: 150 mg PO BID if GFR >30, 75 mg PO BID if GFR 15–30. VTE: 150 mg PO BID after 5-day heparin bridge. DVT prophylaxis: 220 mg PO QD. | Idarucizumab (monoclonal antibody), PCC |
-| | **Rivaroxaban (Xarelto)** | Direct Xa inhibitor. Half-life 5–13 hrs. Renal excretion: **35%**. Nonvalvular Afib: 20 mg PO daily if GFR >30, 15 mg PO daily if GFR 15–30. VTE: 15 mg PO BID × 21 days, then 20 mg QD. | Andexanet (recombinant factor Xa), FFP, PCC |
-| | **Apixaban (Eliquis)** | Direct Xa inhibitor. Half-life 8–15 hrs. Renal excretion: **25%**. Nonvalvular Afib: 5 mg PO BID if GFR >30. 2.5 mg PO BID if GFR 15–30, Wt <**60 kg**, or age >80 yr. VTE: 10 mg PO BID × 7 days, then 5 mg PO BID for 6 months, then 2.5 mg PO BID >6 months. | Same as rivaroxaban |
-| | **Edoxaban (Savaysa, Lixiana)** | Direct Xa inhibitor. Half-life 6–11 hrs. Renal excretion: **35%**. Nonvalvular Afib: 60 mg PO QD. 30 mg PO QD if CrCl 15–50 or <**60 kg**. VTE: 60 mg PO QD (after 5-day heparin bridge). 30 mg PO QD if CrCl 30–50 or <**60 kg**. | Same as rivaroxaban |
-
----
-
-## 14. Chimeric Antigen Receptor (CAR) T Cell Therapy
-
-**Mechanism**: T cells are collected from the patient and genetically modified with a chimeric antigen receptor (CAR) to direct the T cells against tumor cells.
-
-**Indications**: B-cell ALL and NHL use CAR directed against CD19. Multiple myeloma uses CAR directed against BCMA (B-cell maturation antigen).
-
-**Toxicities**: **Cytokine Release Syndrome (CRS)** pathophysiology involves a systemic inflammatory response due to cytokine release after CART therapy. Clinical features include fever, fatigue, headache, rash, myalgias, and diarrhea. Patients can have very high fevers (104°F) and can progress to SIRS with hypotension and multiorgan failure. Confusion, lethargy, and even seizures or cerebral edema can occur 2–5 days after onset of CRS and can be progressive. CRS occurs in approximately 25–**50%** of patients who receive CART cell therapy for B-ALL and less commonly for multiple myeloma. Diagnosis involves increased CRP and ferritin and dramatic elevation of IL-6. Treatment involves supportive care to manage SIRS. For severe CRS, consider steroids and/or tocilizumab (monoclonal antibody against IL-6) in consultation with the hematology/oncology team.
-
-**Neurotoxicity** pathophysiology is not well understood and is also thought to be related to cytokine release after CART therapy. It is also called ICANS (immune effector cell-associated neurotoxicity syndrome) or CRES (cytokine release encephalopathy syndrome). Clinical features include a wide range of symptoms including headache, tremor, expressive aphasia, impaired attention, seizures, and cerebral edema. It usually occurs 4–5 days after CART infusion and can occur independently of CRS. Treatment involves steroids as the mainstay, and discussion with the hematology/oncology team is recommended.
-
----
-
-## 15. Stem Cell Transplant Basics
-
-**Types of Hematopoietic Stem Cells (HSCs)**: **Autologous** transplant uses the patient's own HSCs to "rescue" the bone marrow after high-intensity chemotherapy. Uses include multiple myeloma, some lymphomas, and germ cell tumors. **Allogeneic** transplant uses donor (nonself) HSCs to replace the bone marrow after high-intensity chemotherapy AND for a graft versus tumor effect. Uses include AML, ALL, CML, and CLL.
-
-**Sources of Cells**: **Peripheral blood stem cells** involve giving the donor a growth factor such as G-CSF or GM-CSF to mobilize HSCs from the bone marrow, then peripheral blood is collected. This is less invasive and lower risk for the donor. **Bone marrow** is aspirated from the iliac crests. **Umbilical cord** blood has a high number of HSCs, but there is only a limited amount if engraftment fails.
-
-**Matching for Allogeneic Transplant**: Donors are tested by HLA matching with a "**12/12**" match being the best match across 12 HLA alleles. Potential donors include an identical twin (ideal as they will be a **12/12** match plus matching on other alleles and antigens not tested), a matched related donor (ideally a sibling), and a matched unrelated donor.
-
-**Side Effects**: For autologous and identical twin allogeneic transplants, patients will not develop GVT or GVHD. The **graft versus tumor** effect is the desired therapeutic side effect where the transplanted T cells recognize the tumor cells as foreign and immunologically attack them. **Graft versus host disease (GVHD)** is the undesired side effect where the transplanted T cells attack the host's cells, causing an autoimmune syndrome. The most common sites are the skin, liver, and GI tract. **Acute GVHD** occurs within 100 days of transplant. **Chronic GVHD** occurs more than 3 months after transplant but can occur at any time. Prophylaxis involves immunosuppressive medicines to prevent graft rejection and GVHD such as tacrolimus, sirolimus, mycophenolate, methotrexate, and post-transplant cyclophosphamide. Treatment depends on the timing and severity of GVHD and usually includes increasing immunosuppressive regimens and steroids.
-
----
-
-## 16. Key Clinical Trials in Hematology
-
-**Bridging Anticoagulation**: The study by Douketis et al. (JAMA Int Med 2015;175:1163–1168) was a retrospective cohort study evaluating 1178 patients on warfarin who underwent procedures with or without bridging anticoagulation. There was no significant difference in the rate of recurrent VTE between the bridge and nonbridge therapy groups (0 versus 3; p=0.56). No deaths occurred in either group, but there was an increased rate of bleeding in the bridging anticoagulation group. The Bridge study (N Engl J Med 2015;373:823–833) was a multicenter randomized double-blinded placebo-controlled trial that randomized patients with atrial fibrillation on warfarin who underwent perioperative interruption to receive bridging anticoagulation therapy with low-molecular-weight heparin versus placebo from 3 days before the procedure until 24 hours before the procedure and then for 5–10 days after the procedure. Forgoing bridging anticoagulation was non-inferior to perioperative bridging with low-molecular-weight heparin for the prevention of arterial thromboembolism and decreased the risk of major bleeding events.
-
-**Acute Myeloid Leukemia**: The RATIFY trial (N Engl J Med 2017;377:454–464) was a multicenter randomized phase 3 clinical trial to determine whether the addition of midostaurin, an oral multi-targeted kinase inhibitor active in patients with AML and a FLT3 mutation, to standard chemotherapy would prolong overall survival. The addition of midostaurin increased overall survival and event-free survival. The CASCADE trial (J Clin Onc 2016;34:7000) was a multicenter randomized phase 3 clinical trial that randomized patients 60–75 yr of age with untreated AML and a history of prior cytotoxic treatment, antecedent MDS or CMML, or AML with MDS-related cytogenetic abnormalities to receive CPX351 or 7+3 induction therapy. CPX351 (later named Vyxeos) significantly improved overall survival, event-free survival, and response without an increase in 60-day mortality or adverse event frequency or severity, and should become standard of care for older patients with secondary AML. The study by Dinardo et al. (Blood 2019;133:7–17) was a phase Ib dose escalation and expansion study evaluating the safety and efficacy of venetoclax combined with decitabine or azacitadine in patients 65 yr or older. This combination showed tolerable safety and favorable overall response rate in elderly patients, changing the way we treat older adults with AML.
-
-**Lymphoma**: The study by Rummel et al. (The Lancet 2013;381:1203–1210) was a multicenter randomized phase 3 non-inferiority trial that randomized patients with previously untreated indolent and mantle-cell lymphomas to bendamustine plus rituximab versus R-CHOP. At median follow-up of 45 months, median progression-free survival was significantly longer in the bendamustine plus rituximab group than the R-CHOP group (69.5 months versus 31.5 months), suggesting bendamustine plus rituximab can be considered a preferred first-line treatment approach in patients with previously untreated indolent lymphomas.
-
-**Multiple Myeloma**: The IFM/DFCI 2009 trial (N Engl J Med 2017;376:1311–1320) was a multicenter randomized controlled phase 3 clinical trial where 700 patients with multiple myeloma were randomly assigned to receive induction therapy with three cycles of lenalidomide, bortezomib, and dexamethasone (RVD) and then consolidation therapy with either five additional cycles of RVD or high-dose melphalan plus stem-cell transplantation followed by two additional cycles of RVD. Median progression-free survival was significantly longer in the transplantation group than in the RVD-alone group (50 months versus 36 months), suggesting that stem cell transplantation is beneficial for these patients.
+# Malignant Hematology
+
+- Huppert's Notes: Pathophysiology and Clinical Pearls for Internal Medicine Chapter 705:
+  Diseases & Pathophysiology: Malignant Hematology in Hematology ONCOLOGIC EMERGENCIES Tumor
+  lysis syndrome (TLS) Pathophysiology: When initiating treatment for a malignancy with a
+  large tumor burden or high cell turnover rate, rapid cell lysis can occur, releasing
+  intracellular contents (potassium, phosphorus, and nucleic acids that break down into uric
+  acid) into the systemic circulation.
+- This can lead to kidney injury (uric acid is a renal vasoconstrictor and deposits in the
+  tubules) and electrolyte abnormalities.
+- Symptoms: Nausea, vomiting, symptoms of hyperkalemia (arrhythmias), hypocalcemia (seizures),
+  renal failure Diagnosis: ↑uric acid, ↑phos, ↑K+, ↓Ca2+ (due to calciumbinding by phosphorus)
+  Prophylaxis/treatment: Hydration: Aggressive IVF to maintain urine output 80–100 cc/hr to
+  improve excretion of uric acid and phosphorus Uric Acid: For high risk cases, give
+  rasburicase before treatment, then start allopurinol.
+- For intermediate risk cases, start allopurinol before treatment.
+- Add rasburicase before or during treatment if uric acid ≥ **8 mg/dL** (consult heme/onc
+  before starting).
+- Allopurinol decreases the efficacy of rasburicase, so wait to give allopurinol until after
+  rasburicase normalizes the uric acid level if possible.
+- Electrolyte management: Treat hyperkalemia, give phosphate binders.
+- Do not replete calcium unless necessary for symptoms, particularly if phosphate is high as
+  it can worsen renal damage.
+- Disseminated intravascular coagulation (DIC) Diagnosis: ↓fibrinogen, ↑Ddimer, ↓platelets,
+  ↑aPTT/PT, schistocytes on smear Treatment: Supportive care, transfuse blood products as
+  needed, treat underlying cause Hyperviscosity syndrome/leukostasis Pathophysiology:
+  Increased viscosity of blood due to increased protein or increased cellularity
+  Hyperproteinemia from monoclonal gammopathies (most common Waldenström; IgM is large and
+  sticky) High WBC from leukemia/lymphoma can cause leukostasis, which has a seven day
+  mortality of 20–**40%**.
+- The disease type and "stickiness" of the WBCs determine the level at which the WBC count
+  becomes dangerous: AML (>50–100K/μl) ALL (>100–150K/μl) CML (>200–250K/μl) CLL
+  (>400–500K/μl) Clinical features: Fever, chest pain, shortness of breath, blurry vision,
+  headache, AMS, priapism Diagnosis: WBC, SPEP, light chains, BMP, LFTs, TLS/DIC labs
+  Treatment: Aggressive hydration.
+- Call hematology.
+- Hyperproteinemia → Plasmapheresis Hyperleukocytosis → Leukapheresis +/– cytoreduction
+  (hydroxyurea).
+- Avoid RBC and platelet transfusions.
+- Start chemotherapy ASAP.
+- Neutropenic fever Definition: Single oral temperature ≥38.3°C (101°F) or ≥38°C (100.4°F) for
+  ≥1hr + absolute neutrophil count (ANC) <500/μl or predicted nadir <500/ μl within 48 hrs
+  based on trend (IDSA Guidelines) Source of infection: Most often from gut translocation due
+  to breakdown of GI barrier after receiving chemotherapy.
+- However, a pathogen is isolated in only 20– **30%** of cases (Freifeld et.
+- Clinical Infectious Diseases 2011).
+- Most common pathogens: GNRs, GPCs (line infections and mucositis), fungal (more common if
+  prolonged neutropenia, TPN, or prolonged broadspectrum antibiotics) Diagnosis: Examine mouth
+  to evaluate for mucositis, lines for signs of infection, skin to evaluate for infection,
+  abdominal exam (do not perform a digital rectal exam in neutropenic patients) Labs: CBC with
+  differential, CMP, blood cultures ×2 (1 peripheral, 1 from central line/port if present),
+  UA/UCx, sputum cx, respiratory viral panel/flu/COVID19 PCR, C.diff testing if diarrhea
+  Imaging: CXR, low threshold for CT C/A/P and/or CT face/sinus if localizing symptoms
+  Treatment: Follow institutionspecific guidelines if present.
+- Also see Infectious Diseases Chapter 8.
+- Empiric antibiotics: Gram negative coverage (with pseudomonal coverage) +/– gram positive
+  coverage (only if signs of line infection, pneumonia, or severe mucositis) +/– anaerobic
+  coverage (if GI symptoms).
+- Consider fungal coverage if febrile ×96 hours despite appropriate antibacterial coverage.
+- Example regimen: cefepime +/– vancomycin +/– metronidazole Duration: If pathogen identified,
+  treat as appropriate.
+- If no pathogen identified, stop antibiotics 48 hours after last recorded fever AND once ANC
+  >500/μl.
+- If ANC remains <500/μl, continue antibiotics until afebrile ×5–7 days.
+- Site specific considerations: Typhlitis or neutropenic enterocolitis: Infection of the
+  terminal ileum.
+- Mortality rate has been reported as high as **50%**.
+- Make patient NPO and add anaerobic coverage to pseudomonal coverage (i.e., cefepime +
+  metronidazole or pip/tazo or meropenem).
+- Sinusitis: Patients with prolonged neutropenia, on prolonged broadspectrum antibiotics, or
+  on TPN are at risk for aspergillus and mucor, and thus micafungin/caspofungin +/–
+  amphotericin should be considered in consultation with ID to cover for invasive fungal
+  infection Malignant hematology overview: Within malignant hematology, there are three broad
+  categories of disease: 1) Leukemias, 2) Lymphomas, and 3) Multiple Myeloma Organizational
+  framework for leukemias and disorders of the myeloid lineage: See Table 7.2 TABLE 7.2
+  Classifications of Acute and Chronic Leukemias Myeloid Lineage Lymphoid Lineage Acute
+  leukemia Acute Myelogenous Leukemia (AML) Median age: 65–70 yr (most common acute leukemia
+  in adults, **80%**) Acute Promyelocytic Leukemia (APML) *Subtype of AML, similar age of
+  onset and presentation Acute Lymphoid Leukemia (ALL) Median age: Bimodal (children <6 yr,
+  adults >60 yr) Most common cancer in children Chronic leukemia Chronic Myelogenous Leukemia
+  (CML) Median age: 50 yr Chronic Lymphoid Leukemia (CLL) Median age: 70 yr (more common M>F)
+  Most common leukemia in adults (in Western countries) Other subtypes Myelodysplastic
+  Syndrome (MDS) Myeloproliferative neoplasms Prolymphocytic Leukemia Large Granular
+  Lymphocyte Leukemia Hairy Cell Leukemia ACUTE LEUKEMIA BASICS Definition: Leukemia: ≥**20%**
+  blasts in the bone marrow OR periphery, OR characteristic chromosomal abnormality (e.g.,
+  8:21) Note: You usually cannot tell AML vs.
+- ALL from the smear alone; must get flow and/or cell markers (unless you see Auer rods, which
+  only occur in myeloid cells) Pearls: Acute leukemia is an emergency at initial presentation
+  – evaluate for leukostasis, TLS, DIC With aggressive, highintensity therapy, many patients
+  can be cured Epidemiology: AML: Most common adult acute leukemia, average age 65–70 yr ALL:
+  More common in children, although can also occur in adults Clinical features: Fevers,
+  headaches, weakness, bleeding, bone pain (expansion of medullary cavity), abdominal pain
+  (splenic enlargement) Diagnosis: Labs: CBC with differential, CMP, LFTs, Ca2+/Mg2+/Phos, PT,
+  PTT, fibrinogen, uric acid Critical to look for early evidence of DIC and TLS APML in
+  particular is associated with DIC Blood smear: See blasts (round blue cells with high
+  nucleartocytoplasmic ratio, open chromatin, visible nucleoli, larger than a RBC) Look for
+  Auer rods (only seen in AML, see Figure 7.4) Peripheral flow cytometry: Can help
+  differentiate AML, ALL, APML, etc.
+- Bone marrow evaluation (aspirate, core biopsy, flow cytometry, cytogenetics, DNA extraction)
+  Pretreatment workup: TTE (baseline, because many of the chemotherapy agents can cause
+  cardiotoxicity) HIV, hepatitis serologies, quantiferon gold, CMV IgG Type and screen UA +/–
+  urine pregnancy (if needed) Evaluate for oncologic emergencies: Neutropenic fever, TLS, DIC,
+  leukostasis FIGURE 7.4 Auer rods.
+- Auer rods (or Auer bodies) are large, crystalline cytoplasmic inclusion bodies sometimes
+  observed in acute myeloid leukemias.
+- ACUTE LEUKEMIA SUBTYPES Acute myeloid leukemia (AML) Pathophysiology: Malignant
+  transformation of myeloid precursor cells Epidemiology: Median age at diagnosis is 65 yr
+  Risk factors: Radiation, toxins (benzenes, alkylating agents), Down syndrome Clinical
+  features: Often patients are quite ill at the time of diagnosis.
+- 1) Functional neutropenia (fevers, infection), 2) Thrombocytopenia (bruising), 3) Anemia
+  (weakness), 4) Expansion of medullary cavity (bone pain), 5) Infiltration of skin, soft
+  tissue, CNS Diagnosis: Requires more than **20%** blasts in bone marrow or periphery, except
+  in cases of certain chromosomal abnormalities Treatment: Usually a combination of
+  chemotherapy +/– allogeneic stem cell transplant (Figure 7.5) Chemotherapy = induction with
+  "7+3" (7 days cytarabine, 3 days anthracyclines; Figure 7.5) After 7+3, repeat bone marrow
+  biopsy on day 14.
+- If bone marrow has no blasts, continue to consolidation therapy.
+- If not, repeat induction.
+- Consolidation therapy aims to maintain remission until the patient can receive a stem cell
+  transplant, if eligible Allogenic stem cell transplant: 15–**25%** treatmentrelated
+  mortality, but possibility of cure FIGURE 7.5 Induction and consolidation chemotherapy prior
+  to allogeneic stem cell transplant.
+- Shown is an example induction and consolidation chemotherapy plan prior to allogenic stem
+  cell transplant.
+- Induction and consolidation regimens vary based on the type of malignancy.
+- Typically, a bone marrow biopsy is done prior to starting treatment (day 0) and is repeated
+  after induction chemotherapy on day 14.
+- If there is still evidence of residual disease on the day 14 bone marrow biopsy, then repeat
+  induction chemotherapy is considered.
+- Alternatively, if there is no evidence of residual disease, then patients can proceed with
+  consolidation chemotherapy.
+- Allogenic stem cell transplant is performed after consolidation chemotherapy is completed.
+- Acute promyelocytic leukemia (APML; subtype of AML) Pathophysiology: Caused by (15;17)
+  chromosome translocation, which disturbs the retinoic acid receptor Clinical features: Often
+  associated with severe DIC – must diagnose quickly because DIC can become severe.
+- Smear: Atypical promyelocytes, +Auer rods.
+- Treatment: ATRA (highdose vitamin A) and arsenic.
+- Complications of ATRA: Differentiation syndrome: Differentiation of blasts results in a
+  profound inflammatory response, which causes SIRS, pulmonary edema, and AKI.
+- Give steroid prophylaxis with ATRA; if differentiation syndrome occurs, then treat with
+  highdose steroids.
+- Hyperleukocytosis: See oncologic emergencies above Pseudotumor cerebri: Hold ATRA; achieve
+  pain control, consider steroids/diuretics Acute lymphocytic leukemia (ALL) Epidemiology:
+  Occurs in both children (2–5 yr) and adults (>60 yr).
+- Outcomes are much better in children.
+- Pathogenesis: Arises from mutations in hematopoietic progenitor cells.
+- Some cases are BCRABL driven.
+- Cases are uncommonly associated with genetic predispositions or exposure to
+  radiation/chemotherapy.
+- Clinical features: Lymphadenopathy, hepatomegaly, splenomegaly, bone pain; anterior
+  mediastinal mass commonly occurs with TALL.
+- Treatment: Tends to involve "sanctuary sites" like CNS and testicles, so prophylactic
+  intrathecal chemotherapy administered If BCRABL present (Philadelphia chromosomepositive or
+  Ph+ ALL), can treat with targeted agents Induction chemotherapy +/– allogeneic stem cell
+  transplant: Common adult regimens: HyperCVAD (cyclophosphamide, vincristine, doxorubicin
+  (Adriamycin), dexamethasone) Chimeric antigen receptor (CAR) T cells: See treatment section.
+- Target CD19 for B cell ALL CHRONIC LEUKEMIA SUBTYPES Chronic myeloid leukemia (CML)
+  Epidemiology: Common in older adults (median age 64 yr); risk factor = ionizing radiation
+  Pathophysiology: Philadelphia chromosome: 9;22 chromosome translocation results in the
+  fusion of BCRABL, which causes an activated tyrosine kinase Diagnosis: Elevated WBC, bone
+  marrow biopsy to rule out AML/blast phase; quantitative PCR and FISH for BCRABL Clinical
+  features: Chronic phase (<**15%** blasts): Most patients in the United States diagnosed in
+  the chronic phase based on abnormal labs or mild symptoms (fatigue, early satiety due to
+  hepatosplenomegaly).
+- Tyrosine kinase inhibitors (TKIs) work well for this phase.
+- Progression to advanced phase typically occurs after >5 yr of disease.
+- Advanced phases: Accelerated phase (15–**30%** blasts), Blast crisis (>**30%** blasts –
+  myeloid or lymphoid).
+- These phases do not respond as well to TKIs; consider allogeneic stem cell transplant.
+- Median survival without transplant is 6 months.
+- Treatment: Tyrosine kinase inhibitors (TKIs).
+- First approved was imatinib (Gleevec).
+- Now multiple TKIs approved (i.e., dasatinib, nilotinib, bosutinib).
+- Also consider allogeneic stem cell transplant if accelerated phase or blast crisis.
+- Chronic lymphocytic leukemia (CLL) Pathophysiology: Typically, elderly patients in 70s, M>F.
+- Monoclonal proliferation of B cells (CD**5/20**+) that are mature but defective.
+- Clinical features: Patients often asymptomatic (diagnosed incidentally on CBC) or they may
+  have bulky painless lymphadenopathy, splenomegaly, respiratory or skin infection (from
+  hypogammaglobulinemia – can't make plasma cells) Richter transformation: CLL can transform
+  into diffuse large B cell lymphoma Diagnosis: Elevated WBC, but kappa or lambda restricted –
+  demonstrated on flow cytometry.
+- Smear with smudge cells (fragile leukocytes that break on slide).
+- If patients develop pancytopenia = poor prognosis.
+- Treatment: Can often observe until progressive symptoms; targeted therapies are used when
+  treatment is indicated (e.g., ibrutinib, venetoclax).
+- Early vaccination is very important as these patients have progressive immunocompromise and
+  most often die from infection.
+- OTHER SUBTYPES/PRECURSORS OF LEUKEMIA Hairy cell leukemia Pathophysiology: Rare, indolent
+  Bcell leukemia.
+- Median age of diagnosis 50–55 yr.
+- Clinical features: Palpable splenomegaly, cytopenias, fatigue Diagnosis: Lymphocytes with
+  fine, hairlike, irregular projections and +tartrateresistant acid phosphatase (TRAP) stain.
+- Bone marrow may become fibrotic – dry tap.
+- Treatment: Cladribine Myelodysplastic syndrome (MDS) Pathophysiology: Age >50 yr.
+- Elderly marrow "fails." Risk factors: Radiation, toxins (benzenes, alkylating agents).
+- On spectrum of AML, but < **20%** blasts.
+- Can progress to AML, so requires monitoring.
+- Clinical features: May be diagnosed incidentally on CBC or can lead to progressive anemia.
+- Diagnosis: Myeloblasts in peripheral blood/marrow <**20%** and Dysplastic bone marrow
+  (PseudoPelgerHuet anomaly [Pince Nez], sideroblasts) and Anemia, thrombocytopenia Prognosis:
+  Use IPSSR scoring system (Greenberg et.
+- Blood 2012).
+- Based on blood counts, blast percentage, and cytogenetics.
+- Correlates with survival and risk of AML progression, which can help in treatment selection.
+- Treatment: Usually can monitor unless patients develop symptomatic anemia or
+  thrombocytopenia (i.e., recurrent bleeding), or recurrent infections in the setting of ANC
+  <500/μl Supportive care: Vitamin B6, B12, folate given high cell turnover.
+- Transfuse pRBCs and platelets as needed.
+- Lowintensity therapy: Hematopoietic growth factor (erythropoietin), hypomethylating agents
+  (azacitidine or decitabine), lenalidomide if patients have an isolated deletion of
+  chromosome 5 [del(5q)] High intensity therapy: Intensive combination chemotherapy +
+  allogeneic stem cell transplant MYELOPROLIFERATIVE NEOPLASMS Clonal expansion of one or more
+  myeloid lineage(s).
+- Polycythemia vera (PV) Pathophysiology: Median age of onset 60–65 yr.
+- Abnormal hematopoietic stem cell (HSC) with a constitutively active JAK2 receptor can
+  proliferate in the absence of EPO stimulation: ↑RBC, ↓EPO.
+- Clinical features: 4 Hs: Hyperviscosity of blood: "Ruddy complexion," headache, dizziness,
+  blurry vision, thrombosis, DVT/PE, CVA, MI, hepatic or portal vein thrombosis Hypervolemia
+  and hypertension Histamine: Pruritus particularly after bathing, peptic ulcers
+  Hyperuricemia: ↑cell turnover, hepatosplenomegaly, gout Diagnosis: JAK2 mutation panel,
+  consider bone marrow biopsy PV: ↑RBCs (Hct >**50%**, Hgb >**16.5 g/dL** in males and >**16
+  g/dL** in females), ↓EPO.
+- Also may have ↑WBC, ↑platelets, ↑B12.
+- Almost **100%** of patients have a JAK2 mutation.
+- Rule out secondary polycythemia: ↑RBCs ↑EPO (see section on polycythemia) Treatment:
+  Repeated phlebotomy to lower Hct <**45%**, hydroxyurea, ASA, consider allopurinol if
+  hyperuricemia; 2nd line ruxolitinib if patient has JAK2 mutation and is refractory to
+  hydroxyurea.
+- Must monitor for transformation to MDS/AML.
+- Essential thrombocythemia (ET) Pathophysiology: Overproduction of platelets by the
+  megakaryocytes in the bone marrow.
+- JAK2 mutation present in 40–**50%** of cases.
+- Clinical features: Increased bleeding (from acquired vWF disorder) or thrombosis (CVA)
+  Diagnosis: ↑Platelets (>450K/μl), leukocytosis may also be present.
+- Rule out reactive thrombocytosis secondary to infection, inflammation, etc.
+- Must not meet criteria for another myeloproliferative disorder (e.g., PV).
+- Treatment: High risk patients (age >60 yr, >1 million plt/μl, history of thrombosis):
+  Hydroxyurea and lowdose aspirin Primary myelofibrosis Pathophysiology: Megakaryocytes make
+  excess PDGF which causes bone marrow fibrosis.
+- **50%** of patients have a JAK2 mutation.
+- Clinical features: Extramedullary hematopoiesis → splenomegaly (abdominal pain, early
+  satiety), B symptoms.
+- Risk of infection, thrombosis, bleeding.
+- Diagnosis: ↓RBCs, +teardrop–shaped erythrocytes.
+- Bone marrow biopsy with reticulin or collagen fibrosis.
+- Treatment: Hydroxyurea and ruxolitinib (JAK2 inhibitor).
+- Allogeneic stem cell transplant indicated for patients <60 yr.
+- Avoid splenectomy.
+- Organizational framework for lymphomas: See Table 7.3.
+- Lymphoma may be Hodgkin's or NonHodgkin's.
+- Follicular lymphoma is the prototypical indolent NonHodgkin's lymphoma subtype and diffuse
+  large Bcell lymphoma (DLBCL) is the prototypical aggressive NonHodgkin's lymphoma subtype.
+- TABLE 7.3 Classification of Lymphomas Hodgkin Lymphoma (HL) NonHodgkin Lymphoma (NHL)
+  Hodgkin Lymphoma Indolent subtypes: Follicular Lymphoma (FL) Marginal zone lymphoma
+  Lymphoplasmacytic Lymphoma (LPL, includes Waldenström macroglobulinemia) Small Lymphocytic
+  Lymphoma (SLL) Mycosis fungoides Aggressive subtypes: Diffuse Large Bcell Lymphoma (DLBCL)
+  Primary Mediastinal BCell Lymphoma Mantle Cell Lymphoma Lymphoblastic Lymphoma Burkitt
+  Lymphoma Primary CNS Lymphoma LymphomasAssociated with Immunodeficiency Tand NKCell
+  Lymphomas HODGKIN LYMPHOMA (HL) Epidemiology: Bimodal age of onset: 15–30 yr or >50 yr.
+- Risk factors: HIV, EBV, immunosuppression.
+- Clinical features: Asymptomatic lymphadenopathy or mediastinal mass, Bsymptoms in ~**40%**
+  of cases (fever, night sweats, weight loss) Diagnosis: Biopsy: Ideally get an excisional
+  biopsy, but if not, then a core biopsy can suffice.
+- FNA is rarely sufficient.
+- A larger amount of tissue allows the hematopathologist to identify whether a lymphoma has
+  retained nodal architecture (e.g., follicular lymphoma) or has a diffuse architecture
+  (DLBCL, mantle cell lymphoma, small lymphocytic lymphoma, etc.).
+- Immunohistochemistry: Stains for specific surface markers to help identify the cell origin
+  FISH or PCR for chromosomal rearrangements may suggest specific types of lymphoma: t(11;14)
+  specific for mantle cell lymphoma t(14;18) can be seen in both follicular lymphoma and DLBCL
+  Dual t(8;14) and t(14;18) rearrangement involving MYC and BCL2 in a highgrade lymphoma =
+  chemotherapyresistant phenotype, or "double hit" requiring more aggressive therapy Staging:
+  Both the histologic lymphoma subtype and the stage are crucial to determine the correct
+  treatment CT chest/abd/pelvis, PET/CT for most.
+- Consider bone marrow biopsy, but not always needed.
+- LP should be performed for all patients with Burkitt lymphoma and considered for highgrade
+  lymphomas to determine the need for CNS prophylaxis Use the CNS International Prognostic
+  Index (CNSIPI) to determine need for LP (if score 3+): 1) Age >60 yr; 2) Elevated LDH; 3)
+  ECOG >1; 4) g g y Stage III/IV disease; 5) Extranodal involvement At diagnosis also obtain:
+  TTE (pretreatment with anthracyclines), PFTs (if plan for bleomycin), CBC with differential,
+  CMP, HIV, hepatitis serologies, quant iferon gold/PPD, LDH, uric acid Treatment: Initial
+  diagnostic and staging for NHL and HL are similar.
+- However, they have distinct historical and clinical approaches, so are treated differently.
+- ABVD – doxorubicin (Adriamycin), bleomycin, vinblastine, dacarbazine NONHODGKIN'S LYMPHOMA
+  (NHL) Risk factors: HIV, immunosuppression, EBV/HTLV1 infection, H.
+- pylori (MALT lymphoma), autoimmune conditions Clinical features: Bulky lymphadenopathy
+  (painless, firm, mobile), hepatosplenomegaly; B symptoms less common than with Hodgkin's
+  lymphoma, hepatosplenomegaly NHL Subtypes: See Table 7.3 – generally divided into indolent
+  and aggressive subtypes Follicular lymphoma is the most common indolent NHL (see details
+  below) Diffuse large B cell lymphoma (DLBCL) is the most common aggressive NHL (see details
+  below) Follicular lymphoma (FL) Epidemiology: Most common indolent NHL Clinical features:
+  Typically, indolent course.
+- However, it is incurable and can relapse despite prolonged remission.
+- Life expectancy 12–15 yr from time of diagnosis.
+- Treatment: For asymptomatic FL: Typically, observe if low tumor burden, particularly in
+  elderly patients.
+- Watchful waiting vs.
+- upfront treatment with rituximab does not affect overall survival.
+- However, in some patients initial treatment with rituximab may improve quality of life and
+  postpone cytotoxic chemotherapy.
+- For symptomatic FL: Consider treatment with antiCD20 therapy (rituximab) if more lymph node
+  involvement, splenomegaly, pleural effusions, systemic symptoms, large tumor causing organ
+  dysfunction, etc.
+- If severe disease, can consider cytotoxic chemotherapy with RCHOP.
+- Relapsed disease: Restage, many treatment approaches Transformation: It is possible for FL
+  to transform to a more aggressive lymphoma All lowgrade lymphomas can transform, but most
+  literature focuses on FL.
+- Risk of transformation to aggressive lymphoma (typically DLBCL) is 1–**2%** per year, with a
+  lifetime risk of **30%**.
+- Diffuse large Bcell lymphoma (DLBCL) Epidemiology: Most common aggressive NHL Clinical
+  features: Lymphadenopathy; up to **40%** present with disease in extranodal locations, most
+  commonly in the GI tract, but also can involve y p p y p p y the CNS, lungs, GU tract, and
+  reproductive tract Morphology: Diffuse effacement of the normal lymph node architecture by
+  intermediate to largesized cells.
+- Significant genetic heterogeneity.
+- Treatment: RCHOP or REPOCH chemotherapy RCHOP: Rituximab, cyclophosphamide, doxorubicin
+  hydrochloride, vincristine (Oncovin), prednisone REPOCH: Rituximab, etoposide, prednisone,
+  vincristine (Oncovin), cyclophosphamide, doxorubicin hydrochloride CNS prophylaxis is needed
+  for patients with DLBCL who have highrisk features and for all patients with Burkitt's,
+  lymphoblastic lymphoma, or HIVassociated aggressive lymphomas PLASMA CELL DISORDERS A
+  framework for plasma cell disorders: Spectrum of disease: See Figure 7.6 Monoclonal
+  gammopathy of uncertain significance (MGUS) (asymptomatic) Smoldering multiple myeloma
+  (asymptomatic): <**3 g/dL** Mspike or **10%** plasma cells on bone marrow biopsy Active
+  multiple myeloma Plasma cell leukemia Amyloidosis: Some clones make light chains that are
+  amyloidogenic – can occur with any of the four above FIGURE 7.6 Spectrum of plasma cell
+  dyscrasias.
+- Monoclonal gammopathy of undetermined significance (MGUS) Pathophysiology: Asymptomatic
+  premalignant plasma cell proliferation that typically occurs in elderly patients.
+- See increase in serum protein with Mspike on SPEP, but no other associated symptoms.
+- Fewer than **20%** of patients with MGUS develop multiple myeloma (MM), but almost all
+  patients with MM have preceding MGUS.
+- Diagnostic criteria: Serum monoclonal Ig protein (Mspike) <3 g Bone marrow clonal plasma
+  cells <**10%** No end organ damage (i.e., no CRAB criteria) Workup: CBC, CMP, Mg2+,
+  phosphorus, LDH, total immunoglobulins (IgA, IgG, IgM) Serum protein electrophoresis (SPEP)
+  – quantifies a monoclonal abnormal protein (Mspike) Immunofixation (IFE) – classifies the
+  abnormal protein Serum free light chain (sFLC) – Detects LOW levels of free light chains in
+  serum, so it can pick up lighter proteins.
+- Note: In CKD, increased K:L ratio up to 3 can be normal due to ↓clearance of FLC UA, urine
+  spot protein/Cr.
+- 24hr UPEP – quantifies urine M protein, UIFE – classifies abnormal protein, urine free light
+  chains (Bence Jones protein) Beta2microglobulin: Strong prognostic value but nonspecific
+  Skeletal survey (long bones, skull) to rule out lytic lesions suggesting multiple myeloma.
+- Alternatively, can consider low dose whole body CT scan or MRIs.
+- Treatment: None needed, observation.
+- Monitoring depends on risk factors (Ig type, Mspike, light chains).
+- Multiple myeloma (MM) Pathophysiology: Malignant proliferation of a single plasma cell line
+  that makes a monoclonal immunoglobulin – most often large amounts IgG or IgA Clinical
+  features: Often patients in 60s with fractures or bone pain Diagnostic criteria = SLiMCRAB
+  Sixty percent plasma cells on bone marrow biopsy Serum Free Light chain ratio >100 MRI with
+  >1 focal lesion (plasmacytoma) HyperCalcemia (>**10.5 mg/dL**) Renal insufficiency
+  (immunoglobulins precipitate in renal tubules → Bence Jones protein, Cr >**2 mg/dL** without
+  an alternative diagnosis) Anemia (Hgb<**10 g/dL** without an alternative diagnosis) Bony
+  disease ("punched out" lytic bone lesions or osteoporosis).
+- Bone pain most common presenting symptom.
+- Other clinical features: Amyloidosis: Kappa chain accumulation → carpal tunnel syndrome
+  Infection: Lack of immunoglobulin diversity can lead to increased risk of infection
+  Abbreviations: Revised International Prognostic Scoring (RISS); beta2 microglobulin (B2M);
+  lactate dehydrogenase (LDH) Source: Scoring system from Greenberg et.
+- Blood 2012.
+- Diagnosis: Need labs (SPEP, SFLC), imaging (usually PET/CT), and bone marrow biopsy Serum
+  monoclonal protein present (Mspike >3g) Bone marrow clonal plasma cells >**10%** End organ
+  damage present (i.e., SLiMCRAB) Other common findings:↑ESR, ↑serum protein.
+- Smear: RBC = Rouleaux ("stacks of RBCs" – RBCs stick together due to increased plasma
+  proteins) Staging: RevisedInternational Staging System (RISS): Uses Beta2microglobulin,
+  albumin, LDH, and chromosomal abnormalities to predict overall and progressionfree survival
+  at 5 yr.
+- See Table 7.4.
+- Treatment: Typically, chemotherapy followed by autologous stem cell transplant Classes of
+  therapy: Proteasome inhibitors: Bortezomib, carfilzomib Immunomodulatory agents:
+  Lenalidomide Monoclonal Antibody: Daratumumab (antiCD38 targeting MM cells) Common regimens:
+  Hyper CD (cyclophosphamide + dexamethasone) – commonly used for rapid reduction in patients
+  with a high disease burden RVD: lenalidomide (Revlimid), bortezomib (Velcade), dexamethasone
+  KRD: carfilzomid (Kyprolis), lenalidomide (Revlimid), dexamethasone Daratumumab,
+  lenalidomide, dexamethasone TABLE 7.4 RISS Staging for Multiple Myeloma: Criteria and
+  Prognosis RISS Stage Diagnostic Criteria 5Year Overall Survival 5Year ProgressionFree
+  Survival I B2M<**3.5 mg/L** and serum albumin ≥**3.5 g/dL**, normal LDH, standard risk
+  chromosomal abnormalities **82%** **55%** II Not stage I or III **62%** **36%** III B2M
+  ≥**5.5 mg/L** + LDH above normal limits and/or detection of high risk chromosomal abnormal
+  —del(17p), t(4;14), or t(14;16) **43%** **29%** Waldenström macroglobulinemia
+  Pathophysiology: Malignant clonal proliferation of IgM producing plasmacytoid lymphocytes
+  Clinical features: Similar to MM, but IgM protein is larger and "stickier," so it causes
+  more symptoms of hyperviscosity syndrome (up to **30%** of patients).
+- Cold cryoglobulinemia in **10%** of patients.
+- Treatment: Plasmapheresis may be needed to emergently manage hyperviscosity.
+- Treatment usually includes rituximab.
+- AL amyloidosis Pathophysiology: Immunoglobulin light chain amyloid from malignant clonal
+  proliferation of plasma cells (e.g., MM, Waldenström).
+- The proteins deposit in tissues and cause end organ damage.
+- Clinical features: Nephrotic syndrome, restrictive cardiomyopathy, neuropathy Diagnosis:
+  Biopsy (often fat pad biopsy) to look for deposition of amyloid protein.
+- SPEP will show an Mspike and serum free light chains will show an abnormal sFLC ratio.
+- Treatment: Treat underlying plasma cell disorder.
+- Consider autologous stem cell transplant.
+- OTHER MALIGNANT HEMATOLOGIC CONDITIONS Hemophagocytic lymphohistiocytosis (HLH)
+  Pathophysiology: Excess immune activation, inflammation, and tissue destruction that can be
+  life threatening.
+- Can be idiopathic or provoked by a viral trigger or malignancy.
+- Clinical features: Fever, splenomegaly, cytopenias, mental status changes Diagnosis: 5 of
+  the 8 criteria: Fever ≥38.5°C, splenomegaly, bicytopenia, ↑triglycerides or ↓fibrinogen,
+  hemophagocytosis seen on pathology review, ↓natural killer cell activity, ferritin >500
+  ng/mL, ↑soluble IL2 receptor.
+- Treatment: Treat underlying cause.
+- Give steroids.
+- If acutely ill or decompensating, consider HLHspecific therapy based on the HLH94 regimen
+  (etoposide, dexamethasone, +/– intrathecal therapy) Huppert's Notes: Pathophysiology and
+  Clinical Pearls for Internal Medicine Chapter 706: Key Medications & Interventions in
+  Hematology TRANSFUSION MEDICINE Standard testing ABO typing: Determine A/B antigens present
+  on RBCs (blood type A, B, AB, or O) Rh(D) typing: Tests for D antigen on RBCs (e.g., A+ vs.
+- A–) Type and screen: Tests for unexpected antibodies in patient plasma that might react with
+  transfused product and cause hemolysis.
+- Must be done q72 hrs.
+- Type and cross: Final confirmation test that is performed by mixing the patient's plasma and
+  the donor's RBCs.
+- Performed when transfusion is imminent/very likely.
+- Antibody testing Direct antiglobulin test (DAT or Coombs): Tests for autoantibodies on the
+  patient's RBCs Mix patient's RBCs + Coomb's reagent (antiIgG, antiC3) Indirect Coombs: Tests
+  for antibodies in the patient's plasma Mix patient's plasma + donor RBCs and Coomb's reagent
+  Apheresis (separation of blood) Plasmapheresis: Removes high molecular weight proteins from
+  plasma (e.g., antibodies).
+- Used in TTP, hyperviscosity syndrome, cryoglobulinemia, myasthenia gravis, GuillainBarré
+  syndrome, antiGBM, some ANCA vasculidities.
+- Cytapheresis: Removes cellular components (e.g., leukapheresis: removes WBCs in acute
+  leukemia) Complications of transfusion Hypocalcemia: Citrate used to preserve pRBCs chelates
+  calcium Volume overload: Blood products stay mostly intravascular, so 250 cc of pRBCs (**1
+  unit**) is equivalent to 1000 cc normal saline.
+- Rapid increase in intravascular volume can lead to circulatory overload and increased
+  hydrostatic pressure, which can worsen active bleeding.
+- Special preparations of blood Leukoreduced: WBCs filtered out Decreased risk of febrile
+  reaction in patients with prior febrile nonhemolytic transfusion reactions Deceased risk of
+  HLA/RBC alloimmunization in patients who are chronically transfused (i.e., patients with
+  hematologic malignancies, transplant candidates)

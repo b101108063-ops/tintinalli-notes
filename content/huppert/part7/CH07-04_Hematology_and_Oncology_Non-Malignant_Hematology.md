@@ -1,194 +1,429 @@
 ---
+
 source: "Huppert's Notes: Pathophysiology and Clinical Pearls for Internal Medicine (2021)"
 specialty: Hematology and Oncology
 chapter: "CH07-04"
 title: "Non-Malignant Hematology"
----
-
-## 1. Anemia
-
-**Definition**: Anemia is defined as low hemoglobin (Hg <**13 g/dL** in men, Hg <**12 g/dL** in women).
-
-**Symptoms**: Fatigue, shortness of breath, dizziness, bleeding, and pallor.
-
-**Workup**: Check the reticulocyte count. A low retic count (reticulocyte index <**2%**) indicates decreased RBC production. A normal/high retic count (reticulocyte index >**2%**) indicates RBC loss or increased RBC destruction. If underproduction is suspected, check MCV to help refine the differential diagnosis. Review the differential diagnosis for each category below and ask the patient relevant questions. Check a peripheral blood smear, which can also help inform the differential diagnosis. RBC morphologies include spherocytes (autoimmune hemolytic anemia, splenomegaly, postsplenectomy, hereditary spherocytosis, hemoglobin C, hemoglobinopathies), schistocytes (disseminated intravascular coagulation, hemolytic uremic syndrome, thrombocytopenic purpura, scleroderma renal crisis, vasculopathies, valvular heart disease, obstetric or hypertensive emergencies), burr cells (echinocytes) in renal disease or artifact, and spur cells (acanthocytes) in liver disease. Pancytopenia with or without blasts suggests aplastic anemia, myelodysplastic syndrome (MDS), or leukemia. Check additional studies based on differential diagnosis.
 
 ---
 
-## 2. Anemia Due to Decreased RBC Production
 
-**Microcytic (MCV <80 fL)**: **Iron deficiency anemia** is caused by blood loss such as menorrhagia or GI bleed, or malabsorption. Diagnosis shows decreased Fe, decreased ferritin, and increased TIBC. The smear shows hypochromia, anisocytosis (varied size), and poikilocytosis (varied shapes). Treatment involves PO or IV iron. Every other day PO iron dosing is preferred and should be taken on an empty stomach.
-
-**Sideroblastic anemia** is caused by hereditary (X-linked) or acquired factors such as lead, alcohol use, vitamin B6 deficiency, isoniazid, chloramphenicol, or myelodysplastic syndromes. Diagnosis shows increased Fe, decreased TIBC, and ringed sideroblasts in marrow. Patients may have fatigue, insomnia, and hypertension. Treatment involves pyridoxine (B6) and stopping the culprit agent.
-
-**Anemia of chronic inflammation** has a pathophysiology in which inflammatory states such as infection, autoimmune disease, heart failure, or liver disease upregulate hepcidin, an acute phase reactant that leads to the inability to utilize iron despite normal stores. Diagnosis shows decreased Fe, increased ferritin, and decreased TIBC. It can be microcytic or normocytic. Treatment involves treating the underlying disease.
-
-**Normocytic (MCV 80–100 fL)**: Iron deficiency can be normocytic in early stages. Anemia of chronic inflammation can be microcytic or normocytic. Decreased bone marrow RBC production can be due to medications, alcohol, toxins, or low erythropoietin states such as CKD or endocrine disorders. **Aplastic anemia** is idiopathic, radiation-related, or medication-related. Diagnosis shows pancytopenia and hypoplastic bone marrow. **Bone marrow invasion** by malignancy such as MDS, myelofibrosis, or multiple myeloma, or deposition diseases such as amyloidosis, causes pancytopenia with tear drop-shaped RBCs and requires bone marrow biopsy.
-
-**Macrocytic (MCV >100 fL)**: **Megaloblastic** anemia shows hypersegmented neutrophils. **Folate deficiency** is diagnosed by decreased folate and increased homocysteine. The body typically has a 3-month store of folate, which is found in fruits, vegetables, and folate-supplemented flour. It is uncommon for patients to become folate deficient unless experiencing extreme food insecurity. Treatment is oral folate replacement.
-
-**Vitamin B12 deficiency** is diagnosed by decreased B12, increased homocysteine, and increased methylmalonic acid. The body typically has a 3-year store of vitamin B12, which is found in meat and fish. It is more common for patients to be B12 deficient than folate deficient, especially if vegan. Differential diagnosis includes low B12 dietary intake, pernicious anemia (autoimmune destruction of parietal cells), and decreased gut absorption from gastrectomy, Crohn's, or celiac disease. Treatment involves intramuscular B12 shots monthly versus oral supplementation daily.
-
-**Nonmegaloblastic** macrocytic anemia is caused by liver disease (more lipoproteins), hypo/hyperthyroidism, alcohol use, medications such as methotrexate, hydroxyurea, or antiretrovirals, reticulocytosis, MDS, or multiple myeloma.
-
----
-
-## 3. Anemia Due to Blood Loss or Increased RBC Destruction
-
-**Blood Loss**: GI bleed or retroperitoneal bleed.
-
-**"Bad RBC" (Hemolytic Anemia Due to Intrinsic RBC Defects)**: **Hemoglobinopathies** include **thalassemia**, an inherited blood disorder characterized by decreased hemoglobin production with either alpha or beta globin genes missing, causing an abnormal ratio of alpha to beta chains. Unpaired chains precipitate, causing destruction of RBC precursors in the bone marrow and leading to intravascular hemolysis. **Alpha thalassemia** involves 4 alpha-globin genes, where clinical phenotype depends on the number lost. One gene lost causes silent asymptomatic state. Two genes lost causes thalassemia trait. Three genes lost causes HbH significant anemia. Four genes lost causes hydrops fetalis, which is incompatible with live birth. **Beta thalassemia** involves 2 beta-globin genes. Beta minor typically causes mild anemia with no treatment needed. Beta major typically causes severe anemia and is often associated with extramedullary hematopoiesis with skull spike and hepatosplenomegaly, as well as risk of aplastic crisis. Diagnosis involves microcytic anemia with markedly decreased MCV of 60–75 fL, MCV/RBC <13 (Mentzer index), normal iron studies, and target cells on smear. Diagnosis is confirmed with hemoglobin electrophoresis. Treatment involves RBC transfusions and hydroxyurea (induces HbF).
-
-**Sickle cell anemia** is an autosomal recessive genetic disorder in which HbS replaces HbA. HbS sickles when oxygen is low, causing hemolysis and microvascular occlusion. Symptoms may start as early as age 6 months when HbF is replaced with HbS. Clinical features include hemolytic anemia, pigmented gallstones, extramedullary hematopoiesis (hepatosplenomegaly), aplastic crisis with parvovirus B19 infection, and increased risk of infection with encapsulated organisms due to functional asplenia such as Salmonella osteomyelitis. Vaso-occlusion causes pain crisis, dactylitis (painful swelling of the hands, more common in children), acute chest syndrome, avascular necrosis, priapism, stroke, and renal papillary necrosis with painless hematuria. Diagnosis involves sickle cells on smear and hemoglobin electrophoresis. Treatment includes early vaccination for H. influenzae, S. pneumoniae, and N. meningitidis, folic acid supplement, and hydroxyurea. Pain should be treated adequately. If concern for acute chest syndrome or stroke, consult hematology and consider exchange transfusion.
-
-**Hemoglobin C disease** involves a beta-globin chain mutation. Heterozygous is a benign carrier state. Homozygous causes mild hemolysis and mild to moderate anemia. Diagnosis shows increased MCV. There is no sickling. The smear shows target cells.
-
-**RBC Membrane Defects**: **Hereditary spherocytosis** is an autosomal dominant mutation in spectrin that disrupts vertical connections between the RBC membrane and cytoskeleton. Clinical features include hemolytic anemia, jaundice, splenomegaly, bilirubin gallstones, and risk of aplastic crisis. Diagnosis involves the osmotic fragility test and smear showing spherocytes. Treatment is splenectomy.
-
-**Hereditary elliptocytosis** involves disruption of horizontal connections between the RBC membrane and cytoskeleton. Clinical features range from asymptomatic to severe hemolytic anemia. Diagnosis shows elliptocytes on smear. Treatment typically requires no intervention.
-
-**Paroxysmal nocturnal hemoglobinuria (PNH)** involves a PIGA mutation on the X chromosome, which encodes an enzyme essential for the synthesis of glycosylphosphatidylinositol (GPI) anchors. Clinical features may present as hemolytic anemia, aplastic anemia, or thrombus such as Budd-Chiari syndrome. Diagnosis involves flow cytometry of CD55/CD59 or FLAER for GPI anchor. Treatment includes bone marrow transplant, eculizumab or ravulizumab (monoclonal antibodies that inhibit complement activation), and glucocorticoids with limited evidence.
-
-**G6PD deficiency** is an X-linked recessive disorder common in people of Mediterranean descent with decreased ATP making the RBC susceptible to oxidative stress. It can be triggered by medications such as TMP/SMX, dapsone, or sulfa drugs, infection, or fava beans. Clinical features include 2–4 days after oxidative stress developing back pain, jaundice, and dark urine. Diagnosis involves smear showing Heinz bodies and bite cells. G6PD levels are often normal during a hemolytic episode because cells with low G6PD levels have already hemolyzed, so repeat labs 3 months after the attack. Treatment involves hydration and stopping the causative agent.
-
-**Pyruvate kinase deficiency** is an autosomal recessive disorder with decreased ATP making RBCs stiff, leading to splenic trap. Clinical features include hemolytic anemia. Treatment involves folic acid and splenectomy.
-
-**"Bad World" (Hemolytic Anemia Due to Factors External to RBC)**: **Autoimmune hemolytic anemia (AIHA)** involves autoantibodies coating the RBC surface and leading to hemolysis. Always evaluate for an underlying cause that has resulted in secondary AIHA. Diagnosis involves the direct antiglobulin test (DAT, aka Coombs test) to detect autoantibodies. IgG warmth indicates warm AIHA where IgG binds RBC in the body causing extravascular hemolysis, with causes including SLE and CLL. Treatment includes prednisone, folic acid, IVIG, and splenectomy. IgM coldness indicates cold AIHA where IgM binds RBCs in extremities causing intravascular hemolysis with peripheral sludge causing cyanosis, pain, and gangrene, with causes including Mycoplasma pneumonia, mononucleosis, and medications. Treatment includes RBC transfusions if needed, avoiding cold, and considering rituximab or eculizumab.
-
-**Mechanical hemolytic anemia** is caused by prosthetic heart valve.
-
-**Microangiopathic hemolytic anemia (MAHA)** is a term for thrombotic microangiopathy (TMA), which describes specific pathological lesions in which abnormalities in arteriole and capillary vessel walls lead to microvascular thrombosis. Not all MAHA is caused by TMA, but most TMAs cause MAHA. The pathophysiology involves nonimmune (Coombs negative) hemolysis resulting from intravascular abnormalities or mechanical shear such as from prosthetic heart valve. Diagnosis involves smear showing schistocytes and helmet cells, and negative DAT. Other causes include medications, burns, toxins such as snake bite or brown recluse spider, and infections such as malaria, Clostridium, or Babesia.
-
----
-
-## 4. Polycythemia
-
-**Definition**: Polycythemia is defined as high hemoglobin (Hg >**16.5 g/dL** in men, Hg >**16 g/dL** in women).
-
-**Clinical Features**: "Ruddy" complexion and hyperviscosity if severe, which can cause chest pain, headache, blurred vision, paresthesias, and thrombosis.
-
-**Diagnosis**: Check EPO level to differentiate primary versus secondary.
-
-**Differential Diagnosis**: **Primary polycythemia** (normal EPO) includes polycythemia vera. **Secondary polycythemia** (increased EPO) includes chronic hypoxia where the body responds to increased oxygen carrying capacity by producing more RBCs such as from COPD, OSA, heart failure, or carbon monoxide exposure, and tumor-associated EPO production such as from RCC or HCC.
-
-**Treatment**: Treat the underlying cause.
-
----
-
-## 5. Thrombocytopenia
-
-**Definition**: Thrombocytopenia is defined as a low number of platelets (<150K/μl).
-
-**Symptoms**: Easy bruising or bleeding such as mucosal bleeding including gingival or nasal mucosa, heavy menses, and petechiae.
-
-**Workup**: Get a peripheral blood smear to rule out pseudothrombocytopenia from platelet clumping, which can occur in the blood tube when the anticoagulant EDTA is present and causes a spuriously low platelet count. Evaluate by looking for platelet clumping on the blood smear and resend platelets in a heparin or sodium citrate tube if needed. Giant platelets can be falsely counted by the automated cell counter as WBCs or RBCs, and large platelets can occur with inherited platelet disorders. Take a thorough history including history of easy bleeding or bruising, systemic symptoms such as fever, headache, abdominal pain, hematuria, and diarrhea which can occur with HUS or TTP, medications especially heparin products and antibiotics in the hospital, and history of autoimmune conditions which makes ITP more likely. Also check PT, PTT, reticulocyte count, fibrinogen, LDH, TSH, HIV, HCV, and other labs guided by the disease entity suspected.
-
-**Etiologies**: Consider three buckets. **Decreased production** involves processes that cause bone marrow suppression or infiltration, and often multiple cell lines are affected. Causes include aplastic anemia, MDS, leukemia, Fanconi syndrome, infiltrative disorders, medications/toxins such as alcohol, chemotherapeutic agents, chloramphenicol, benzene, and radiation, infections such as parvovirus, EBV, CMV, HCV, and HIV, and nutritional deficiencies such as B12 or folate deficiency. **Increased destruction** is divided into immune-mediated and nonimmune-mediated causes. Immune-mediated causes include primary ITP and secondary causes such as HIT, other medications including antibiotics and H2 blockers, infections, lupus, APS, and lymphoproliferative disease. Nonimmune-mediated causes include microangiopathic hemolytic anemia (MAHA) such as HUS, TTP, DIC, and scleroderma renal crisis, HELLP, mechanical causes such as CVVH, and sequestration/dilutional causes such as hepatosplenomegaly from cirrhosis and portal HTN where up to **90%** of platelets can be sequestered, and massive transfusion where 10 units of pRBCs decrease platelets by **50%**.
-
----
-
-## 6. Thrombocytosis
-
-**Definition**: Thrombocytosis is defined as a high number of platelets (>450K/μl).
-
-**Etiologies**: **Reactive** (most cases) is extrinsic to the megakaryocyte. Differential diagnosis includes iron deficiency, blood loss, postsplenectomy, infection, rebound thrombocytosis, IBD, and malignancy. Treatment involves treating the underlying problem and not giving aspirin.
-
-**Autonomous** is a clonal process involving megakaryocyte or precursor. Differential diagnosis includes myeloproliferative diseases such as polycythemia vera (PV), essential thrombocythemia (ET), and CML. Treatment involves treating by disease state. If thrombosis, hemorrhage due to acquired vWD, or symptoms of stasis occur, consider aspirin, hydroxyurea, and thrombocytopheresis/plateletpheresis.
-
----
-
-## 7. Qualitative Platelet Disorders
-
-**Definition**: Qualitative platelet disorders involve a normal platelet count but abnormal platelet function with an elevated bleeding time.
-
-**Etiologies**: **Von Willebrand Disease (vWD)** is a mixed platelet/coagulation disorder. The pathophysiology involves a defect or absence in vWF, which helps platelets aggregate when functioning appropriately, and vWF is also a carrier for factor VIII. Clinical features include prolonged PTT, mucocutaneous bleeding, and heavy menstrual or postpartum bleeding.
-
-**Bernard-Soulier** is an autosomal recessive disorder with decreased GpIb defect in platelet to vWF adhesion. Clinical features include abnormally large platelets on blood smear and mildly low platelet count. Patients have bleeding out of proportion to their platelet number, which is often normal.
-
-**Glanzmann's thrombasthenia** is an autosomal recessive disorder with decreased GpIIb/IIIa defect in platelet-to-platelet aggregation. Clinical features include normal platelet count, no platelet clumping, and mucocutaneous bleeding.
-
-**Acquired** qualitative platelet disorders are caused by medications such as ASA, NSAIDs, and antibiotics, uremia where toxins affect vWF/XIII, liver disease, bone marrow disorders, dysproteinemias such as multiple myeloma, antiplatelet antibodies, and cardiopulmonary bypass with partial degranulation of platelets.
-
-**Treatment**: Platelet transfusions and DDAVP.
-
----
-
-## 8. Immune Thrombocytopenic Purpura (ITP)
-
-**Pathophysiology**: Antiplatelet antibodies cause splenic macrophages to consume the platelet/antibody complex.
-
-**Clinical Features**: Petechiae, purpura, and bleeding with NO splenomegaly.
-
-**Diagnosis**: Isolated thrombocytopenia with platelets <20K/μl but the rest of counts are normal. The smear typically has large platelets and NO schistocytes. Megakaryocytes are present in the bone marrow. It is a diagnosis of exclusion with no antibody test available. Must rule out other causes first such as medication-induced, HIV, HCV, and H. pylori.
-
-**Treatment**: First-line treatment includes dexamethasone 40 mg for 4 days or prednisone 1 mg/kg/day with slow taper. IVIG 1 g/kg for 2 doses may be used with steroids if a rapid platelet count rise is needed. Second-line treatment includes rituximab, TPO agonists such as romiplostim, and splenectomy if refractory.
-
----
-
-## 9. Hemolytic Uremic Syndrome (HUS)
-
-**Pathophysiology**: Endothelial damage is caused by medications or Shiga toxin-mediated bloody diarrhea from E. coli O157:H7 or Shigella.
-
-**Clinical Features**: Three classic features include microangiopathic hemolytic anemia (MAHA), thrombocytopenia, and renal failure. HUS is clinically similar to TTP but more likely to have renal failure and less likely to have neurologic symptoms.
-
-**Diagnosis**: Smear shows schistocytes. A positive Shiga-toxin/EHEC test confirms STEC-HUS. A complement gene mutation panel evaluates for atypical (complement-mediated) HUS.
-
-**Treatment**: Supportive care and consider plasma exchange and eculizumab for atypical HUS.
-
----
-
-## 10. Thrombotic Thrombocytopenic Purpura (TTP)
-
-**Pathophysiology**: Deficiency in the protease ADAMTS13 (congenital defect or acquired autoantibody), which usually cleaves vWF. The uncleaved vWF clumps and binds to platelets, leading to microvascular occlusion and thrombocytopenia.
-
-**Clinical Features**: Same as HUS plus fever and neurologic symptoms such as seizures and altered mental status. Patients with TTP are less likely to have renal dysfunction than those with HUS.
-
-**Diagnosis**: Blood smear shows schistocytes. This is a clinical diagnosis, so start treatment right away. The PLASMIC score can be helpful but is neither sensitive nor specific. Order ADAMTS13 but do not wait for the result to initiate treatment.
-
-**Treatment**: Immediate plasmapheresis. TTP is **90%** fatal without therapy. Do NOT give platelets, as this can precipitate further hemolysis.
-
----
-
-## 11. Heparin-Induced Thrombocytopenia (HIT)
-
-**Type 1 (Nonimmune mediated)**: Clinical features include a drop in platelets that occurs 1–4 days post-heparin with platelets decreased but still >100K/μl. Treatment involves continuing heparin, which does not change clinical management.
-
-**Type 2 (Immune mediated)**: Clinical features include onset 5–10 days post-heparin with higher risk with unfractionated heparin than LMWH. It is caused by an antibody to platelet factor 4-heparin complex, which causes platelets to clump/clot. The platelet count falls by >**50%**. It can cause DVT, PE, stroke, and necrotic skin lesions at the heparin injection site. Diagnosis involves calculating the "4T score" to help predict risk. If the 4T score is ≥4, send a HIT assay. Treatment involves holding heparin products and starting alternative anticoagulation such as argatroban, bivalirudin, or fondaparinux right away without waiting for the HIT assay to return. Do NOT give platelets.
-
----
-
-## 12. Peripheral Eosinophilia and Hypereosinophilia Syndromes
-
-**Definitions**: Eosinophilia is defined as an absolute eosinophil count >500/μl, with 500–1500/μl more likely due to atopic disease. Hypereosinophilia is defined as severe eosinophilia >1500/μl, with concern especially if >5000/μl since risk of end organ damage increases such as eosinophilic dermatitis or myocarditis.
-
-**Etiologies**: **Neoplasms** include monoclonal causes such as primary hypereosinophilic syndrome with possible PDGFRB, PDGFRA, FGFR1, AEL, and CEL mutations, and polyclonal causes such as T-cell lymphoma, Hodgkin's lymphoma, and some solid organ malignancies. **Allergies** including asthma and drug-induced eosinophilia including DRESS. **Adrenal insufficiency**. **Connective tissue diseases** including eosinophilic granulomatosis with polyangiitis (eGPA) and rheumatoid arthritis. **Parasites** including lymphatic filiariasis, toxocara, and trichinosis and strongyloides, which can cause eosinophil count >5000/μl, with only multicellular parasites causing eosinophilia. **Organ-restricted hypereosinophilic conditions** such as eosinophilic fasciitis and eosinophilic cellulitis can cause peripheral eosinophilia.
-
----
-
-## 13. Coagulation Disorders
-
-**Definition**: Elevated prothrombin time (PT) and/or partial thromboplastin time (PTT) with normal platelet count and bleeding time.
-
-**Differential Diagnosis**: Prolonged PT with normal PTT suggests factor VII deficiency or inhibitor, DIC, liver disease, or vitamin K deficiency. Normal PT with prolonged PTT suggests deficiency of factors VIII, IX, or XI, Von Willebrand Disease if severe, or heparin exposure. Prolonged PT and PTT suggests deficiency of factors V, X, II, or fibrinogen, severe liver disease, DIC, vitamin K deficiency, or heparin overdose. If low fibrinogen is causing PT/PTT elevation, correcting fibrinogen should also correct the PT/PTT. Normal PT and PTT suggests platelet dysfunction (acquired or congenital), vWD if mild and factor VIII level not too low, scurvy, Ehlers-Danlos, hereditary hemorrhagic telangiectasia, or deficiency of factor XII.
-
-**Hemophilia A/B**: Pathophysiology involves an X-linked recessive disorder more common in males. Hemophilia A is factor VIII deficiency and is more common. Hemophilia B is factor IX deficiency. Clinical features cannot distinguish hemophilia A and B clinically. Common symptoms include hemarthrosis (bleeding into muscles/joints), intracranial or retroperitoneal hematoma, and hematuria or hemospermia. Diagnosis shows increased PTT with normal PT, abnormal factor activity assays (VIII, IX), normal bleeding time unlike vWD, and mixing studies that correct PTT as opposed to disorders due to inhibitors such as lupus anticoagulant. Treatment involves replacing the missing factor. Note that over time, patients can form autoantibodies to factor. For hemophilia A only, DDAVP can be used to treat mild disease and leads to a 2–4-fold factor VIII increase.
-
-**Vitamin K Deficiency**: Pathophysiology involves vitamin K coming from diet (leafy green vegetables) and gut flora. Taking antibiotics can kill gut flora and decrease vitamin K. There can also be malabsorption of vitamin K with IBD or other malabsorptive conditions. Clinical features include increased bleeding with initially increased PT then increased PTT. Treatment involves vitamin K replacement (10 mg PO/SQ for 3 days). If severe bleeding, use IV vitamin K or FFP.
-
-**Coagulopathy of Liver Disease**: Pathophysiology involves liver failure causing decreased synthesis of clotting factors, cholestasis with decreased vitamin K absorption, and hypersplenism with portal hypertension leading to sequestration of platelets and thrombocytopenia. Clinical features include abnormal bleeding such as GI bleed, and increased PT and PTT. To distinguish between liver failure, DIC, and vitamin K/warfarin overdose, check factors V, VII, and VIII. In DIC, all are low. In liver failure, factor VIII is normal because it is synthesized by all endothelial cells, not just the liver. In vitamin K/warfarin overdose, factor V is normal because it is not vitamin K-dependent. Treatment involves FFP, trying vitamin K in case the patient is vitamin K deficient, platelet transfusions if thrombocytopenic, and cryoprecipitate if hypofibrinogenemic.
-
----
-
-## 14. Mixed Platelet/Coagulation Disorders
-
-**Disseminated Intravascular Coagulation (DIC)**: Pathophysiology involves tissue factor release from gram-negative sepsis, obstetric complications, APML, or trauma, or other procoagulant from cancer. Tissue factor activates coagulation and fibrinolysis, causing platelet consumption and leading to both bleeding and clotting. Clinical features include both bleeding and clotting. Bleeding manifests as superficial purpura, GI or intracranial bleed, and oozing from incisions. Clotting manifests as stroke and DVT/PE. Diagnosis involves decreased fibrinogen (used up from clotting, so a normal level rules out DIC), increased D-dimer, decreased platelets, decreased factors V/VIII, increased bleeding time, increased PTT/PT, and schistocytes on blood smear. Treatment involves treating the underlying condition and supportive care with FFP, platelets, and cryoprecipitate.
-
-**Von Willebrand's Disease (vWD)**: Pathophysiology involves an autosomal dominant disorder with vWF deficiency. vWF is involved in platelet aggregation and binds to and stabilizes factor VIII, so deficiency leads to decreased factor VIII levels. Types include quantitative problem with low vWF levels, qualitative problem with vWF, or absent vWF. Clinical features include family history of bleeding, cutaneous and mucosal bleeding, and menorrhagia. Diagnosis shows increased bleeding time, increased PTT with decreased factor VIII, normal platelet count, decreased vWF antigen, decreased vWF activity measured by ristocetin cofactor assay, and decreased factor VIII activity in severe disease. Treatment involves DDAVP (desmopressin) which releases vWF in endothelium for type I, vWF concentrate, and factor VIII concentrate after trauma or for type 3. Avoid ASA/NSAIDs.
-
----
-
-## 15. Thrombotic Disorders
-
-**Inherited Hypercoagulable States**: **Factor V Leiden** is an autosomal dominant disorder where heterozygotes have an increased risk of thrombosis and should avoid OCPs. The mutated form of Factor V lacks a cleavage site for deactivation by Protein C. **Prothrombin G20201A** is a point mutation in the 3' untranslated region of prothrombin that increases prothrombin and thus increases thrombin and thrombus risk. **Protein C/S deficiency** is an autosomal dominant disorder where protein C and S normally inactivate factors V and VIII. It can cause an increased risk of warfarin skin necrosis. **Antithrombin (AT) deficiency** is an autosomal dominant disorder where AT normally inactivates thrombin and factors II, VII, IX–XII. **Antiphospholipid syndrome (APLS)** is associated with SLE and involves autoantibody against protein bound to phospholipids. Clinical features include venous and arterial clots, placental thrombosis causing pregnancy loss, stroke, and increased PTT from antibodies interfering with the assay. Diagnosis requires at least 1 lab abnormality plus 1 clinical abnormality confirmed on two or more occasions >12 weeks apart. Lab criteria include anticardiolipin antibodies (IgG or IgM), anti-beta-2 glycoprotein I antibodies (IgG or IgM), and lupus anticoagulant. Clinical features include vascular thrombosis and pregnancy morbidity. Treatment involves lifelong anticoagulation with warfarin, with DOACs being inferior in APLS, and heparin during pregnancy.
-
-**Secondary Hypercoagulable States**: Differential diagnosis includes malignancy, myeloproliferative disorders, oral contraceptive pills (OCPs), immobilization, trauma, nephrotic syndrome, HIT, and DIC.
+# Non-Malignant Hematology
+
+- Huppert's Notes: Pathophysiology and Clinical Pearls for Internal Medicine Chapter 704:
+  Diseases & Pathophysiology: NonMalignant Hematology in Hematology INTRODUCTION First, some
+  terminology and then we'll dive into each of these conditions separately below: TABLE 7.1
+  Terminology for Abnormal Cell Counts Cell type Too Few Cells Too Many Cells WBC Leukopenia
+  Leukocytosis RBC Anemia Polycythemia Platelets Thrombocytopenia Thrombocytosis LEUKOPENIA
+  Definition: Low WBC (<4K/μl).
+- If absolute neutrophil count (ANC) <1000/μl, that is called neutropenia and carries an
+  increased risk of infection.
+- Severe neutropenia is when the ANC <500/μl.
+- Differential diagnosis: Infection: Often causes leukocytosis, but can cause leukopenia
+  Malignancy: Bone marrow infiltration Inflammatory/autoimmune conditions: SLE, others
+  Medications: Chemotherapy, antibiotics, antiepileptics, and substances (e.g., alcohol) can
+  all be myelosuppressive Treatment: Treat underlying condition.
+- Patients with ANC <500/μl typically require urgent workup even if asymptomatic.
+- LEUKOCYTOSIS Definition: High WBC (>10K/μl) Differential diagnosis: Infection Malignancy: If
+  very high WBC, consider acute leukemia Inflammatory/autoimmune conditions Demargination:
+  Stress response, steroids Treatment: Treat underlying condition.
+- Leukocytosis itself does not require treatment except in hyperleukocytosis related to
+  leukemia, for which hydroxyurea and leukapheresis may be indicated.
+- ANEMIA Definition: Low hemoglobin (Hg <**13 g/dL** in men, Hg <**12 g/dL** in women)
+  Symptoms: Fatigue, shortness of breath, dizziness, bleeding, pallor Workup: Check
+  reticulocyte count Low retic count (reticulocyte index <**2%**) → Decreased RBC production
+  Normal/high retic count (reticulocyte index >**2%**) → RBC loss or increased RBC destruction
+  If underproduction, check MCV and help refine differential diagnosis.
+- Review differential diagnosis for each category below and ask the patient relevant
+  questions.
+- Check peripheral blood smear, which can also help inform the differential diagnosis: RBC
+  morphologies: Spherocytes = autoimmune hemolytic anemia (AIHA), splenomegaly,
+  postsplenectomy, hereditary spherocytosis, hemoglobin C, hemoglobinopathies Schistocytes =
+  disseminated intravascular coagulation (DIC), hemolytic uremic syndrome (HUS),
+  thrombocytopenic purpura (TTP), scleroderma renal crisis, vasculopathies, valvular heart
+  disease, obstetric or hypertensive emergencies Burr cells (echinocytes) = renal disease,
+  artifact Spur cells (acanthocytes) = liver disease Pancytopenia +/– blasts = aplastic
+  anemia, myelodysplastic syndrome (MDS), leukemia Check additional studies based on
+  differential diagnosis (e.g., macrocytic anemia – check folate, B12, TSH, ask about alcohol
+  use, review the patient's medication list, etc.) Anemia due to decreased RBC production
+  Normal reticulocyte index (<**2%**).
+- Think of three buckets: Microcytic, normocytic, macrocytic 1.
+- Microcytic (MCV <80 fL) Iron deficiency anemia: Etiologies: Blood loss (e.g., menorrhagia,
+  GI bleed), malabsorption Diagnosis: ↓Fe, ↓Ferritin,↑TIBC.
+- Smear with hypochromia, anisocytosis (varied size), poikilocytosis (varied shaped)
+  Treatment: PO or IV iron.
+- Every other day PO iron dosing is preferred, take on an empty stomach Sideroblastic anemia:
+  Etiologies: Hereditary (Xlinked) or acquired (e.g., lead, alcohol use, vitamin B6
+  deficiency, isoniazid, chloramphenicol, INH, myelodysplastic syndromes) Diagnosis: ↑Fe,
+  ↓TIBC.
+- Ringed sideroblasts in marrow.
+- Patient may have fatigue, insomnia, hypertension Treatment: Pyridoxine (B6).
+- Stop culprit agent (e.g., lead chelation, stop offending medication) Anemia of chronic
+  inflammation: Pathophysiology: Inflammatory states (e.g., infection, autoimmune disease,
+  heart failure, liver disease) upregulate hepcidin, which is an acute phase reactant, and
+  leads to the inability to utilize iron despite normal stores Diagnosis: ↓Fe ↑Ferritin ↓TIBC.
+- Can be microcytic or normocytic Treatment: Treat underlying disease 2.
+- Normocytic (MCV 80–100 fL) Iron deficiency: Can be normocytic in early stages.
+- See information above.
+- Anemia of chronic inflammation: Can be microcytic or normocytic.
+- See information above.
+- Decreased bone marrow RBC production: Bone marrow suppression can be due to medications,
+  alcohol, toxins, etc.
+- Also hematopoiesis is suppressed in low erythropoietin states (e.g., CKD, endocrine
+  disorders).
+- Aplastic anemia: Idiopathic, radiation, viral, medications.
+- Diagnosis: Pancytopenia, hypoplastic bone marrow.
+- Bone marrow invasion: Malignancy (e.g., MDS, myelofibrosis, multiple myeloma), deposition
+  diseases (e.g., amyloidosis).
+- Diagnosis: Pancytopenia with tear drop shaped RBCs, bone marrow biopsy.
+- Macrocytic (MCV >100 fL) Megaloblastic: Hypersegmented neutrophils Folate deficiency
+  (↓folate, ↑homocysteine) The body typically has a 3month store of folate.
+- Folate is in fruits/veggies and flour is usually supplemented with folate in the United
+  States, so it is uncommon for patients to become folate deficient unless they are
+  experiencing extreme food insecurity.
+- Treatment: Oral folate replacement Vitamin B12 deficiency (↓B12, ↑homocysteine,
+  ↑methylmalonic acid) The body typically has a 3yr store of vitamin B12.
+- B12 is in meat/fish.
+- It is more common for patients to be B12 deficient than folate deficient, especially if they
+  are vegan.
+- Differential diagnosis: Low B12 dietary intake, pernicious anemia (autoimmune destruction of
+  parietal cells), decreased gut absorption (gastrectomy, Crohn's, celiac) Treatment:
+  Intramuscular B12 shots monthly vs.
+- oral supplementation daily Nonmegaloblastic: Liver disease (more lipoproteins),
+  hypo/hyperthyroidism, alcohol use, medications (e.g., methotrexate, hydroxyurea,
+  antiretrovirals), reticulocytosis, MDS, multiple myeloma Anemia due to blood loss or
+  increased RBC destruction Elevated reticulocyte index (>**2%**); if due to hemolysis: ↑LDH,
+  ↑Indirect bilirubin, ↓Haptoglobin.
+- Think of three buckets: Blood loss, "bad RBC," and "bad world." 1.
+- Blood Loss: GI bleed, retroperitoneal bleed 2.
+- "Bad RBC": Hemolytic anemia due to intrinsic RBC defects – hemoglobinopathy or RBC membrane
+  defect Hemoglobinopathies: Thalassemia: Pathophysiology: Inherited blood disorder
+  characterized by decreased hemoglobin production.
+- There are two main types, alpha and beta thalassemia.
+- Either alpha globin or beta globin genes are missing, causing an abnormal ratio of α–β
+  chains.
+- The unpaired chains precipitate, causing destruction of RBC precursors in the bone marrow
+  and leading to intravascular hemolysis.
+- Alpha thalassemia: There are 4 αglobin genes Clinical features: Clinical phenotype depends
+  on the number of α globin genes that are lost.
+- 1 gene lost = silent (asymptomatic); 2 genes lost = thalassemia trait; 3 genes lost = HbH
+  significant anemia; 4 genes lost = hydrops fetalis (incompatible with live birth) Beta
+  thalassemia: There are 2 βglobin genes βminor: Typically causes mild anemia; no treatment
+  needed βmajor: Typically causes severe anemia; often associated with extramedullary
+  hematopoiesis (skull spike, hepatosplenomegaly), risk aplastic crisis Diagnosis: Microcytic
+  anemia (↓↓MCV 60–75 fL), MCV/RBC<13 (Mentzer index), normal iron studies, target cells on
+  smear.
+- Diagnose with hemoglobin electrophoresis.
+- Treatment: RBC transfusions; hydroxyurea (induces HbF) Sickle cell anemia: Pathophysiology:
+  Autosomal recessive genetic disorder; HbS replaces HbA.
+- HbS sickles when low oxygen → hemolysis and microvascular occlusion.
+- Symptoms may start as early as age 6 months when HgF is replaced with HgS.
+- Clinical features: Hemolytic anemia, pigmented gallstones, extramedullary hematopoiesis
+  (hepatosplenomegaly), aplastic crisis with parvo B19 infection, increased risk of infection
+  with encapsulated organisms due to functional asplenia (e.g., Salmonella osteomyelitis)
+  Vasoocclusion: Pain crisis, dactylitis (painful swelling of the hands, more common in
+  children), acute chest syndrome, avascular necrosis, priapism, stroke, renal papillary
+  necrosis with painless hematuria Diagnosis: Sickle cells on smear, hemoglobin
+  electrophoresis Treatment: Early vaccination for H.
+- influenzae, S.
+- pneumoniae, N.
+- meningitidis Folic acid supplement, hydroxyurea Treat pain adequately If concern for acute
+  chest syndrome or stroke: Consult hematology, consider exchange transfusion Hemoglobin C
+  disease: Pathophysiology: Betaglobin chain mutation.
+- Heterozygous = benign carrier state.
+- Homozygous = mild hemolysis and mild to moderate anemia.
+- Diagnosis: ↑MCV.
+- No sickling.
+- Smear: Target cells.
+- RBC Membrane Defects: Hereditary spherocytosis: Pathophysiology: Autosomal dominant mutation
+  in spectrin which disrupts the vertical connections between the RBC membrane and the
+  cytoskeleton Clinical features: Hemolytic anemia, jaundice, splenomegaly, bilirubin
+  gallstones, risk of aplastic crisis Diagnosis: Osmotic fragility test.
+- Smear: Spherocytes.
+- Treatment: Splenectomy Hereditary elliptocytosis: Pathophysiology: Disruption of the
+  horizontal connections between the RBC membrane and the cytoskeleton Clinical features:
+  Spectrum of asymptomatic to severe hemolytic anemia Diagnosis: Elliptocytes on smear
+  Treatment: No treatment needed typically Paroxysmal nocturnal hemoglobinuria (PNH):
+  Pathophysiology: PIGA mutation (on X chromosome), which encodes an enzyme essential for the
+  synthesis of glycosylphosphatidylinositol (GPI) anchors Clinical features: May present as
+  hemolytic anemia, aplastic anemia, or thrombus (e.g., BuddChiari) Diagnosis: Flow cytometry
+  of CD**55/59** or FLAER for GPI anchor.
+- Treatment: Bone marrow transplant, eculizumab or ravulizumab (monoclonal antibody that
+  inhibits complement activation), +/– glucocorticoids (limited evidence) G6PD deficiency:
+  Pathophysiology: Xlinked recessive disorder; common in people of Mediterranean descent.
+- ↓ATP so RBC is susceptible to oxidative stress.
+- Can be triggered by medications (TMP/SMX, dapsone, sulfa), infection, fava beans.
+- Clinical features: 2–4 days after oxidative stress, develop back pain, jaundice, dark urine
+  Diagnosis: Smear with Heinz bodies, bite cells.
+- G6PD levels are often normal during hemolytic episode (cells with low G6PD levels already
+  hemolyzed) → repeat labs 3 months after attack.
+- Treatment: Hydrate, stop causative agent Pyruvate kinase deficiency: Pathophysiology:
+  Autosomal recessive disorder.
+- ↓ATP → Stiff RBC → Splenic trap.
+- Clinical features: Hemolytic anemia Treatment: Folic acid, splenectomy 3.
+- "Bad World": Hemolytic Anemia Due to Factors External to RBC Autoimmune Hemolytic Anemia
+  (AIHA): Autoantibodies coat RBC surface and lead to hemolysis.
+- Always evaluate for an underlying cause that has resulted in secondary AIHA.
+- Diagnosis: Direct antiglobulin test (DAT, aka a Coombs test) to detect autoantibodies IgG =
+  warm.
+- IgG binds RBC in body (warm) causing extravascular hemolysis.
+- Causes: SLE, CLL, medications Treatment: Prednisone, folic acid, IVIG, splenectomy IgM =
+  cold.
+- IgM binds RBCs in extremities (cold) causing intravascular hemolysis.
+- Peripheral sludge: Cyanosis, pain, gangrene.
+- Causes: Mycoplasma pneumonia, mononucleosis, medications Treatment: RBC transfusions if
+  needed, avoid cold, consider rituximab or eculizumab (no steroids or splenectomy)
+  Mechanical: Prosthetic heart valve Microangiopathic hemolytic anemia (MAHA) Terminology:
+  Thrombotic microangiopathy (TMA) describes specific pathological lesions in which
+  abnormalities in the arteriole and capillary vessel walls lead to microvascular thrombosis.
+- Not all MAHA is caused by TMA, but most TMAs cause MAHA.
+- Pathophysiology: Nonimmune (Coombs negative) hemolysis resulting from intravascular
+  abnormalities or mechanical shear (i.e., prosthetic heart valve) Diagnosis: Smear with
+  schistocytes, helmet cells, negative DAT Other: Medications, burns, toxins (snake bite,
+  brown recluse spider), infections (Malaria, Clostridium, Babesia) POLYCYTHEMIA Definition:
+  High hemoglobin (Hg >**16.5 g/dL** in men, Hg >**16 g/dL** in women) Clinical features:
+  "Ruddy" complexion, hyperviscosity (if severe, can cause chest pain, headache, blurred
+  vision, parasthesias, thrombosis) Diagnosis: Check EPO level to differentiate primary vs.
+- secondary Differential diagnosis: Primary (normal EPO): Polycythemia vera (see
+  myeloproliferative neoplasms) Secondary (↑EPO): Chronic hypoxia (body responds to increased
+  oxygen carrying capacity by producing more RBCs): COPD, OSA, heart failure, carbon monoxide
+  exposure Tumorassociated: Some tumors can produce EPO (e.g., RCC, HCC) Treatment: Treat
+  underlying cause THROMBOCYTOPENIA Definition: Low number of platelets (<150K/μl) Symptoms:
+  Easy bruising or bleeding (e.g., mucosal bleeding such as gingival or nasal mucosa, heavy
+  menses, petechiae) Workup: Get a peripheral blood smear: Rule out pseudothrombocytopenia
+  (platelet clumping), which can occur in the blood tube when the anticoagulant EDTA is
+  present, causing a spuriously low platelet count.
+- Evaluate by looking for platelet clumping on the blood smear.
+- Resend platelets in a heparin or sodium citrate tube if needed.
+- Giant platelets can be falsely counted by the automated cell counter as WBCs or RBCs.
+- Large platelets can occur with inherited platelet disorders.
+- Take a thorough history: History of easy bleeding or bruising?
+- Systemic symptoms – fever, headache, abdominal pain, hematuria, diarrhea?
+- These symptoms can occur with HUS or TTP.
+- Medications?
+- In the hospital, consider heparin products, antibiotics, immunosuppressants.
+- History of autoimmune conditions?
+- A history of autoimmune conditions makes ITP more likely.
+- Also check PT, PTT, reticulocyte count, fibrinogen, LDH, TSH, HIV, HCV, and other labs
+  guided by the disease entity suspected Etiologies of thrombocytopenia: Consider three
+  buckets: Decreased production: Think about processes that cause bone marrow suppression or
+  infiltration.
+- Often multiple cell lines down!
+- Aplastic anemia, MDS, leukemia, Fanconi syndrome, infiltrative disorders Medications/toxins:
+  Alcohol, chemotherapeutic agents, chloramphenicol, benzene, radiation Infections:
+  Parvovirus, EBV, CMV, HCV, HIV Nutritional deficiencies: B12 or folate deficiency Increased
+  destruction: Divide causes by immunemediated or nonimmune mediated.
+- Also see additional details about these conditions in the section below.
+- Immunemediated Primary: ITP Secondary: HIT, other medications (antibiotics, H2 blockers),
+  infections, lupus, APS, lymphoproliferative disease Nonimmunemediated Microangiopathic
+  hemolytic anemia (MAHA): HUS, TTP, DIC, scleroderma renal crisis HELLP Mechanical: CVVH
+  Sequestration/dilutional Hepatosplenomegaly: Cirrhosis and portal HTN can sequester **90%**
+  of platelets Massive transfusion: 10U pRBCs decrease platelets by **50%** THROMBOCYTOSIS
+  Definition: High number of platelets (>450K/μl) Etiologies: Reactive (most cases): Extrinsic
+  to megakaryocyte Differential diagnosis: Iron deficiency, blood loss, postsplenectomy,
+  infection, rebound thrombocytosis, IBD, malignancy Treatment: Treat underlying problem, do
+  not give aspirin Autonomous: Clonal process involving megakaryocyte or precursor
+  Differential diagnosis: Myeloproliferative diseases – polycythemia vera (PV), essential
+  thrombocythemia (ET), CML Treatment: Treat by disease state.
+- If thrombosis, hemorrhage (due to acquired vWD), or symptoms of stasis, consider aspirin,
+  hydroxyurea, thrombocytopheresis/plateletpheresis.
+- QUALITATIVE PLATELET DISORDERS Definition: Normal platelet count but abnormal platelet
+  function (i.e., normal platelet number but bleeding time is elevated) Etiologies: Von
+  Willebrand Disease (vWD): Mixed platelet/coagulation disorder Pathophysiology: Defect or
+  absence in vWF, which helps platelets aggregate when functioning appropriately.
+- vWF is also a carrier for factor VIII.
+- Clinical features: Prolonged PTT, mucocutaneous bleeding, heavy menstrual or postpartum
+  bleeding BernardSoulier: Pathophysiology: Autosomal recessive disorder.
+- ↓GpIb defect in platelet to vWF adhesion.
+- Clinical features: Blood smear – platelets abnormally large, platelet count mildly low.
+- Clinically, patients have bleeding out of proportion to their platelet number (which is
+  often normal) Glanzmann's thrombasthenia: Pathophysiology: Autosomal recessive disorder.
+- ↓GpIIb/IIIa defect in platelettoplatelet aggregation.
+- Clinical features: Normal platelet count, no platelet clumping, mucocutaneous bleeding
+  Acquired: Medications (ASA, NSAIDs, antibiotics), uremia (toxins affect vWF/XIII), liver
+  disease, bone marrow disorders, dysproteinemias (multiple myeloma), antiplatelet antibodies,
+  cardiopulmonary bypass (partial degranulation of platelets) Treatment: Platelet
+  transfusions, DDAVP Additional Details about the Platelet Destructive Processes Immune
+  Thrombocytopenic Purpura (ITP) Pathophysiology: Antiplatelet antibodies → Splenic
+  macrophages consume platelet/Ab complex Clinical features: Petechiae, purpura, bleeding; NO
+  splenomegaly Diagnosis: Isolated thrombocytopenia (platelets <20K/μl but rest of counts
+  normal) Smear typically has large platelets and NO schistocytes!
+- Megakaryocytes are present in the bone marrow.
+- Diagnosis of exclusion: No antibody test.
+- Must rule out other causes first (medicationinduced, HIV, HCV, H.
+- pylori, etc.).
+- Do not usually have to do a bone marrow biopsy in younger patients, but must consider in
+  older patients.
+- Treatment: 1st line: Dexamethasone (40 mg x 4 days) vs.
+- prednisone 1mg/kg/day with slow taper.
+- IVIG 1g/kg ×2 doses may be used with steroids if a rapid platelet count rise is needed.
+- 2nd line: Rituximab, TPO agonists (romiplostim); consider splenectomy if refractory
+  Hemolytic Uremic Syndrome (HUS) Pathophysiology: Endothelial damage caused by medications or
+  Shiga toxin–mediated bloody diarrhea (Ecoli O157:H7, Shigella) Clinical features: Three
+  classic features: 1) Microangiopathic hemolytic anemia (MAHA); 2) Thrombocytopenia; 3) Renal
+  failure HUS is clinically similar to TTP, but more likely to have renal failure and less
+  likely to have neurologic symptoms Diagnosis: Smear with schistocytes.
+- Positive Shigatoxin/EHEC test confirms STECHUS.
+- Complement gene mutation panel evaluates for atypical (complementmediated) HUS.
+- Treatment: Supportive care; consider plasma exchange ("plex") and eculizumab for atypical
+  HUS Thrombotic Thrombocytopenic Purpura (TTP) Pathophysiology: Deficiency in the protease
+  ADAMTS13 (congenital defect or acquired autoantibody), which usually cleaves vWF.
+- The uncleaved vWF clump and bind to platelets, leading to microvascular occlusion and
+  thrombocytopenia.
+- Clinical features: Same as HUS + fever + neurologic symptoms (seizures, altered mental
+  status).
+- Patients with TTP are less likely to have renal dysfunction than those with HUS.
+- Diagnosis: Blood smear with schistocytes.
+- Then this is a clinical diagnosis – start treatment right away!
+- PLASMIC score can be helpful, but neither sensitive nor specific.
+- Order ADAMTS13 but don't wait for the result to initiate treatment.
+- Treatment: Immediate plasmapheresis ("plex")!
+- TTP is **90%** fatal without therapy.
+- Do NOT give platelets – can precipitate further hemolysis!
+- HeparinInduced Thrombocytopenia (HIT) Type 1 (nonimmune mediated) Clinical features: Drop in
+  platelets that occurs 1–4 days postheparin, platelets decreased but still >100K/μl
+  Treatment: Can continue heparin; does not change clinical management Type 2 (immune
+  mediated) Clinical features: 5–10 days postheparin (higher risk with unfractionated heparin
+  than LMWH).
+- Caused by an antibody to platelet factor 4heparin complex, which causes the platelets to
+  clump/clot.
+- Platelet count falls by >**50%**.
+- Can cause DVT, PE, stroke, and necrotic skin lesions at the heparin injection site.
+- Diagnosis: Calculate "4T score" to help predict risk (see online calculators).
+- If 4T score is ≥4, send HIT assay.
+- Treatment: Moderate/high risk: Hold heparin products and start alternative anticoagulation
+  (e.g., argatroban, bivalirudin, fondaparinux) right away – do not wait for HIT assay to
+  return to switch anticoagulants!
+- Do NOT give platelets.
+- Disseminated Intravascular Coagulation (DIC) Definition: Mixed platelet/coagulation
+  disorder.
+- See page 208.
+- PERIPHERAL EOSINOPHILIA AND HYPEREOSINOPHILIA SYNDROMES Definition Eosinophilia: Absolute
+  eosinophil count >500/μl (500–1500/μl more likely due to atopic disease) Hypereosinophilia:
+  Severe eosinophilia >1500/μl; worry especially if >5000/μl since risk of end organ damage
+  increases (e.g., eosinophilic dermatitis, myocarditis, hepatitis) Etiologies: Neoplasms:
+  Monoclonal: Primary hypereosinophilic syndrome (can check for mutations like PDGFRB, PDGFRA,
+  FGFR1, AEL, and CEL, which cause a monoclonal eosinophil proliferation) Polyclonal: Tcell
+  lymphoma, Hodgkin's lymphoma, some solid organ malignancies cause reactive eosinophilia
+  (e.g., cervical cancer, ovarian cancer, SCC, gastric and colon cancer, urothelial cancer)
+  Allergies, which includes asthma and druginduced eosinophilia (including DRESS) Adrenal
+  insufficiency Connective tissue diseases: Eosinophilic granulomatosis with polyangiitis
+  (eGPA) and rheumatoid arthritis Parasites: Lymphatic filiariasis, toxocara, trichinosis and
+  strongyloides can all cause an eosinophil count >5000/μl.
+- Only multicellular parasites cause eosinophilia.
+- Other infections may also cause lower degrees of eosinophilia (e.g., ABPA, cocci, HIV)
+  Organrestricted hypereosinophilic conditions (e.g., eosinophilic fasciitis, eosinophilic
+  cellulitis, etc.) can cause peripheral eosinophilia COAGULATION DISORDERS Definition:
+  Elevated prothrombin time (PT) and/or partial thromboplastin time (PTT) with normal platelet
+  count and bleeding time Differential diagnosis for coagulation disorders: Prolonged PT,
+  normal PTT: Factor VII deficiency or inhibitor, DIC, liver disease, vitamin K deficiency,
+  warfarin Normal PT, prolonged PTT: Deficiency of factors VIII, IX, or XI, Von Willebrand
+  Disease (vWD, if severe, which can result in low levels of factor VIII), heparin exposure
+  Prolonged PT and PTT: Deficiency of factors V, X, II, or fibrinogen, severe liver disease,
+  DIC, vitamin K deficiency, heparin overdose.
+- If low fibrinogen is causing PT/PTT elevation, correcting fibrinogen should correct the
+  PT/PTT as well.
+- Normal PT and PTT: Platelet dysfunction (acquired or congenital), vWD (if mild and factor
+  VIII level not too low), scurvy, EhlersDanlos, hereditary hemorrhagic telangiectasia,
+  deficiency of factor XII Note: Since there is some crosstalk between the PT and PTT
+  pathways, disease states that elevate one of these coagulation markers may elevate the other
+  somewhat as well.
+- Hemophilia A/B Pathophysiology: Xlinked recessive disorder (more common in males) Hemophilia
+  A = factor VIII deficiency (more common) Hemophilia B = factor IX deficiency Clinical
+  features: Cannot distinguish hemophilia A and B clinically.
+- Common symptoms: 1) Hemarthrosis – bleeding into muscles/joints, 2) Intracranial or
+  retroperitoneal hematoma, 3) Hematuria, hemospermia.
+- Diagnosis: ↑PTT, normal PT.
+- Factor activity assays (VIII, IX) are abnormal.
+- Normal bleeding time (unlike vWF).
+- Mixing studies correct PTT (as opposed to disorders due to inhibitors, such as lupus
+  anticoagulant, that do not correct with mixing).
+- Treatment: Replace missing factor.
+- Note that over time, patients can form autoantibodies to factor.
+- Hemophilia A only: DDAVP can be used to treat mild disease (leads to a 2–4fold factor VIII
+  increase) Vitamin K deficiency Pathophysiology: Vitamin K comes from diet (leafy green
+  vegetables) and gut flora.
+- Taking antibiotics can kill gut flora and decrease vitamin K.
+- Can also have malabsorption of vitamin K with IBD or other malabsorptive conditions.
+- Clinical features: Increased bleeding; initially ↑PT (factor VII has the shortest halflife)
+  then ↑PTT Treatment: Vitamin K replacement (10 mg PO/SQ ×3 days).
+- If severe bleeding: IV vitamin K or FFP.
+- Coagulopathy of liver disease Pathophysiology: Liver failure → 1) ↓Synthesis of clotting
+  factors, 2) Cholestasis = ↓vitamin K absorption, 3) Hypersplenism, portal hypertension →
+  sequestration of platelets → thrombocytopenia Clinical features: Abnormal bleeding (e.g., GI
+  bleed), ↑PT ↑PTT To distinguish between liver failure, DIC, and vitamin K/warfarin overdose,
+  check factors V, VII, VIII: DIC = all low Liver failure = normal factor VIII (synthesized by
+  all endothelial cells, not just the liver) Vitamin K/warfarin overdose = normal factor V
+  (not vitamin Kdependent) Treatment: FFP, try giving vitamin K in case the patient is vitamin
+  K deficient, platelet transfusions if thrombocytopenic, cryoprecipitate if
+  hypofibrinogenemic MIXED PLATELET/COAGULATION DISORDERS Disseminated intravascular
+  coagulation (DIC) Pathophysiology: Tissue factor release (e.g., Gramnegative sepsis,
+  obstetric complications, APML, trauma) or other procoagulant (e.g., cancer).
+- Tissue factor activates coagulation and fibrinolysis, causing platelet consumption, and
+  leading to both bleeding and clotting.
+- Clinical features: Can have both bleeding AND clotting Bleeding – superficial purpura, GI or
+  intracranial bleed, oozing from incisions Clotting – stroke, DVT/PE Diagnosis: ↓fibrinogen
+  (used up from clotting; a normal level rules out DIC), ↑Ddimer, ↓platelets, ↓factor V/VIII,
+  ↑bleeding time, ↑PTT/PT, schistocytes on blood smear Treatment: Treat underlying condition;
+  supportive care with FFP, platelets, cryoprecipitate Von Willebrand's disease (vWD)
+  Pathophysiology: Autosomal dominant disorder – vWF deficiency vWF: Involved in platelet
+  aggregation, binds to and stabilizes factor VIII (deficiency leads to ↓VIII levels) Types:
+  1) Quantitative problem (low vWF levels), 2) Qualitative problem with vWF, 3) Absent vWF
+  Clinical features: Family history of bleeding, cutaneous and mucosal bleeding, menorrhagia
+  Diagnosis: ↑Bleeding time, ↑PTT (↓VIII), normal platelet count, ↓vWF antigen, ↓vWF activity
+  (ristocetin cofactor assay, measures affinity of vWF binding to GP1b), ↓factor VIII activity
+  in severe disease Treatment: DDAVP (desmopressin) releases vWF in endothelium (type I); vWF
+  concentrate; factor VIII concentrate after trauma or for Type 3.
+- Avoid ASA/NSAIDs.
+- THROMBOTIC DISORDERS Inherited hypercoagulable states Factor V Leiden: Autosomal dominant
+  disorder, but heterozygotes have an increased risk of thrombosis (avoid OCPs).
+- Mutated form of Factor V lacks cleavage site for deactivation by Protein C.
+- Prothrombin G20201A: Point mutation in the 3' untranslated region of prothrombin so
+  ↑prothrombin → ↑thrombin → ↑thrombus risk Protein C/S deficiency: Autosomal dominant
+  disorder.
+- Normally, protein C and S inactivate factor V, VIII.
+- Can cause increased risk of warfarin skin necrosis.
+- Antithrombin (AT) deficiency: Autosomal dominant disorder.
+- AT normally inactivates thrombin and factors II, VII, IX–XII.
+- Antiphospholipid syndrome (APLS): Associated with SLE.
+- Autoantibody against protein bound to phospholipids.
+- Clinical features: Venous and arterial clots, placental thrombosis (pregnancy loss), stroke,
+  ↑PTT (antibodies interfere with the assay) Diagnosis: Sapporo criteria – at least 1 lab
+  abnormality + 1 clinical abnormality Laboratory criteria (must confirm on two or more
+  occasions, >12 weeks apart): Anticardiolipin antibodies (IgG or IgM) Antiß2glycoprotein I
+  antibodies (IgG or IgM) Lupus anticoagulant Clinical features: Vascular thrombosis Pregnancy
+  morbidity Treatment: Lifelong anticoagulation with warfarin (DOACs inferior in APLS),
+  heparin during pregnancy Secondary hypercoagulable states Differential diagnosis:
+  Malignancy, myeloproliferative disorders, oral contraceptive pills (OCPs), immobilization,
+  trauma, nephrotic syndrome, HIT, DIC Huppert's Notes: Pathophysiology and Clinical Pearls
+  for Internal Medicine Chapter 705: Diseases & Pathophysiology: Malignant Hematology in
+  Hematology ONCOLOGIC EMERGENCIES Tumor lysis syndrome (TLS) Pathophysiology: When initiating
+  treatment for a malignancy with a large tumor burden or high cell turnover rate, rapid cell
+  lysis can occur, releasing intracellular contents (potassium, phosphorus, and nucleic acids
+  that break down into uric acid) into the systemic circulation.
+- This can lead to kidney injury (uric acid is a renal vasoconstrictor and deposits in the
+  tubules) and electrolyte abnormalities.
+- Symptoms: Nausea, vomiting, symptoms of hyperkalemia (arrhythmias), hypocalcemia (seizures),
+  renal failure Diagnosis: ↑uric acid, ↑phos, ↑K+, ↓Ca2+ (due to calciumbinding by phosphorus)
+  Prophylaxis/treatment: Hydration: Aggressive IVF to maintain urine output 80–100 cc/hr to
+  improve excretion of uric acid and phosphorus Uric Acid: For high risk cases, give
+  rasburicase before treatment, then start allopurinol.
+- For intermediate risk cases, start allopurinol before treatment.
+- Add rasburicase before or during treatment if uric acid ≥ **8 mg/dL** (consult heme/onc
+  before starting).
+- Allopurinol decreases the efficacy of rasburicase, so wait to give allopurinol until after
+  rasburicase normalizes the uric acid level if possible.
+- Electrolyte management: Treat hyperkalemia, give phosphate binders.
+- Do not replete calcium unless necessary for symptoms, particularly if phosphate is high as
+  it can worsen renal damage.
+- Disseminated intravascular coagulation (DIC) Diagnosis: ↓fibrinogen, ↑Ddimer, ↓platelets,
+  ↑aPTT/PT, schistocytes on smear Treatment: Supportive care, transfuse blood products as
+  needed, treat underlying cause Hyperviscosity syndrome/leukostasis Pathophysiology:
+  Increased viscosity of blood due to increased protein or increased cellularity
+  Hyperproteinemia from monoclonal gammopathies (most common Waldenström; IgM is large and
+  sticky) High WBC from leukemia/lymphoma can cause leukostasis, which has a seven day
+  mortality of 20–**40%**.
+- The disease type and "stickiness" of the WBCs determine the level at which the WBC count
+  becomes dangerous: AML (>50–100K/μl) ALL (>100–150K/μl) CML (>200–250K/μl) CLL
+  (>400–500K/μl) Clinical features: Fever, chest pain, shortness of breath, blurry vision,
+  headache, AMS, priapism

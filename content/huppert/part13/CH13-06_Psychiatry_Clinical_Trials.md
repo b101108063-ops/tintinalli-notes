@@ -1,74 +1,102 @@
 ---
+
 source: "Huppert's Notes: Pathophysiology and Clinical Pearls for Internal Medicine (2021)"
 specialty: Psychiatry
 chapter: "CH13-06"
 title: "Clinical Trials"
----
-
-## 1. Bipolar Disorder
-
-**The STEPBD Trial**  
-*N Engl J Med 2007;356:1711–1722.*
-
-This double-blind placebo-controlled randomized clinical trial assessed the use of a mood stabilizer alone or in combination with a second mood stabilizer or antidepressant for reducing bipolar depression symptoms without increasing the risk of switching to mania. Combined therapy did not demonstrate increased efficacy compared to mood stabilizer monotherapy and demonstrated similar rates of side effects.
-
-**BALANCE Trial**  
-*Lancet 2010;375(9712):385–395.*
-
-This open-label randomized clinical trial evaluated lithium monotherapy, valproic acid monotherapy, or lithium plus valproic acid combination therapy for bipolar disorder. Lithium monotherapy or lithium plus valproic acid combination therapy was superior to valproic acid monotherapy in preventing relapse. The results could neither confirm nor refute a benefit of combination therapy compared to lithium monotherapy alone.
 
 ---
 
-## 2. Antipsychotic Medications
+# Clinical Trials
 
-**CATIE Study (Phase 1)**  
-*N Engl J Med 2005;353:1209–1223.*
-
-This double-blind randomized clinical trial compared first-generation antipsychotics (perphenazine) to second-generation antipsychotics (quetiapine, risperidone, and olanzapine) for schizophrenia. The efficacy of perphenazine was similar to that of quetiapine, risperidone, and olanzapine. All-cause discontinuation was high across all groups, reflecting the challenge of long-term adherence in schizophrenia treatment.
-
----
-
-## 3. Panic Disorder
-
-**CBT, Imipramine, or Their Combination for Panic Disorder**  
-*JAMA 2000;283(19):2529–2536.*
-
-This randomized double-blind placebo-controlled trial evaluated cognitive behavioral therapy, imipramine, or their combination for panic disorder. The trial concluded that combination CBT plus imipramine was superior to either treatment alone or placebo for reducing panic attacks and improving function.
-
----
-
-## 4. Delirium
-
-**A Double-Blind Trial of Haloperidol, Chlorpromazine, and Lorazepam in the Treatment of Delirium**  
-*Am J Psychiatry 1996;153(2):231–237.*
-
-This double-blind clinical trial demonstrated that low-dose neuroleptics such as haloperidol and chlorpromazine could be used effectively to manage delirium with less sedation than benzodiazepines. This trial provided foundational evidence for the use of antipsychotics in patients with delirium.
-
----
-
-## 5. Dementia
-
-**Risk of Death with Atypical Antipsychotic Treatment for Dementia**  
-*JAMA 2005;294(15):1934–1943.*
-
-This meta-analysis of 15 randomized clinical trials that used atypical antipsychotics to treat behavioral symptoms in patients with dementia concluded that atypical antipsychotic drugs may be associated with a small increased risk of mortality. This finding led to a black box warning on atypical antipsychotics for use in elderly patients with dementia-related psychosis.
-
----
-
-## 6. Substance Use Disorders
-
-**Methadone Maintenance versus 180-Day Psychosocially Enriched Detoxification for Treatment of Opioid Dependence**  
-*JAMA 2000;283(10):1303–1310.*
-
-This randomized clinical trial demonstrated that methadone maintenance therapy results in better outcomes than 180-day psychosocial detoxification for opioid dependence, including higher retention in treatment and lower rates of illicit opioid use.
-
-**COMBINE Study**  
-*JAMA 2006;295(17):2003–2017.*
-
-This randomized clinical trial demonstrated that naltrexone and behavioral therapy alone or in combination were more effective than behavioral therapy alone in reducing drinking days and increasing abstinence rates in patients with alcohol dependence. Medical management with naltrexone plus behavioral therapy showed the best outcomes.
-
----
-
-## Appendix: Aspects of an Admission Note for Internal Medicine
-
-A standard admission note for internal medicine includes the following components: the chief complaint or chief concern, history of present illness (HPI), past medical history (PMH), past surgical history (PSH), medications, allergies, family history (FHx), social history (SoHx, including information about the patient as an individual and their unique life circumstances), physical exam (PE), labs and data, problem representation (a description of the patient's presentation that highlights the key clinical features), and assessment and plan (A&P, a plan by problem for the patient's diagnostic and therapeutic management).
+- Huppert's Notes: Pathophysiology and Clinical Pearls for Internal Medicine Chapter 1306:
+  Key Clinical Trials & Publications in Psychiatry MAJOR DEPRESSIVE DISORDER STAR*D Study.
+- Cleve Clin J Med 2008;75(1):57–66.
+- The Sequenced Treatment Alternatives to Relieve Depression study evaluated treatment
+  strategies for depression and produced the sequential treatment algorithm frequently used in
+  clinical practice.
+- Efficacy and safety of ECT in depressive disorders.
+- Lancet 2003;361(9360):799–808.
+- Systematic overview and metaanalysis of randomized clinical trials and observational studies
+  evaluating the efficacy and safety of electroconvulsive therapy (ECT) for patients with
+  depressive illness.
+- Concluded ECT is an effective shortterm treatment for depression (bilateral > unilateral,
+  high dose > low dose) and likely more effective than drug therapy.
+- BIPOLAR DISORDER The STEPBD Trial.
+- N Engl J Med 2007;356:1711–1722.
+- Doubleblind, placebocontrolled, randomized clinical trial assessing the use of a mood
+  stabilizer plus an antidepressant vs.
+- a mood stabilizer alone for reducing bipolar depression symptoms (without increasing the
+  risk of mania).
+- Combined therapy did not demonstrate increased efficacy and demonstrated similar rates of
+  treatmentemergent affective switch.
+- BALANCE Trial.
+- Lancet 2010;375(9712):385–95.
+- Openlabel, randomized clinical trial evaluating lithium monotherapy, valproic acid (VPA)
+  monotherapy, and combination therapy in the treatment of bipolar disorder.
+- Lithium monotherapy or lithium + VPA > VPA monotherapy.
+- Results could neither confirm nor refute a benefit of lithium + VPA compared to lithium
+  alone.
+- ANTIPSYCHOTIC MEDICATIONS CATIE Study (Phase 1).
+- N Engl J Med 2005;353:1209–1223.
+- Doubleblind, randomized clinical trial that compared the use of a firstgeneration
+  antipsychotic (perphenazine) with several newer drugs ("atypical" or "secondgeneration"
+  antipsychotics) in patients with schitzophrenia.
+- The efficacy of perphenazine was similar to that of quetiapine, risperidone, and
+  ziprasidone; however, the majority of patients in each group discontinued treatment due to
+  inefficacy or side effects.
+- PANIC DISORDER CBT, imipramine, or their combination for panic disorder.
+- JAMA 2000;283(19):2529–2536.
+- Randomized, doubleblind, placebocontrolled trial, which concluded that combination CBT +
+  imipramine conferred substantial advantage over either treatment alone over the long term.
+- DELIRIUM A doubleblind trial of haloperidol, chlorpromazine, and lorazepam in the treatment
+  of delirium in hospitalized AIDS patients.
+- Am J Psychiatry 1996;153(2):231–237.
+- Double blind clinical trial that demonstrated that lowdose neuroleptics could be used to
+  treat symptoms of delirium in medically hospitalized patients with HIV/AIDS, whereas
+  lorazepam was ineffective.
+- This trial provided foundational evidence for the use of antipsychotics in patients with
+  delirium.
+- DEMENTIA Risk of death with atypical antipsychotic treatment for dementia.
+- JAMA 2005;294(15):1934–1943.
+- Metaanalysis of 15 randomized clinical trials that used atypical antipsychotics to treat
+  patients with Alzheimer's disease or dementia (3353 patients randomized to study drug; 1757
+  randomized to placebo).
+- Concluded that atypical antipsychotic drugs may be associated with a small increased risk of
+  death compared to placebo.
+- SUBSTANCE USE DISORDERS AND TREATMENTS Methadone maintenance vs.
+- 180day psychosocially enriched detoxification for treatment of opioid dependence: A
+  randomized controlled trial.
+- JAMA 2000;283(10):1303–1310.
+- Randomized clinical trial that demonstrated that methadone maintenance therapy results in
+  greater treatment retention and lower heroin use rates than detoxification.
+- COMBINE Study.
+- JAMA 2006;295(17):2003–2017.
+- Randomized clinical trial that demonstrated that naltrexone and/or therapy/social
+  interventions are effective in the treatment of alcohol use disorder, whereas acamprosate
+  showed no evidence of efficacy in this trial.
+- Huppert's Notes: Pathophysiology and Clinical Pearls for Internal Medicine Appendix 1:
+  Practical Skills for Learners HOW TO WRITE A HISTORY AND PHYSICAL (H&P) Early in training,
+  writing an H&P can sometimes seem overwhelming.
+- Developing a consistent approach, particularly to the HPI, can help reduce the time required
+  for documentation and be useful for keeping a mental checklist during the patient encounter
+  to make sure you're collecting all the necessary information.
+- TABLE A1.1 Aspects of an Admission Note for Internal Medicine ("H&P") 1.
+- Chief complaint (or chief concern) 2.
+- History of present illness (HPI) 3.
+- Past medical history (PMH) 4.
+- Past surgical history (PSH) 5.
+- Medications 6.
+- Allergies 7.
+- Family history (FHx) 8.
+- Social history (SoHx; information about the person as an individual and their unique life
+  story) and healthrelated behaviors (HRB; behaviors that change risk profiles for pathology)
+  9.
+- Physical exam (PE) 10.
+- Labs/data 11.
+- Problem representation (a description of the patient's presentation that highlights the
+  defining features of a case, helping the clinician to summarize their thoughts and create a
+  differential diagnosis).
+- Assessment & Plan (A&P; a plan by problem for the patient's diagnostic and therapeutic
+  workup) Now, let's break down each section and provide some specific guidance: Chief
+  Complaint and History of Present Illness (HPI)

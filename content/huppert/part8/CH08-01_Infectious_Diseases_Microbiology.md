@@ -1,263 +1,326 @@
 ---
+
 source: "Huppert's Notes: Pathophysiology and Clinical Pearls for Internal Medicine (2021)"
 specialty: Infectious Diseases
 chapter: "CH08-01"
 title: "Microbiology"
----
-
-## 1. Overview of Clinically Important Pathogens
-
-Pathogens can be classified into several major categories based on their structure and organization. Bacteria are single-celled organisms that can be either gram-positive or gram-negative, with further subdivisions based on their shape and staining characteristics. Viruses are acellular entities that require a host cell to replicate, and they can be classified based on their nucleic acid content (DNA or RNA). Fungi are eukaryotic organisms that can exist in yeast or mold forms, and parasites are multicellular organisms that can be broadly divided into protozoa and helminths.
-
-### Bacterial Classification
-
-Bacteria can be organized into several clinically relevant groups based on their gram-staining properties and morphology.
-
-| Type | Classification | Clinically Important Examples |
-| :--- | :--- | :--- |
-| **Gram-positive** | Cocci | *Streptococcus spp.*, *Staphylococcus spp.* |
-| **Gram-positive** | Rods | *Bacillus spp.*, *Clostridium spp.*, *Listeria spp.* |
-| **Gram-negative** | Cocci | *Neisseria spp.* |
-| **Gram-negative** | Rods | *Escherichia coli*, *Klebsiella spp.*, *Pseudomonas aeruginosa*, *Haemophilus spp.* |
-| **Mycobacterium** | — | *Mycobacterium tuberculosis* |
-| **Spirochetes** | — | *Treponema pallidum* (Syphilis), *Borrelia spp.*, *Leptospira spp.* |
-| **No cell wall** | — | *Mycoplasma spp.* |
-
-### Viral Classification
-
-Viruses are classified based on their nucleic acid structure and the presence or absence of an envelope.
-
-| Virus Type | Examples |
-| :--- | :--- |
-| **DNA viruses** | Parvovirus, Papillomavirus (HPV), Adenovirus, Herpesvirus, Hepadnavirus (Hepatitis B) |
-| **RNA viruses** | Picornavirus, Hepevirus (Hepatitis E), Calicivirus (norovirus), Retrovirus (HIV), Orthomyxovirus (influenza), Coronavirus |
-
-### Fungal Classification
-
-Fungi are eukaryotic organisms that can exist in different morphological forms.
-
-| Type | Examples |
-| :--- | :--- |
-| **Yeasts** | *Candida spp.*, *Cryptococcus spp.* |
-| **Dimorphic** | *Coccidioides spp.*, *Histoplasma spp.*, *Blastomyces spp.*, *Paracoccidioides spp.* |
-| **Molds** | *Aspergillus spp.*, *Mucor spp.*, *Rhizopus spp.* |
-
-### Parasitic Classification
-
-Parasites are organisms that live on or within a host and can be divided based on the type of infection they cause.
-
-| Category | Examples |
-| :--- | :--- |
-| **GI infections** | *Giardia lamblia*, *Entamoeba histolytica*, *Cryptosporidium parvum* |
-| **CNS infections** | *Toxoplasma gondii*, *Naegleria fowleri* |
-| **Hematologic infections** | *Plasmodium spp.*, *Babesia spp.* |
-| **Sexually transmitted** | *Trichomonas vaginalis* |
-| **Helminths** | Nematodes (roundworms), Cestodes (tapeworms), Trematodes (flukes) |
 
 ---
 
-## 2. Gram-Positive Bacteria
 
-Gram-positive bacteria are characterized by their ability to retain the crystal violet stain during the gram staining process, which reflects the thick peptidoglycan layer in their cell walls.
-
-### Gram-Positive Cocci
-
-*Staphylococcus aureus* is a major cause of skin and soft tissue infections, septic arthritis, osteomyelitis, pneumonia, endocarditis, and meningitis. It also causes toxin-mediated diseases including toxic shock syndrome, scalded skin syndrome, and food poisoning. *S. aureus* can be classified as either methicillin-sensitive (MSSA) or methicillin-resistant (MRSA), and empiric coverage for MRSA with intravenous vancomycin should be initiated in hospitalized patients. Culture and sensitivity testing should be performed to guide definitive therapy.
-
-*Staphylococcus epidermidis* is part of normal skin flora and can be either a contaminant in culture or a true pathogen, particularly in patients with indwelling devices.
-
-*Streptococcus pneumoniae* is a leading cause of meningitis, pneumonia, sinusitis, and otitis media.
-
-*Streptococcus pyogenes* (Group A strep) causes skin and soft tissue infections and pharyngitis. It also produces toxin-mediated diseases including toxic shock syndrome, scarlet fever, and necrotizing fasciitis. Immune-mediated sequelae include rheumatic fever and post-streptococcal glomerulonephritis.
-
-*Streptococcus agalactiae* (Group B strep) causes meningitis, pneumonia, and sepsis in neonates.
-
-*Streptococcus bovis* is part of the gastrointestinal flora and can penetrate into the bloodstream to cause subacute bacterial endocarditis, particularly in patients with colon cancer or inflammatory bowel disease.
-
-*Enterococcus spp.* cause urinary tract infections, biliary infections, and subacute bacterial endocarditis. They are also associated with infections related to indwelling lines and catheters. *Enterococcus faecium* is often vancomycin-resistant (VRE).
-
-### Gram-Positive Rods
-
-*Bacillus cereus* produces a preformed toxin that contaminates rice and causes diarrhea. *Bacillus anthracis* causes anthrax, which presents as a black painless ulcer with flu-like symptoms.
-
-*Clostridium tetani* causes tetanus, which occurs when a wound becomes infected and the bacteria travel up neurons, potentially leading to spastic paralysis, trismus (lockjaw), and risus sardonicus (a grin-like spasm of facial muscles). *Clostridium botulinum* produces a preformed toxin in canned food that leads to flaccid paralysis. *Clostridium perfringens* causes wound infections that can lead to muscle necrosis, as well as foodborne disease presenting with watery diarrhea. *Clostridium difficile* is a common nosocomial pathogen that can also be acquired in the community and causes watery diarrhea or, in severe cases, toxic megacolon.
-
-*Corynebacterium diphtheriae* causes diphtheria. *Listeria monocytogenes* is transmitted through poorly pasteurized milk or soft cheeses and can penetrate the gastrointestinal tract to cause gastroenteritis. It can also cause meningitis in immunocompromised hosts and in patients over the age of 50 years.
-
-*Actinomyces israelii* normally colonizes the gastrointestinal and genitourinary tracts and can infect patients with intrauterine devices (IUDs), potentially causing abscesses. *Nocardia spp.* causes pulmonary infections and, less frequently, brain abscesses in immunocompromised hosts.
-
----
-
-## 3. Gram-Negative Bacteria
-
-Gram-negative bacteria are characterized by their thin peptidoglycan layer and outer membrane containing lipopolysaccharide (endotoxin).
-
-### Gram-Negative Cocci
-
-*Neisseria gonorrhoeae* is a sexually transmitted pathogen that can cause vaginal discharge, pelvic inflammatory disease, septic arthritis, dermatitis, tenosynovitis, migratory polyarthritis, and Fitz-Hugh-Curtis syndrome (inflammation of the liver capsule following an ascending genitourinary infection). *Neisseria meningitidis* is a leading cause of meningitis.
-
-### Gram-Negative Rods
-
-*Haemophilus influenzae* is an encapsulated organism that causes pneumonia, meningitis, otitis media, and epiglottitis. *Coxiella burnetii* causes a flu-like illness, pneumonia, granulomatous hepatitis, and culture-negative endocarditis. *Legionella pneumophila* grows in water tanks and can cause severe pneumonia along with gastrointestinal symptoms and central nervous system manifestations. It can also cause hyponatremia, diarrhea, and encephalopathy. Diagnosis is established through urine antigen testing (which only tests for certain common serovars), culture on specialized media, or PCR. *Brucella* causes brucellosis, typically acquired through exposure to unpasteurized dairy from goats or cows, and presents with fever, osteomyelitis, or endocarditis. *Bartonella henselae* is transmitted by cat scratches and causes regional lymph node enlargement, granulomas, and fever. In patients with HIV, it can cause bacillary angiomatosis, a vascular proliferative condition that has a similar morphology to Kaposi's sarcoma. *Francisella tularensis* causes tularemia and results from animal or rural exposure. Different forms of infection include ulceroglandular tularensis (skin lesions with associated adenopathy), glandular (regional adenopathy), oropharyngeal (pharyngitis and neck swelling), pneumonic (fever and cough), and typhoidal (systemic febrile illness without localizing features).
-
-*Yersinia pestis* causes plague. *Escherichia coli* is a leading cause of urinary tract infection and diarrhea, including enterotoxigenic *E. coli* (ETEC) and enterohemorrhagic *E. coli* (EHEC), which is associated with hemolytic uremic syndrome (HUS). *Enterobacter* causes urinary tract infections and nosocomial infections. *Klebsiella* causes urinary tract infections, pneumonia, and liver abscess. *Shigella* causes enterocolitis with diarrhea that may be bloody or watery. *Salmonella* causes enterocolitis with diarrhea that may be bloody, and can cause osteomyelitis in patients with sickle cell disease. *Salmonella typhi* causes typhoid fever, which presents with high fever, headache, constipation progressing to diarrhea, hepatosplenomegaly, and a characteristic rash (rose spots). *Proteus* causes urinary tract infections.
-
-*Helicobacter pylori* causes gastritis and peptic ulcer disease. *Campylobacter jejuni* causes enterocolitis with diarrhea that may be bloody. *Vibrio cholerae* causes cholera with profuse watery diarrhea. *Pseudomonas aeruginosa* causes pneumonia, urinary tract infections, and nosocomial infections. *Bacteroides* causes peritonitis.
-
----
-
-## 4. Other Bacteria
-
-### Acid-Fast Bacteria
-
-*Mycobacterium tuberculosis* (MTB) causes tuberculosis. Primary tuberculosis presents as lung disease or extrapulmonary disease. Secondary (reactivation) tuberculosis involves reactivation in the upper lobes with extrapulmonary manifestations including lymphadenitis, pleural TB, meningitis, and vertebral osteomyelitis. *Mycobacterium avium-intracellulare* (MAC) causes pneumonia, especially in patients with preexisting lung disease, and disseminated infection in patients with HIV and CD4 counts less than 50 cells/μL. *Mycobacterium leprae* causes leprosy affecting the skin and superficial nerves.
-
-### Obligate Intracellular Parasites
-
-*Rickettsia* causes Rocky Mountain spotted fever and typhus. *Chlamydia* causes sexually transmitted infections, urethritis, psittacosis, and lymphogranuloma venereum (LGV).
-
-### Spirochetes
-
-*Treponema pallidum* causes syphilis. Primary syphilis presents with a painless lesion (chancre) with a firm, indurated rim. Secondary syphilis is a disseminated phase with constitutional symptoms, rash that may involve the palms and soles, and condyloma lata. Tertiary syphilis involves gummas (granulomas), tabes dorsalis (dorsal column spinal cord degeneration resulting in loss of pain, sensation, and position sense), Argyll Robertson pupil, aortitis, and Charcot joint. Neurosyphilis or otosyphilis can occur at any time after initial infection and presents with headache, vision changes, nausea, and hearing loss. Patients may have isolated eye symptoms with normal lumbar puncture findings, but this still warrants neurosyphilis treatment.
-
-*Leptospira interrogans* causes leptospirosis, which presents with flu-like symptoms, jaundice, and photophobia. *Borrelia burgdorferi* causes Lyme disease, transmitted by the Ixodes tick. Early localized disease presents with erythema migrans ("bull's eye" rash) and systemic symptoms. Early disseminated disease presents with Bell's palsy and cardiac involvement. Late disease involves CNS involvement and arthritis.
-
-### Bacteria Without Cell Walls
-
-*Mycoplasma* causes community-acquired pneumonia.
-
----
-
-## 5. Viral Infections
-
-### DNA Viruses
-
-Adenovirus is a non-enveloped virus with icosahedral symmetry and double-stranded linear DNA. It causes pharyngitis, conjunctivitis (pink eye), and urinary tract infections.
-
-Parvovirus B19 is a non-enveloped virus with icosahedral symmetry and single-stranded linear DNA. It causes aplastic crisis in patients with sickle cell disease or those who are immunocompromised. In adults, it causes RA-like symptoms and exposure to children. Fifth disease in children presents with a "slapped cheek rash" and anemia. In pregnancy, it can cause RBC destruction in the fetus leading to hydrops fetalis and fetal death.
-
-Papillomavirus (HPV) is a non-enveloped virus with icosahedral symmetry and double-stranded circular DNA. It causes warts and can lead to cervical and anal squamous cell carcinoma.
-
-Herpesviruses are enveloped viruses with icosahedral symmetry and double-stranded linear DNA. They include herpes simplex virus (HSV)-1, which is transmitted via respiratory secretions and saliva and then becomes latent in the trigeminal ganglia. Primary oral lesions can also cause genital herpes, while reactivation causes cold sores, temporal lobe encephalitis, keratoconjunctivitis, and recurrent genital herpes. HSV-2 is the most common cause of genital herpes, transmitted during sexual contact with infected areas. Primary infection presents with painful genital ulcers, fever, tender inguinal adenopathy, and headache, with symptoms lasting 2–3 weeks. Some patients are minimally symptomatic or asymptomatic. Recurrences are often less severe with shorter duration.
-
-Varicella-zoster virus (VZV) is acquired through the respiratory tract and infects the dorsal root ganglion or trigeminal nerves. Primary infection causes chickenpox, which starts on the trunk and produces a vesicular, pruritic rash. Reactivation causes shingles, which usually occurs in elderly or immunocompromised hosts. Lesions on the side or tip of the nose (Hutchinson's sign) warrant ophthalmologic evaluation for eye involvement due to risk of retinal necrosis. There is an increased risk of stroke (VZV vasculopathy) after shingles reactivation, especially with cranial nerve involvement.
-
-Epstein-Barr virus (EBV) causes mononucleosis, which presents with fever, cervical lymphadenopathy, hepatosplenomegaly, and pharyngitis. Diagnosis may involve a positive heterophile antibody test for EBV (though this is no longer recommended by the CDC due to low sensitivity and specificity), serology, or peripheral blood smear showing large atypical lymphocytes. Treatment is supportive with rest and fluids, and patients should avoid contact sports due to risk of splenic rupture. Complications include thrombocytopenia, hemolytic anemia, hepatitis, hemophagocytic lymphohistiocytosis (HLH), splenic rupture, and meningoencephalitis. Malignancies associated with EBV include Burkitt's lymphoma, Hodgkin's lymphoma, and nasopharyngeal carcinoma.
-
-Cytomegalovirus (CMV) causes a mild mononucleosis-like syndrome in immunocompetent patients (with negative heterophile antibody). In immunocompromised patients, it causes encephalitis, retinitis, esophagitis, colitis, and hepatitis. Maternal-fetal transmission typically leaves the mother asymptomatic, but the infant may develop hearing loss, seizures, and a rash characterized by cutaneous hemorrhage.
-
-Human herpesvirus 6 (HHV-6) causes roseola in infants, presenting with fever and seizures followed by a rash several days later. Human herpesvirus 8 (HHV-8) causes Kaposi's sarcoma in patients with HIV and multicentric Castleman's disease, which is an HHV-8-associated lymphoproliferative disorder.
-
-Polyomaviruses (JC virus and BK virus) are non-enveloped viruses with icosahedral symmetry and double-stranded circular DNA. JC virus causes progressive multifocal leukoencephalopathy (PML) in patients with HIV. BK virus typically occurs in transplant patients and commonly targets the kidney.
-
-Hepatitis B virus (HBV) is a hepadnavirus that is enveloped with icosahedral symmetry and double-stranded partial circular DNA.
-
-Poxviruses are complex viruses with double-stranded linear DNA. Smallpox has been eradicated by live attenuated vaccine. Molluscum contagiosum causes umbilicata warts transmitted by direct skin-to-skin contact such as in wrestling.
-
-### RNA Viruses
-
-Reoviruses (Rotavirus) are non-enveloped viruses with icosahedral symmetry and double-stranded linear RNA that cause diarrhea.
-
-Picornaviruses include poliovirus, which causes aseptic meningitis and flaccid paralysis; echovirus, which causes aseptic meningitis; rhinovirus, which causes the common cold; and coxsackievirus, which causes hand-foot-mouth disease, myocarditis, and encephalitis. Hepatitis A virus (HAV) is also a picornavirus.
-
-Hepevirus (Hepatitis E virus) is a non-enveloped virus with icosahedral symmetry and single-stranded linear RNA.
-
-Caliciviruses (Norovirus) are non-enveloped viruses with icosahedral symmetry and single-stranded linear RNA, causing viral gastroenteritis.
-
-Flaviviruses are enveloped viruses with icosahedral symmetry and single-stranded linear RNA. Yellow fever is transmitted by the Aedes mosquito and causes fever, nausea and vomiting, and jaundice. Hepatitis C virus (HCV) is also a flavivirus. Dengue is transmitted by the Aedes mosquito and causes "breakbone" fever with joint aches. West Nile virus is transmitted by the Culex mosquito and can cause fever, encephalitis, and flaccid paralysis.
-
-Togaviruses (Rubella) are enveloped viruses with icosahedral symmetry and single-stranded linear RNA. Rubella is transmitted by respiratory droplets and causes postauricular lymphadenopathy and rash, with potential for maternal-fetal transmission. Eastern and Western Equine Encephalitis are also togaviruses.
-
-Retroviruses (HIV and HTLV) are enveloped viruses with icosahedral symmetry and single-stranded linear RNA. HTLV can cause T-cell leukemia.
-
-Coronaviruses are enveloped viruses with helical symmetry and single-stranded linear RNA. SARS-CoV-2 (COVID-19) is a novel coronavirus that causes fever, respiratory compromise, and leukopenia.
-
-Orthomyxoviruses (Influenza virus) are enveloped viruses with helical symmetry and single-stranded linear RNA.
-
-Paramyxoviruses include parainfluenza virus, which causes croup with a seal-like barking cough; RSV, which causes bronchiolitis and commonly wheezing in babies and toddlers; measles virus, which causes cough, cold, and conjunctivitis, followed by Koplik spots (red spots with blue-white center on buccal mucosa) and a maculopapular rash including on palms and soles, with sequelae including encephalitis years later with personality change, myoclonic jerks, and blindness; and mumps virus, which causes swollen neck and parotid glands (parotitis), orchitis (inflamed testes), and pancreatitis.
-
-Rhabdoviruses (Rabies) are enveloped viruses with helical symmetry and single-stranded linear RNA. Rabies is transmitted by bats and mammals, and the virus travels in retrograde fashion up nerve roots, causing fever, agitation, photophobia, and hydrophobia, with progression to paralysis and death.
-
-Filoviruses (Ebola hemorrhagic fever) are enveloped viruses with helical symmetry and single-stranded linear RNA. Ebola is often fatal, with an initial syndrome including abrupt onset febrile syndrome accompanied by malaise, headache, vomiting, and diarrhea. Patients may also have a diffuse erythematous macular rash and mucosal bleeding, with many progressing to multiorgan failure and significant hemorrhage, with case fatality rates approaching **90%**.
-
-Arenaviruses (Lymphocytic choriomeningitis virus, Lassa fever) are enveloped viruses with helical symmetry and single-stranded circular RNA. LCMV is a rodent-borne virus transmitted to humans via exposure to secretions or excretions from infected animals. Patients develop a flu-like illness with headache and meningitis, with CSF WBC counts often exceeding 1,000 cells/µL. Lassa fever encephalitis is also transmitted by rodents.
-
-Bunyaviruses (Hantavirus) are enveloped viruses with helical symmetry and single-stranded circular RNA. Hantavirus is transmitted through rodent feces in the southwestern United States and causes hemorrhagic fever, pneumonia, respiratory failure, and can cause death.
-
-Delta virus (Hepatitis D virus) is an enveloped virus with uncertain symmetry and single-stranded circular RNA. It requires HBV for infection.
-
----
-
-## 6. Systemic Fungal Infections
-
-### Key Clinically Relevant Systemic Fungal Infections
-
-*Coccidioides* appears as spherules in tissue and is found in the southwestern United States (California and Arizona) and Latin America. Symptoms typically begin as a pulmonary infection and can disseminate to bone, joints, meninges, and skin. Diagnosis is established through serology (cocci immunodiffusion and complement fixation), culture, or cocci antigen (in CNS). Treatment includes fluconazole, with intravenous liposomal amphotericin used for disseminated disease.
-
-*Histoplasma* appears as yeasts inside macrophages and is found in the Mississippi and Ohio River valleys. Symptoms include cavitary lung lesions, granulomas in the liver and spleen, skin lesions (wart-like microabscesses), and bone lesions (lytic lesions), as well as prostate involvement. Diagnosis is made through histo urine antigen testing (in disseminated infection) or serology (for localized pulmonary disease). Treatment is itraconazole, with liposomal amphotericin B used for severe disease.
-
-*Blastomyces* appears as yeasts with single broad-based buds and is found in the southeastern United States and Central America. Symptoms include inflammatory lung lesions and ulcerated skin lesions. Diagnosis is made by visualizing tissue with broad-based buds or antigen testing. Treatment is itraconazole, with liposomal amphotericin B used for severe disease.
-
-*Paracoccidioides* appears as yeasts with multiple buds and is found in Latin America. Symptoms include pneumonia or calcified lung mass and ulcerated oral mucosal lesions. Diagnosis is made by culture. Treatment is itraconazole, with liposomal amphotericin B used for severe disease.
-
----
-
-## 7. Opportunistic Fungal Infections
-
-*Candida* appears as yeast forms that produce hyphae and pseudohyphae and is found worldwide. Clinical manifestations include vaginal "yeast infection" with thick cottage cheese-like vaginal discharge that is itchy but not painful, treated with topical azole cream. Urinary tract infection is rare but very common in catheterized patients, with most often asymptomatic candiduria. Mouth and oropharynx involvement ("thrush") presents as thick white plaques that are painless, and HIV testing should be considered. Treatment includes clotrimazole five times daily or nystatin mouth wash, or fluconazole. Esophagitis presents as white plaques that scrape off with odynophagia, treated with fluconazole. Cutaneous disease presents as erythematous eroded patches with satellite lesions in the folds of obese diabetic patients, treated with nystatin powder. Candidemia is never a contaminant, and lines should be removed with GI examination. Treatment is intravenous echinocandin pending speciation and sensitivities.
-
-*Cryptococcus* appears as yeast with a large capsule and is found worldwide. The pathogenesis involves inhalation from pigeon droppings followed by hematogenous spread. Risk factors include HIV (CD4 less than 50 cells/μL) and immunosuppression. Symptoms include pulmonary disease and meningitis with elevated opening pressure. Diagnosis is established through serum cryptococcal antigen (CrAg) testing, lumbar puncture to detect cryptococcal antigen (often with elevated opening pressure). Treatment includes fluconazole for 6–12 months (longer if HIV, treating until CD4 reaches 100 cells/μL for 3 months). Amphotericin B plus flucytosine induction therapy is used for meningitis.
-
-*Aspergillus* is a mold with narrow-angle branching and septate hyphae found worldwide. Clinical manifestations include allergic bronchopulmonary aspergillosis (ABPA), which is a Type I hypersensitivity reaction causing difficult-to-control asthma, eosinophilia, and elevated IgE, treated with steroids and sometimes azoles. Aspergilloma is a fungus ball occurring in preexisting pulmonary cysts (such as from TB, bronchiectasis, or sarcoid) that causes chronic cough and hemoptysis, potentially requiring surgical removal with or without azoles. Invasive aspergillosis invades lungs, sinuses, and brain in immunocompromised patients (neutropenia, solid organ transplant, steroids), treated with voriconazole. Diagnosis is established through serum galactomannan (a polysaccharide in the Aspergillus cell wall) and beta-D-glucan testing.
-
-*Mucor and Rhizopus* are molds with 90-degree angle branching and nonseptate hyphae found worldwide. They invade blood vessels and cause necrotic lesions, and the "reverse halo sign" on chest CT is a characteristic finding. Treatment includes liposomal amphotericin and surgical debridement.
-
----
-
-## 8. Parasitic Infections
-
-### Protozoa
-
-*Giardia lamblia* is ingested as cysts in water (such as while camping or hiking) or transmitted person-to-person (such as at daycare) and infects the small intestine, causing giardiasis with foul-smelling fatty diarrhea.
-
-*Entamoeba histolytica* is ingested as cysts in water, especially in tropical locations, and infects the large intestine and liver. It invades the GI tract causing bloody diarrhea, ulcers, liver abscess, and right upper quadrant pain.
-
-*Cryptosporidium parvum* is ingested as cysts in water and infects the GI tract, causing diarrhea that can be particularly severe in immunocompromised patients.
-
-*Toxoplasma gondii* is ingested as cysts in poorly cooked pork or cat feces and causes CNS infection, presenting with rim-enhancing brain lesion(s). Maternal-fetal transmission can cause chorioretinitis, hydrocephalus, and intracranial calcification in the infant.
-
-*Naegleria fowleri* is acquired from swimming in a freshwater lake and causes rapidly fatal meningoencephalitis.
-
-African trypanosomiasis (caused by *Trypanosoma brucei* subspecies *gambiense* and *rhodesiense*) is transmitted by the tsetse fly through a painful bite and causes African sleeping sickness with enlarged lymph nodes (Winterbottom's sign), recurring fever, personality changes, somnolence, and coma.
-
-*Plasmodium* species (including *P. vivax/ovale*, *P. falciparum*, and *P. malariae*) are transmitted by the Anopheles mosquito and cause malaria with fever, anemia, and splenomegaly.
-
-*Babesia* is transmitted by the Ixodes tick in the northeastern United States (same vector as *B. burgdorferi*) and causes babesiosis with fever and hemolytic anemia, with increased risk in asplenic patients. It is the most common transfusion-related infection.
-
-*Leishmania donovani* is transmitted by the sandfly and causes visceral leishmaniasis with lesions on the face and skin, a distended abdomen, spiking fevers, hepatosplenomegaly, and pancytopenia.
-
-*Trichomonas vaginalis* is sexually transmitted and causes vaginitis with foul-smelling frothy yellow or green discharge.
-
-### Helminths
-
-*Enterobius vermicularis* (pinworm) is transmitted through food contaminated with eggs and causes intestinal infection with perianal itching in children, diagnosed by the Scotch tape test.
-
-*Ascaris lumbricoides* (giant white roundworm) is transmitted fecal-orally. Eggs hatch in the duodenum, migrate through the lungs causing pneumonitis, and then are swallowed and mature in the GI tract, where they can also cause obstruction of the biliary or GI tract. Eggs and sometimes worms may be visible in feces under the microscope.
-
-*Strongyloides stercoralis* larvae in soil penetrate the skin and cause intestinal infection with vomiting, diarrhea, and anemia. Disseminated infection presents with pulmonary symptoms (ranging from cough to ARDS), cutaneous symptoms (rash on thighs, buttocks, or widespread purpura/petechiae), and GI symptoms (abdominal pain, GI bleed, obstruction).
-
-*Ancylostoma duodenale* and *Necator americanus* (hookworms) have larvae in feces that penetrate the skin and cause intestinal infection that can lead to microcytic anemia by sucking blood from intestinal walls.
-
-*Wuchereria bancrofti* is transmitted by the female mosquito and blocks lymphatic vessels, causing elephantiasis.
-
-*Taenia solium* is acquired by ingesting larvae in undercooked pork in Central America and Southeast Asia. Larvae cause intestinal infection, while eggs cause neurocysticercosis with brain cysts and seizures.
-
-*Diphyllobothrium latum* is acquired from consuming fresh water or raw fish (Scandinavia, former Soviet Union, Japan). Most patients are asymptomatic. The classic manifestation is vitamin B12 deficiency and megaloblastic anemia due to the organism's competition with the host for vitamin B12 absorption.
-
-*Echinococcus granulosus* is acquired by ingesting eggs in dog feces and causes cysts in the liver. Anaphylaxis may occur if antigens are released, so surgeons should pre-inject ethanol to kill cysts before removal.
-
-*Schistosoma* species (*S. haematobium* and *S. mansoni*) use snails as hosts, penetrate skin, and migrate to the liver and bladder. They cause "swimmer's itch" and fever. Eggs become lodged in the liver and spleen, evoking an immune response and leading to hepatic granulomas and fibrosis in some patients. *S. haematobium* causes hematuria and bladder cancer, while *S. mansoni* causes non-cirrhotic portal hypertension.
-
-*Clonorchis sinensis* (Chinese liver fluke) is acquired from undercooked fish in Southeast Asia and causes biliary tract inflammation, which can lead to recurrent pyogenic cholangitis and pigmented gallstones. It is associated with cholangiocarcinoma.
-
-*Paragonimus westermani* is acquired from undercooked crab meat and causes lung inflammation.
+# Microbiology
+
+- Huppert's Notes: Pathophysiology and Clinical Pearls for Internal Medicine Chapter 801:
+  Microbiology in Infectious Diseases OVERVIEW OF CLINICALLY IMPORTANT PATHOGENS Adapted from:
+  Medical Microbiology & Immunology: A Guide to Clinical Infectious Diseases, 15e Warren
+  Levinson, Peter ChinHong, Elizabeth A.
+- Joyce, Jesse Nussbaum, and Brian Schwartz (NY: McGrawHill Education, 2018).
+- TABLE 8.1 Classification of Clinically Important Pathogens Type Classification Clinically
+  Important Examples Bacteria Grampositive: Cocci Streptococcus spp., Staphylococcus spp.
+- Rods Bacillus spp., Clostridium spp., Listeria spp.
+- Gramnegative: Cocci Neisseria spp.
+- Rods Escherichia coli, Klebsiella spp., Pseudomonas aeruginosa, Hemophilus spp.
+- Mycobacterium Mycobacterium tuberculosis Spirochetes Treponema pallidum (Syphilis), Borrelia
+  spp., Leptospira spp.
+- No cell wall Mycoplasma spp.
+- Viruses DNA viruses RNA viruses Parvovirus, Papillomavirus (HPV), Adenovirus, Herpesvirus,
+  Hepadnavirus (Hepatitis B) Picornavirus, Hepesvirus (Hepatitis E), Calicivirus (norovirus),
+  Retrovirus (HIV), Orthomyxovirus (influenza), Coronavirus Fungi Yeasts Dimorphics Molds
+  Candida spp., Cryptococcus spp.
+- Coccidioides spp., Histoplasma spp., Blastomyces spp., Paracoccidioides spp.
+- Aspergillus spp., Mucor spp., Rhizopus spp.
+- Parasites GI infections CNS infections Hematologic infections Sexually transmitted diseases
+  Giardia lamblia, Entamoeba histolytica, Cryptosporidium parvum Toxoplasma gondii, Naegleria
+  fowleri Plasmodium spp., Babesia spp.
+- Trichomonas vaginalis Helminths Nematodes (roundworms) Cestodes (tapeworms) Trematodes
+  (flukes) Enterobius vermicularis, Strongyloides stercoralis, Toxocara canis Taenia solium,
+  Echinococcus granulosus Schistosoma spp., Clonorchis sinensis BACTERIAL INFECTIONS
+  Grampositive bacteria TABLE 8.2 Key Clinically Relevant GramPositive Bacteria GramPositive
+  Organism Clinical Symptoms/Key Associations Cocci Staphylococcus aureus Skin/soft tissue
+  infections, septic arthritis, osteomyelitis, pneumonia, endocarditis, meningitis
+  Toxinmediated: Toxic shock syndrome, scalded skin syndrome, food poisoning Can be
+  methicillin sensitive (MSSA) or methicillin resistant (MRSA).
+- Culture and determine sensitivities.
+- Cover for MRSA empirically upfront with IV vancomycin in hospitalized patients.
+- Staphylococcus epidermidis Skin flora – can be a contaminant in culture or can be a true
+  pathogen Streptococcus pneumoniae Meningitis, pneumonia, sinusitis, otitis media
+  Streptococcus pyogenes (Group A strep) Skin/soft tissue infection, pharyngitis
+  Toxinmediated: Toxic shock syndrome, scarlet fever, necrotizing fasciitis Immunemediated:
+  Rheumatic fever, poststrep glomerulonephritis Streptococcus agalactiae (Group B strep)
+  Meningitis, pneumonia, sepsis in babies Streptococcus bovis GI flora that can penetrate into
+  the bloodstream and cause subacute bacterial endocarditis in the setting of colon cancer or
+  IBD Enterococcus spp.
+- UTI, biliary infection, subacute bacterial endocarditis Infections associated with
+  indwelling lines and catheters Enterococcus faecium is often vancomycin resistant (VRE) Rods
+  Sporeforming, aerobic Bacillus cereus Preformed toxin that contaminates rice, causes
+  diarrhea Bacillus anthracis Black painless ulcer, flulike, lethal Sporeforming, anerobic
+  Clostridium tetani Wound gets infected, bacteria travels up neuron, can lead to spastic
+  paralysis, trismus (lockjaw), risus sardonicus (spasm of facial muscles, appears like a
+  grin) Clostridium botulinum Preformed toxin in canned food, leads to flaccid paralysis
+  Clostridium perfringens Wound gets infected, can lead to muscle necrosis.
+- Can also get foodborne disease that causes watery diarrhea Clostridium difficile Common
+  nosocomial infection, but can also be acquired in the community Watery diarrhea or, in
+  severe cases, toxic megacolon Nonfilamentous nonspore forming Corynebacterium diphtheria
+  Diphtheria Listeria monocytogenes Poorly pasteurized milk/soft cheeses → penetrates GI track
+  and causes gastroenteritis Can cause meningitis in immunocompromised hosts and those over
+  age 50 yr Filamentous nonspore forming Actinomyces israelii Normally colonizes GI/GU tract,
+  can infect intrauterine devices (IUDs), can cause abscesses Nocardia spp.
+- Causes pulmonary infections and, less frequently, brain abscesses in immunocompromised hosts
+  Gramnegative bacteria TABLE 8.3 Key Clinically Relevant GramNegative Bacteria GramNegative
+  Organism Clinical Symptoms/Key Associations Cocci Neisseria gonorrhoeae Sexually transmitted
+  disease.
+- Can cause vaginal discharge, pelvic inflammatory disease, septic arthritis, dermatitis,
+  tenosynovitis, migratory polyarthritis, and FitzHughCurtis syndrome (liver capsule
+  inflammation from ascending GU infection) Neisseria meningitidis Meningitis Rods
+  Facultative, straight Haemophilus influenzae Encapsulated organism Pneumonia, meningitis,
+  otitis media, epiglottis Coxiella burnetti Flulike illness, pneumonia, granulomatous
+  hepatitis, culturenegative endocarditis Legionella pneumophilia Grows in water tanks, can
+  cause severe pneumonia, GI symptoms, CNS symptoms.
+- Can also cause hyponatremia, diarrhea, encephalopathy Dx: Urine antigen test for legionella
+  (only tests for certain, common serovars), culture on legionella specific media, or PCR
+  Brucella Brucellosis; cheese, goat/cow exposure → fever, osteomyelitis, or endocarditis
+  Bartonella henselae Cat scratch → regional lymph node enlargement, granulomas, fever In
+  patients with HIV, can cause a vascular proliferative form that has a similar morphology as
+  Kaposi's sarcoma, known as bacillary angiomatosis Francisella Tularemia; Results from animal
+  or rural exposure.
+- Different forms of infection, including ulceroglandular tularensis (skin lesions and
+  associated adenopathy), glandular (regional adenopathy), oropharyngeal (pharyngitis, neck
+  swelling), pneumonic (fever, cough), typhoidal (systemic febrile illness without localizing
+  features), among others Yersinia pestis Plague Escherichia coli Urinary tract infection,
+  diarrhea (ETEC; EHEC – associated with HUS) Enterobacter Urinary tract infection, nosocomial
+  infections Klebsiella Urinary tract infection, pneumonia, liver abscess Shigella
+  Enterocolitis – diarrhea, can be bloody or watery Salmonella Enterocolitis – diarrhea, can
+  be bloody.
+- Can cause osteomyelitis in individuals with sickle cell disease.
+- Salmonella typhi: Can cause typhoid fever – high fever, headache, constipation > diarrhea,
+  hepatosplenomegaly, and rash (rose spots) Proteus Urinary tract infection Facultative,
+  curved Helicobacter pylori Gastritis, peptic ulcer disease Campylobacter jejuni
+  Enterocolitis – diarrhea, can be bloody Vibrio cholera Cholera, profuse watery diarrhea
+  Aerobic Pseudomonas aeruginosa Pneumonia, urinary tract infection, nosocomial infections
+  Anerobic Bacteroides Peritonitis Other bacteria TABLE 8.4 Key Clinically Relevant Other
+  Bacteria Class Organism Clinical Symptoms/Key Associations Acidfast Mycobacterium
+  tuberculosis (MTB) Primary tuberculosis: Lung disease or extrapulmonary disease Secondary
+  tuberculosis: Reactivation in the upper lobes, extrapulmonary TB (lymphadenitis, pleural TB,
+  meningitis, vertebral osteomyelitis) Mycobacterium aviumintracellulare (MAC) Pneumonia,
+  especially if preexisting lung disease Disseminated infection in patients with HIV and CD4
+  <50 cells/μL Mycobacterium leprae Skin and superficial nerves Obligate intracellular
+  parasites Rickettsia Rocky Mountain spotted fever, typhus Chlamydia Sexually transmitted
+  infection Urethritis, psittacosis, lymphogranuloma venereum (LGV) Spirochetes Treponema
+  pallidum Syphilis 1° – painless lesion (chancre) with firm, indurated rim 2° – disseminated
+  phase with constitutional symptoms, rash that may involve the palms/soles 3° – gummas
+  (granulomas); tabes dorsalis (dorsal column spinal cord – loss of pain/sensation/position
+  sense), Argyll Robertson pupil; aortitis; Charcot joint Neurosyphilis/otosyphilis: Can occur
+  any time after initial infection Symptoms include headache, vision changes, nausea, hearing
+  loss.
+- May have isolated eye symptoms with normal LP (this still warrants neurosyphilis treatment)
+  Leptospira interrogans Leptospirosis – flulike symptoms, jaundice, photophobia,
+  conjunctivitis Borrelia burgdorferi Lyme disease.
+- Transmitted by the Ixodes tick Early localized – erythema migrans ("bulls eye" rash),
+  systemic symptoms Early disseminated – Bell's palsy, cardiac involvement Late – CNS
+  involvement, arthritis No cell wall Mycoplasma Community acquired pneumonia VIRAL INFECTIONS
+  DNA viruses TABLE 8.5 Key Clinically Relevant DNA Viruses Virus Family Envelope Capsid
+  Symmetry DNA Structure Clinically Important Viruses and Clinical Symptoms/Key Associations
+  Adenovirus No Icosahedral DS linear Adenovirus: Pharyngitis, conjunctivitis (pink eye), UTIs
+  Parvovirus No Icosahedral SS linear Parvo B19 virus: Aplastic crisis in patients with sickle
+  cell disease or those that are immunocompromised Adult with RAlike symptoms and exposure to
+  children Fifth Disease in kids: "Slapped cheek rash", anemia RBC destruction in fetus, which
+  can lead to hydrops fetalis and fetal death Papillomavirus No Icosahedral DS circular Human
+  Papillomavirus (HPV): Warts; can lead to cervical/anal squamous cell carcinoma Herpesvirus
+  Yes Icosahedral DS linear Herpes simplex virus (HSV)1: Transmitted via respiratory
+  secretions/saliva, and then can become latent in the trigeminal ganglia.
+- 1° Oral lesions (can also cause genital herpes) 2° Reactivation: Cold sores, temporal lobe
+  encephalitis, keratoconjunctivitis (inflammation of cornea), recurrent genital herpes Herpes
+  simplex virus (HSV)2: Most common cause of genital herpes.
+- Transmitted during sexual contact with infected areas, usually when active lesions are
+  present, but can also happen during asymptomatic periods 1°: Painful genital ulcers, fever,
+  tender inguinal adenopathy, or headache.
+- Some are minimally symptomatic or asymptomatic.
+- Symptoms last 2–3 weeks.
+- 2°: Recurrences of infection are often less severe than primary infections.
+- Duration of symptoms is often shorter, as well (e.g., 10 days).
+- VZV: Acquired through respiratory tract, and then can infect the dorsal root ganglion or
+  trigeminal nerves Primary = Chickenpox: Starts on trunk, and causes a vesicular and pruritic
+  rash Reactivation = Zoster (shingles): Usually in elderly or immunocompromised hosts Lesion
+  on side or tip of nose (Hutchinson's sign) warrants ophthalmologic evaluation for eye
+  involvement (risk of retinal necrosis) Increased risk of stroke (VZV vasculopathy) after
+  shingles reactivation, especially if cranial nerve involvement EBV: Mononucleosis: Fever,
+  cervical lymphadenopathy, hepatosplenomegaly, pharyngitis Diagnosis: May have positive
+  heterophile antibody for EBV (no longer recommended by CDC given low sensitivity and
+  specificity), serology, peripheral blood smear (large atypical lymphocytes) Treatment:
+  Selfresolving (rest, fluids, avoid contact sports due to risk of splenic rupture)
+  Complications: Thrombocytopenia/hemolytic anemia, hepatitis, HLH (rare), splenic rupture
+  (rare), meningoencephalitis (rare) Malignancies: Burkitt's lymphoma, Hodgkin's lymphoma,
+  nasopharyngeal carcinoma.
+- Associated with latent stage CMV: Immunocompetent: Mild mononucleosislike syndrome (negative
+  Heterophile antibody) Immunocompromised: Encephalitis, retinitis, esophagitis, colitis,
+  hepatitis Maternal–fetal transmission: Mother usually asymptomatic; Baby: Hearing loss,
+  seizures, rash characterized by cutaneous hemorrhage HHV6: Roseola: Infant with fever,
+  seizures, rash (follows fever by several days) HHV8: Kaposi's sarcoma (patients with HIV),
+  Multicentric Castleman's Disease (an HHV8 associated lymphoproliferative disorder)
+  Polyomavirus No Icosahedral DS circular JC Virus: Progressive multifocal leukoencephalopathy
+  (PML) in patients with HIV BK Virus: Typically occurs in transplant patients; commonly
+  targets the kidney Hepadnavirus Yes Icosahedral DS partial circular Hepatitis B virus (HBV)
+  Poxvirus Yes Complex DS linear Smallpox: Eradicated by live attenuated vaccine Molluscum
+  contagiosum: Umbilicated warts.
+- Transmitted by direct skinskin contact (e.g., wrestling) RNA viruses TABLE 8.6 Key
+  Clinically Relevant RNA Viruses Virus family Envelope Capsid Symmetry RNA Structure
+  Clinically Important Viruses and Clinical Symptoms/Key Associations Reovirus No Icosahedral
+  DS linear Rotavirus: Diarrhea Picornavirus No Icosahedral SS linear Poliovirus: Aseptic
+  meningitis, flaccid paralysis Echovirus: Aseptic meningitis Rhinovirus: "Common cold"
+  Coxsackievirus: Handfootmouth disease, myocarditis, encephalitis Hepatitis A Virus (HAV)
+  Hepevirus No Icosahedral SS linear Hepatitis E Virus (HEV) Caliciviruses No Icosahedral SS
+  linear Norovirus: Viral gastroenteritis Flaviviruses Yes Icosahedral SS linear Yellow fever:
+  Transmitted by the Aedes mosquito.
+- Causes fever, nausea/vomiting, jaundice.
+- Hepatitis C Virus (HCV) Dengue: Transmitted by the Aedes mosquito.
+- Causes "breakbone" fever, joint aches.
+- West Nile virus: Transmitted by the Culex mosquito.
+- Can cause fever, encephalitis, flaccid paralysis.
+- Togaviruses Yes Icosahedral SS linear Rubella: Respiratory droplets.
+- Causes postauricular lymphadenopathy, rash, can be transmitted maternal–fetal.
+- Eastern Equine Encephalitis Western Equine Encephalitis Retroviruses Yes Icosahedral SS
+  linear HIV HTLV: Can cause Tcell leukemia Coronaviruses Yes Helical SS linear SARSCoV2
+  (COVID19): Novel coronavirus that causes fever, respiratory compromise, leukopenia
+  Orthomyxoviruses Yes Helical SS linear Influenza virus Paramyxoviruses Yes Helical SS linear
+  Parainfluenza: Croup, seallike barking cough RSV: Bronchiolitis, commonly causes wheezing in
+  babies/toddlers Measles: Cough, cold, conjunctivitis.
+- Kolpik spots (red spots with bluewhite center on buccal mucosa), then maculopapular rash
+  including on palms/soles.
+- Sequalae: Encephalitis years later with personality change, myoclonic jerks, blindness.
+- Mumps: Swollen neck/parotid glands (parotitis), orchitis (inflamed testes), pancreatitis
+  Rhabdoviruses Yes Helical SS linear Rabies: Transmitted by bats, mammals; virus travels in
+  retrograde fashion up nerve roots and causes fever, agitation, photophobia, hydrophobia.
+- Can progress to paralysis and death.
+- Filoviruses Yes Helical SS linear Ebola hemorrhagic fever: Often fatal.
+- Initial syndrome includes abrupt onset febrile syndrome accompanied by malaise, headache,
+  vomiting, and diarrhea.
+- Patients may also have a diffuse, erythematous macular rash, and mucosal bleeding.
+- Many progress to multiorgan failure and significant hemorrhage, with case fatality rates
+  that approach *_PROTECTED_BOLD*0__.
+- Arenaviruses Yes Helical SS circular Lymphocytic choriomeningitis virus (LCMV): A
+  rodentborne virus transmitted to humans via exposure to secretions or excretions from
+  infected animals.
+- Patients develop a flulike illness with headache and meningitis.
+- WBC counts in CSF are often > 1,000 cells/µL.
+- Lassa fever encephalitis: Transmitted by rodents Bunyaviruses Yes Helical SS circular
+  Hantavirus: Rodent feces in the Southwest US → hemorrhagic fever, pneumonia, respiratory
+  failure, can cause death Delta virus Yes Uncertain SS circular Hepatitis D virus (HDV):
+  Requires HBV for infection FUNGAL INFECTIONS Systemic fungal infections TABLE 8.7 Key
+  Clinically Relevant Systemic Fungal Infections Genus Morphology in Tissue Geographic
+  Distribution Clinical Information Coccidioides Spherule Southwestern US (CA, AZ), Latin
+  America Symptoms: Typically starts as a pulmonary infection.
+- Can disseminate to the bone, joints, meninges, skin.
+- Diagnosis: Serology (cocci immunodiffusion and complement fixation), culture, cocci antigen
+  (in CNS) Treatment: Fluconazole.
+- If disseminated, IV liposomal amphotericin sometimes needed.
+- Histoplasmosis Yeasts inside of macrophages Mississippi/Ohio River Valley Symptoms: Cavitary
+  lung lesions, granulomas in the liver and spleen, skin (wartlike microabscesses), bones
+  (lytic lesions), prostate Diagnosis: Histo urine antigen (in disseminated infection),
+  serology (for localized pulmonary disease) Treatment: Itraconazole; if severe, requires
+  liposomal amphotericin B Blastomyces Yeasts with single broadbased buds Southeastern US,
+  Central America Symptoms: Inflammatory lung lesions, ulcerated skin lesions Diagnosis:
+  Visualize tissue with broadbased buds, antigen testing Treatment: Itraconazole; if severe,
+  requires liposomal amphotericin B Paracoccidioides Yeasts with multiple buds Latin America
+  Symptoms: Pneumonia or calcified lung mass, ulcerated oral mucosal lesions Diagnosis:
+  Culture Treatment: Itraconazole; if severe, requires liposomal amphotericin B Opportunistic
+  fungal infections TABLE 8.8 Key Clinically Relevant Opportunistic Fungal Infections Genus
+  Morphology in Tissue Geographic Distribution Clinical Features Candida Yeast forms hyphae
+  and pseudo hyphae Worldwide Symptoms: Vaginal: "yeast infection" – thick cottage cheese–like
+  vaginal discharge, itchy but not painful.
+- Tx: Topical azole cream UTI: True UTI is rare, very common in catheterized patients, most
+  often is asymptomatic candiduria Mouth/oropharynx: "thrush," thick white plaques, painless,
+  check HIV.
+- Tx: Clotrimazole 5×/day, nystatin mouth wash, fluconazole Esophagitis: White plaques that
+  scrape off; Odynophagia.
+- Tx: Fluconazole Cutaneous: Erythematous eroded patches with satellite lesions in folds of
+  obese diabetic patients.
+- Tx: Nystatin powder Bacteremia: Candidemia is never a contaminant; remove lines, GI exam.
+- Tx: IV echinocandin pending speciation/sensitivities Diagnosis: Clinical; KOH prep shows
+  yeast, Germ test tube in animal serum shows pseudohyphae for C albicans and C dubliniensis,
+  low pH Cryptococcus Yeast with large capsule Worldwide Pathogenesis: Pigeon droppings →
+  inhale → hematogenous spread Risk factors: HIV (CD4 <50 cells/μL), immunosuppressed patients
+  Symptoms: Pulmonary disease, meningitis with elevated opening pressure Diagnosis: Serum
+  cryptococcal antigen (CrAg), LP – detect cryptococcal antigen, often elevated opening
+  pressure Treatment: Fluconazole 6–12 mos (longer if HIV, treat until CD4 100 cells/μL for 3
+  mos).
+- Amphotericin B + Flucytosine induction therapy if meningitis.
+- Aspergillus Mold with narrow angle branching, septate hyphae Worldwide Symptoms: Allergic
+  bronchopulmonary aspergillosis (ABPA): Type I hypersensitivity reaction; causes difficult to
+  control asthma, eosinophilia, +IgE.
+- Tx: Steroids, +/– azoles Aspergilloma: Fungus ball.
+- Occurs in preexisting pulmonary cyst (e.g., TB, bronchiectasis, sarcoid).
+- Causes chronic cough, hemoptysis.
+- Tx: May need surgical removal, +/– azoles Invasive aspergillosis: Invades lungs, sinuses,
+  brain in immunocompromised pts (neutropenia, solid organ transplant, steroids).
+- Tx: Voriconazole.
+- Diagnosis: Serum galactomannan is a polysaccharide in the Aspergillus cell wall; BetaDglucan
+  is positive but not specific.
+- Mucor & Rhizopus Mold with 90degree angle branching, nonseptate hyphae Worldwide Symptoms:
+  Invades blood vessels and causes a necrotic lesion, look for "reverse halo sign" on chest CT
+  Treatment: Liposomal amphotericin, surgical debridement PARASITIC INFECTIONS Protozoa
+  infections Protozoa are single celled parasites under the parent category of parasites.
+- TABLE 8.9 Key Clinically Relevant Protozoa Organism Transmission Clinical Features GI
+  Infections Giardia lamblia Ingestion of cysts in water (e.g., while camping, hiking) or
+  persontoperson (e.g., at daycare) → infects small intestine Giardiasis: Foulsmelling fatty
+  diarrhea Entamoeba histolytica Ingestion of cysts in water, especially in tropical locations
+  → infects large intestine, liver Invades GI tract → bloody diarrhea, ulcers, liver abscess,
+  RUQ pain Cryptosporidium parvum Ingestion of cysts in water → infects GI tract Diarrhea, can
+  be particularly severe in immunocompromised patients CNS Infections Toxoplasma gondii
+  Ingestion of cysts in poorly cooked pork, cat feces → CNS infection Rimenhancing brain
+  lesion(s) Maternal–fetal transmission: Can cause chorioretinitis, hydrocephalus,
+  intracranial calcification in infant Naegleria fowleri Swimming in a fresh water lake → CNS
+  infection Rapidly fatal meningoencephalitis Trypanosoma brucei Trypanosoma gambiense
+  Trypanosoma rhodesiense Tsetse fly (painful bite) African sleeping sickness: Enlarged lymph
+  nodes (Winterbottom's sign), recurring fever, personality changes, somnolence, coma
+  Hematologic Infections Plasmodium P.
+- vivax/ovale P.
+- falciparum P.
+- malariae Mosquito (Anopheles) Malaria: Fever, anemia, splenomegaly Babesia Ixodes tick in
+  the Northeastern US (same B.
+- burgdorferi) Babesiosis: Fever and hemolytic anemia, increased risk if asplenia.
+- Most common transfusionrelated infection.
+- Visceral Infections Trypanosoma Reduviid bug (painless bite) in South America Chagas'
+  disease: Dilated cardiomyopathy, megacolon and cruzi megaesophagus, unilateral eye swelling
+  at time of bite (Romaña's sign) Leishmania donovani Sandfly Visceral leishmaniasis: Lesions
+  on face and skin, round belly, spiking fevers, hepatosplenomegaly, pancytopenia Sexually
+  Transmitted Disease Trichomonas vaginalis Sexual transmission Vaginitis: Foulsmelling frothy
+  yellow/green discharge HELMINTHIC INFECTIONS Helminth are multicellular worms under the
+  parent category of parasites.
+- TABLE 8.10 Key Clinically Relevant Helminthic Infections Organism Transmission Clinical
+  Features Nematodes (roundworms) – Intestinal Enterobius vermicularis (Pinworm) Food
+  contaminated with eggs Intestinal infection with perianal itching in children (Scotch tape
+  test) Ascaris lumbricoides (Giant white roundworm) Fecal–oral; eggs, and sometimes worms,
+  visible in feces under the microscope Eggs hatch in duodenum; migrate through the lungs and
+  cause pneumonitis; then swallowed and mature in the GI tract; can also cause obstruction of
+  the biliary or GI tract Strongyloides stercoralis Larvae in soil penetrate skin Intestinal
+  infection: Vomiting, diarrhea, anemia Disseminated infection: Pulmonary symptoms (ranging
+  from cough to ARDS), cutaneous symptoms (rash on the thighs, buttocks or widespread
+  purpura/petechiae), GI symptoms (abdominal pain, GI bleed, obstruction) Ancylostoma
+  duodenale Necator americanus (Hookworm) Larvae in feces penetrate skin Intestinal infection:
+  Can cause microcytic anemia by sucking blood from intestinal walls Nematodes (roundworms) –
+  Tissue Dracunculus medinensis Drinking water with copepods Migrate down leg (painful), then
+  cause skin inflammation/ulcers Onchocerca volvulus Female blackfly bite Hyperpigmented skin,
+  river blindness Loa Loa Deer fly, horse fly, mango fly Swelling in skin, worm in conjunctiva
+  Wuchereria bancrofti Female mosquito Blocks lymphatic vessels; elephantitis Toxocara canis
+  Food contaminated with eggs Visceral larva migrans Cestodes (Tapeworms) Taenia solium
+  Ingestion of larvae in undercooked pork Central America, Southeast Asia Larvae: Intestinal
+  infection Eggs: Neurocysticercosis → brain cysts + seizures Diphyllobothrium latum
+  Consumption of fresh water or raw fish.
+- (Scandinavia, the former Soviet Union, and Japan) Most patients are asymptomatic.
+- The classic manifestation is vitamin B12 deficiency and megaloblastic anemia.
+- This is due to the organisms' competition with the host for vitamin B12 absorption.
+- Echinococcus granulosus Ingestion of eggs in dog feces Cysts in liver: Anaphylaxis if
+  antigens are released (surgeon should preinject ethanol to kill cysts before removal)
+  Trematodes (Flukes) Schistosoma S.
+- haematobium S.
+- mansoni Snails are host; Penetrate skin → liver → bladder "Swimmer's itch," fever.
+- Eggs become lodged in the liver and spleen, evoking an immune response and leading to the
+  development of hepatic granulomas and fibrosis in some patients S.
+- haematobium – hematuria, bladder cancer S.
+- mansoni – noncirrhotic portal HTN Clonorchis sinensis (Chinese Liver Fluke) Undercooked
+  fish, Southeast Asia Biliary tract inflammation, which can cause recurrent pyogenic
+  cholangitis, pigmented gallstones.
+- Associated with cholangiocarcinoma.
+- Paragonimus westermani Undercooked crab meat Lung inflammation Huppert's Notes:
+  Pathophysiology and Clinical Pearls for Internal Medicine Chapter 802: Approaches & Chief
+  Complaints in Infectious Diseases INTRODUCTION
