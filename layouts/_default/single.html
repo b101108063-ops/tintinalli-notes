@@ -8,7 +8,6 @@
     {{- $bookName := .Params.source -}}
     {{- $specialtyName := .Params.specialty -}}
     
-    {{/* 取得 Huppert 專科名稱 */}}
     {{- if in $path "huppert" -}}
         {{- $bookName = "Huppert's Notes" -}}
         {{- if not $specialtyName -}}
@@ -33,16 +32,13 @@
         {{- $bookName = "Tintinalli's Emergency Medicine" -}}
     {{- end -}}
 
-    {{/* ================= 標題專屬排版區塊 ================= */}}
     {{ if in $path "huppert" }}
         <div class="note-breadcrumb" style="font-size: 0.85rem; color: #3a86ff; margin-bottom: 0.4rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">
             📚 {{ $bookName }}
         </div>
-        {{/* 主標題顯示專科：Pulmonology */}}
         <h1 class="post-title" style="margin-bottom: 0.2rem;">
             {{ $specialtyName | default "Huppert's Notes" }}
         </h1>
-        {{/* 副標題顯示章節：Approaches */}}
         <div class="post-subtitle" style="font-size: 1.35rem; color: #9ca3af; font-weight: 500; border-bottom: 1px solid #38393a; padding-bottom: 1rem; margin-bottom: 1rem;">
             {{ .Params.title | default .Title }}
         </div>
@@ -78,28 +74,49 @@
 </main>
 
 <style>
-    /* 隱藏 Markdown 內文可能產生的 H1（防止副標題在內文又出現一次） */
     .post-content > h1:first-child { display: none !important; }
 
-    /* 全局內文排版與呼吸感 */
-    .post-content { font-size: 1.02rem; line-height: 1.7; color: #e5e7eb; }
+    .post-content { 
+        font-size: 1.02rem; 
+        line-height: 1.7; 
+        color: #e5e7eb; 
+        overflow-wrap: break-word;
+        word-break: break-word;
+    }
 
-    /* 美化 H2/H3 標題 */
     .post-content h2 { font-size: 1.4rem; color: #60a5fa; border-left: 4px solid #3a86ff; padding-left: 12px; margin-top: 2.2rem; margin-bottom: 1rem; font-weight: 600; }
     .post-content h3 { font-size: 1.2rem; color: #93c5fd; margin-top: 1.8rem; margin-bottom: 0.8rem; font-weight: 600; }
 
-    /* 列表與項目符號優化 */
     .post-content ul { list-style-type: disc; padding-left: 1.5rem; margin-bottom: 1.2rem; }
     .post-content li { margin-bottom: 0.5rem; line-height: 1.6; }
 
-    /* 表格質感優化 */
-    .post-content table { width: 100%; border-collapse: collapse; margin: 1.8rem 0; font-size: 0.95rem; background-color: #242526; border-radius: 8px; overflow: hidden; border: 1px solid #38393a; }
-    .post-content th, .post-content td { padding: 12px 16px; text-align: left; border-bottom: 1px solid #38393a; color: #e5e7eb; }
+    /* 📱 手機響應式表格優化：自動支援左右滑動，防止畫面撐破 */
+    .post-content table { 
+        display: block;
+        width: 100%;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        border-collapse: collapse; 
+        margin: 1.8rem 0; 
+        font-size: 0.95rem; 
+        background-color: #242526; 
+        border-radius: 8px; 
+        border: 1px solid #38393a; 
+    }
+    
+    .post-content th, .post-content td { 
+        padding: 12px 16px; 
+        text-align: left; 
+        border-bottom: 1px solid #38393a; 
+        color: #e5e7eb; 
+        white-space: nowrap; /* 防止手機上文字過度擠壓換行 */
+    }
+    
     .post-content th { background-color: #2a2b2c; color: #3a86ff; font-weight: bold; }
     .post-content tr:last-child td { border-bottom: none; }
     .post-content tr:hover { background-color: #2a2b2c; }
 
-    /* ✨ Huppert 專屬：自動產生的引用卡片與重點標題樣式 */
+    /* Huppert 專屬文獻卡片 */
     .huppert-ref-card {
         font-size: 0.85rem;
         color: #9ca3af;
@@ -110,6 +127,7 @@
         border-left: 3px solid #6b7280;
         line-height: 1.5;
         display: block;
+        overflow-x: auto;
     }
     .huppert-key-title {
         font-size: 1.15rem;
@@ -119,11 +137,16 @@
         margin-bottom: 8px;
         display: block;
     }
+
+    /* 手機版窄螢幕微調 */
+    @media screen and (max-width: 768px) {
+        .post-single { padding: 0 4px; }
+        .post-content th, .post-content td { padding: 10px 12px; font-size: 0.88rem; }
+    }
 </style>
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-    // 智慧比對：移除內文重複打架的標題
     var contentHeadings = document.querySelectorAll('.post-content h1, .post-content h2');
     if (contentHeadings.length > 0) {
         var firstHeading = contentHeadings[0];
@@ -133,21 +156,14 @@ document.addEventListener("DOMContentLoaded", function() {
         }
     }
 
-    // ✨ 網頁魔法：自動美化 Huppert 醜醜的複製文字
     document.querySelectorAll('.post-content li, .post-content p').forEach(function(el) {
         var html = el.innerHTML;
-        // 如果這段文字包含 Huppert 原文書的落落長名稱
         if (html.includes("Huppert") && html.includes("Chapter")) {
-            
-            // 1. 把落落長的書名變成精緻的深灰色文獻小卡片
             html = html.replace(/(Huppert[’'‘]s Notes: Pathophysiology and Clinical Pearls.*?(?:Chapter \d+:?[^A-Z]*[A-Za-z\s]+))/, '<div class="huppert-ref-card">📖 $1</div>');
-            
-            // 2. 把 "KEY TERMS AND DEFINITIONS" 變成顯眼的大標題，並且強制斷行
             html = html.replace(/KEY TERMS AND DEFINITIONS/g, '<div class="huppert-key-title">KEY TERMS AND DEFINITIONS</div>');
-            
             el.innerHTML = html;
         }
     });
 });
 </script>
-{{ end }}
+{{ end }}}
