@@ -1,1 +1,6 @@
 # tintinalli-notes
+
+
+git add .
+git commit -m "Add GitHub Pages deployment workflow"
+git push origin main
